@@ -1,0 +1,9 @@
+copy scores from C:\Users\heiner\AppData\LocalLow\srylain Inc_\Clone Hero to .\scores
+C:\Users\heiner\Documents\Clone Hero .\userdata
+
+copy .\userdataD:\portableApps\Clone Hero\PlayerData
+copy .\scores to D:\portableApps\Clone Hero\GameData
+
+
+
+git clone https://github.com/floozie/Clone_Hero.git
