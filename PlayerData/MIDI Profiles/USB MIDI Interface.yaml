@@ -1,0 +1,24 @@
+DeviceName: USB MIDI Interface
+Mappings:
+  Red Pad: []
+  Yellow Pad: []
+  Blue Pad: []
+  Green Pad: []
+  Kick Pad:
+  - NoteNumber: 34
+    Velocity: 10
+    OverHitThreshold: 0
+  Yellow Cymbal:
+  - NoteNumber: 8
+    Velocity: 10
+    OverHitThreshold: 0
+  Blue Cymbal:
+  - NoteNumber: 16
+    Velocity: 10
+    OverHitThreshold: 0
+  Green Cymbal:
+  - NoteNumber: 32
+    Velocity: 10
+    OverHitThreshold: 0
+  Start: []
+  Select: []

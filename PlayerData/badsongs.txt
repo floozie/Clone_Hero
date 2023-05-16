@@ -1,0 +1,572 @@
+Warning: These folders contain lyrics that are not valid UTF-8, and may display missing or incorrect characters in-game.
+e:\clone_hero\playerdata\songs\rock band 2\talking heads - psycho killer
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\rise against - death blossoms
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\m-clan - carolina
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\loquillo y los trogloditas - cadillac solitario (live)
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\les rita mitsouko - c'est comme ca
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\housse de racket - oh yeah!
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\finley - adrenalina
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\die toten hosen - hier kommt alex
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\a day to remember - nj legion iced tea
+
+Warning: These folders contain lyrics that do not have matching vocal note events, and have fallen back to non validated parsing.
+This warning has no effect on charts currently, but they will not work properly in the future when/if vocals support is pursued.
+e:\clone_hero\clone hero_data\streamingassets\songs\no known suspects.sng
+e:\clone_hero\clone hero_data\streamingassets\songs\troopers of the stars.sng
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\zz top - gimme all your lovin'
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\wolfmother - dimension
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\within temptation - what have you done
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\wings - junior's farm
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\wings - jet
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\wings - hi hi hi
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\unearth - grave of opportunity
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\the vines - outtathaway!
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\the sleeping - bomb the world
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\the raconteurs - salute your solution
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\the raconteurs - hold up
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\the raconteurs - consoler of the lonely
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\the killers - mr. brightside
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\the devil wears prada - dez moines
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\sworn - electro rock
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\steely dan - black friday
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\sportfreunde stiller - 54, 74, 90, 2010
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\smashing pumpkins - g.l.o.w
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\slightly stoopid - jimi
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\silverstein - i am the arsonist
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\senses fail - the martyr
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\rise against - ready to fall
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\rise against - death blossoms
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\rick springfield - jessie's girl
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\rascal flatts - me and my gang
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\ram jam - black betty
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\queen - fat bottomed girls
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\protest the hero - bloodmeat
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\pixies - the sad punk
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\pixies - monkey gone to heaven
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\pixies - debaser
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\pink - so what
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\phish - sample in a jar (live)
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\pepper - your face
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\oasis - waiting for the rapture
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\oasis - get off your high horse lady
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\oasis - bag it up
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\nirvana - stay away
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\nirvana - negative creep
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\nickelback - because of you
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\negrita - mama maè‏
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\motörhead - love me like a reptile
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\motörhead - jailbait
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\m-clan - carolina
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\loquillo y los trogloditas - cadillac solitario (live)
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\les rita mitsouko - c'est comme ca
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\jimi hendrix - little wing
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\jimi hendrix - if 6 was 9
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\jimi hendrix - freedom
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\jimi hendrix - foxy lady (live at woodstock)
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\jimi hendrix - fire (live at woodstock)
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\jimi hendrix - angel
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\in flames - disconnected
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\housse de racket - oh yeah!
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\hinder - use me
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\flo rida ft. t-pain - low (travis barker remix)
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\finley - adrenalina
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\eagles of death metal - i only want you
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\eagles of death metal - cherry cola
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\eagles of death metal - anything 'cept the truth
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\eagles - life in the fast lane
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\dropkick murphys - i'm shipping up to boston
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\cody chesnutt - look good in leather
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\chimaira - on broken glass
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\bruce springsteen - my lucky day
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\bruce springsteen - born to run
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\brooks & dunn - hillbilly deluxe
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\brad paisley - ticks
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\bob seger & the silver bullet band - old time rock and roll
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\bob seger & the silver bullet band - her strut
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\blind melon - no rain
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\ben harper and relentless7 - number with no name
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\backyard babies - degenerated
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\awaken - the silence is deafening
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\alexisonfire - young cardinals
+e:\clone_hero\playerdata\songs\guitar hero world tour dlc\a day to remember - nj legion iced tea
+e:\clone_hero\playerdata\songs\guitar hero world tour\willie nelson - on the road again (live)
+e:\clone_hero\playerdata\songs\guitar hero world tour\van halen - hot for teacher
+e:\clone_hero\playerdata\songs\guitar hero world tour\trust - antisocial
+e:\clone_hero\playerdata\songs\guitar hero world tour\tool - vicarious
+e:\clone_hero\playerdata\songs\guitar hero world tour\the stone roses - love spreads
+e:\clone_hero\playerdata\songs\guitar hero world tour\the sex pistols - pretty vacant
+e:\clone_hero\playerdata\songs\guitar hero world tour\the police - demolition man (live)
+e:\clone_hero\playerdata\songs\guitar hero world tour\the living end - prisoner of society
+e:\clone_hero\playerdata\songs\guitar hero world tour\the jimi hendrix experience - purple haze (live)
+e:\clone_hero\playerdata\songs\guitar hero world tour\the guess who - american woman
+e:\clone_hero\playerdata\songs\guitar hero world tour\the cult - love removal machine
+e:\clone_hero\playerdata\songs\guitar hero world tour\the answer - never too late
+e:\clone_hero\playerdata\songs\guitar hero world tour\system of a down - b.y.o.b
+e:\clone_hero\playerdata\songs\guitar hero world tour\sublime - santeria
+e:\clone_hero\playerdata\songs\guitar hero world tour\stuck in the sound - toy boy
+e:\clone_hero\playerdata\songs\guitar hero world tour\radio futura - escuela de calor
+e:\clone_hero\playerdata\songs\guitar hero world tour\paramore - misery business
+e:\clone_hero\playerdata\songs\guitar hero world tour\ozzy osbourne - crazy train
+e:\clone_hero\playerdata\songs\guitar hero world tour\motörhead - overkill
+e:\clone_hero\playerdata\songs\guitar hero world tour\modest mouse - float on
+e:\clone_hero\playerdata\songs\guitar hero world tour\mc5's wayne kramer - kick out the jams
+e:\clone_hero\playerdata\songs\guitar hero world tour\lynyrd skynyrd - sweet home alabama (live)
+e:\clone_hero\playerdata\songs\guitar hero world tour\lenny kravitz - are you gonna go my way
+e:\clone_hero\playerdata\songs\guitar hero world tour\korn - freak on a leash
+e:\clone_hero\playerdata\songs\guitar hero world tour\joe satriani - satch boogie
+e:\clone_hero\playerdata\songs\guitar hero world tour\jimmy eat world - the middle
+e:\clone_hero\playerdata\songs\guitar hero world tour\jane's addiction - mountain song
+e:\clone_hero\playerdata\songs\guitar hero world tour\eagles - hotel california
+e:\clone_hero\playerdata\songs\guitar hero world tour\bullet for my valentine - scream aim fire
+e:\clone_hero\playerdata\songs\guitar hero world tour\bon jovi - livin' on a prayer
+e:\clone_hero\playerdata\songs\guitar hero world tour\bob seger & the silver bullet band - hollywood nights
+e:\clone_hero\playerdata\songs\guitar hero world tour\billy idol - rebel yell
+e:\clone_hero\playerdata\songs\guitar hero world tour\beastie boys ft. kerry king - no sleep till brooklyn
+e:\clone_hero\playerdata\songs\guitar hero world tour\at the drive-in - one armed scissor
+e:\clone_hero\playerdata\songs\guitar hero world tour\anouk - good god
+e:\clone_hero\playerdata\songs\guitar hero world tour\30 seconds to mars - the kill
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\trapt - headstrong
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\the used - buried myself alive
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\the rocky horror picture show - time warp
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\the rocky horror picture show - sweet transvestite
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\the rocky horror picture show - hot patootie
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\the damned things - we've got a situation here
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\tesla - love song
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - spoonman
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - outshined
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - my wave
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - hunted down
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - hands all over
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - fell on black days
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - burden in my hand
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - blow up the outside world
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - birth ritual
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\snow patrol - hands open
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\slash (with iggy pop) - we're all gonna die
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\saliva - always
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\rush - tom sawyer
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\rush - red barchetta
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\queens of the stone age - little sister
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\poison - talk dirty to me
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\nine inch nails - head like a hole
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\nine inch nails - closer
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\my chemical romance - teenagers
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\my chemical romance - na na na
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\my chemical romance - helena
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\my chemical romance - bulletproof heart
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\muse - supermassive black hole
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\muse - resistance
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\middle class rut - new low
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\matchbox twenty - real world
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\marilyn manson - tourniquet
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\marilyn manson - get your gunn
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\marilyn manson - coma white
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\madina lake - hey superstar
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\linkin park - wretches and kings
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\linkin park - waiting for the end
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\linkin park - the messenger
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\linkin park - burning in the skies
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\linkin park - blackout
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\kiss - rock and roll all nite
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\kiss - detroit rock city
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\kiss - calling dr. love
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\jet - she's a genius
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\goo goo dolls - name
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\firewind - world on fire
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\darkest hour - savor the kill
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\darkest hour - doomsayer
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\darkest hour - beyond the life you know
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\children of bodom - was it worth it
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\children of bodom - living dead beat
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\children of bodom - blooddrunk
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\brand new - sic transit gloria... glory fades
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\alice cooper - poison
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\alice cooper - elected
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\a day to remember - the downfall of us all
+e:\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\a day to remember - 2nd sucks
+e:\clone_hero\playerdata\songs\guitar hero van halen\weezer - dope nose
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - you really got me
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - unchained
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - somebody get me a doctor
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - so this is love
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - runnin_ with the devil
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - romeo delight
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - panama
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - mean street
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - loss of control
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - jump
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - jamie_s cryin_
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - i_m the one
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - intruder (oh) pretty woman
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - ice cream man
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - hot for teacher
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - hear about it later
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - hang _em high
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - feel your love tonight
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - everybody wants some!!
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - dance the night away
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - beautiful girls
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - atomic punk
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - and the cradle will rock
+e:\clone_hero\playerdata\songs\guitar hero van halen\van halen - ain_t talkin_ _bout love
+e:\clone_hero\playerdata\songs\guitar hero van halen\third eye blind - semi-charmed life
+e:\clone_hero\playerdata\songs\guitar hero van halen\the offspring - pretty fly (for a white guy)
+e:\clone_hero\playerdata\songs\guitar hero van halen\the clash - safe european home
+e:\clone_hero\playerdata\songs\guitar hero van halen\tenacious d - master exploder
+e:\clone_hero\playerdata\songs\guitar hero van halen\queens of the stone age - sick, sick, sick
+e:\clone_hero\playerdata\songs\guitar hero van halen\queen - i want it all
+e:\clone_hero\playerdata\songs\guitar hero van halen\killswitch engage - the end of heartache
+e:\clone_hero\playerdata\songs\guitar hero van halen\judas priest - painkiller
+e:\clone_hero\playerdata\songs\guitar hero van halen\jimmy eat world - pain
+e:\clone_hero\playerdata\songs\guitar hero van halen\fountains of wayne - stacy_s mom
+e:\clone_hero\playerdata\songs\guitar hero van halen\foo fighters - best of you
+e:\clone_hero\playerdata\songs\guitar hero van halen\billy idol - white wedding (part 1)
+e:\clone_hero\playerdata\songs\guitar hero van halen\alter bridge - come to life
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\yeah yeah yeahs - dull life
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\wolfmother - pilgrim
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\wolfmother - cosmic egg
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\weezer - pork and beans
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\weezer - island in the sun
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\weezer - beverly hills
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\vampire weekend - the kids don't stand a chance
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\vampire weekend - holiday
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\vampire weekend - cousins
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\tyler bryant - who i am
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\third eye blind - never let you go
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\third eye blind - losing a whole year
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\third eye blind - can you take me
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\the used - the taste of ink
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\the used - the bird and the worm
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\the used - pretty handsome awkward
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\the rolling stones - you gotta move (live)
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\the rolling stones - under my thumb (live)
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\the rolling stones - prodigal son (live)
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\the rolling stones - i'm free (live)
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\the rolling stones - (i can't get no) satisfaction (live)
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\the j. geils band - freeze frame
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\the go-go's - we got the beat
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\the fall of troy - panic attack!
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\street sweeper social club - somewhere in the world it's midnight
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\street sweeper social club - fight! smash! win!
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\street sweeper social club - 100 little curses
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\stone temple pilots - plush
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\stone temple pilots - between the lines
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\steve miller band - take the money and run
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\spoon - sister jack
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\snow patrol - you're all i have
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\shinedown - sound of madness
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\shinedown - devour
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\shadow falls - still i rise
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\queen - somebody to love
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\queen - killer queen
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\queen - crazy little thing called love
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\phoenix - lisztomania
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\phoenix - everything is everything
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\phoenix - 1901
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\pavement - cut your hair
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\papa roach - last resort
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\orgy - blue monday
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\onerepublic - everybody loves me
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\onerepublic - all the right moves
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\ok go - here it goes again
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\ok go - get over it
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\ok go - do what you want
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\no doubt - new
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\night ranger - sister christian
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\nancy fullforce - rocknrola
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\mötley crüe - girls girls girls
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\megadeth - symphony of destruction
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\megadeth - peace sells
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\megadeth - hangar 18
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\marilyn manson - the dope show
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\marilyn manson - the beautiful people
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\lynyrd skynyrd - sweet home alabama (live)
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\lynyrd skynyrd - simple man
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\lynyrd skynyrd - gimme three steps
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\lynyrd skynyrd - free bird
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\limp bizkit - nookie
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\lenny kravitz - let love rule
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\lenny kravitz - lady
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\lenny kravitz - fly away
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\kiss - modern day delilah
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\kiss - lick it up
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\kiss - i was made for lovin' you
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\gwar - gor-gor
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\godsmack - i stand alone
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\foreigner - jukebox hero
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\flogging molly - the seven deadly sins
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\flogging molly - requiem for a dying song
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\faith no more - epic
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\dom liberati - love holds it down
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\disturbed - stricken
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\disturbed - indestructible
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\disturbed - down with the sickness
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\dethklok - laser cannon deth sentence
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\davidicus - you really like me
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\creedence clearwater revival - travelin' band
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\capra - low day
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\bunny knutson - lemon frosting
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\breaking benjamin - until the end
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\billy squier - the stroke
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\billy squier - everybody wants you
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\avenged sevenfold - scream
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\avenged sevenfold - almost easy
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\avenged sevenfold - afterlife
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\amon amarth - twilight of the thunder god
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\alpha rev - face down
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\all time low - weightless
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\all time low - dear maria, count me in
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\all time low - damned if i do ya (damned if i don't) (live)
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\alice cooper - welcome to my nightmare
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\alice cooper - school's out
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\afi - beautiful thieves
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\aerosmith - rag doll
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\aerosmith - love in an elevator
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\aerosmith - livin' on the edge
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\30 seconds to mars - kings and queens
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\30 seconds to mars - from yesterday
+e:\clone_hero\playerdata\songs\guitar hero 5 dlc\30 seconds to mars - attack
+e:\clone_hero\playerdata\songs\guitar hero 5\wolfmother - back round
+e:\clone_hero\playerdata\songs\guitar hero 5\wild cherry - play that funky music
+e:\clone_hero\playerdata\songs\guitar hero 5\weezer - why bother
+e:\clone_hero\playerdata\songs\guitar hero 5\vampire weekend - a-punk
+e:\clone_hero\playerdata\songs\guitar hero 5\tom petty - runnin' down a dream
+e:\clone_hero\playerdata\songs\guitar hero 5\tom petty & the heartbreakers - american girl
+e:\clone_hero\playerdata\songs\guitar hero 5\thrice - deadbolt
+e:\clone_hero\playerdata\songs\guitar hero 5\thin lizzy - jailbreak
+e:\clone_hero\playerdata\songs\guitar hero 5\the white stripes - blue orchid
+e:\clone_hero\playerdata\songs\guitar hero 5\the rolling stones - sympathy for the devil
+e:\clone_hero\playerdata\songs\guitar hero 5\the police - so lonely
+e:\clone_hero\playerdata\songs\guitar hero 5\the killers - all the pretty faces
+e:\clone_hero\playerdata\songs\guitar hero 5\the bronx - six days a week
+e:\clone_hero\playerdata\songs\guitar hero 5\t. rex - 20th century boy
+e:\clone_hero\playerdata\songs\guitar hero 5\stevie wonder - superstition
+e:\clone_hero\playerdata\songs\guitar hero 5\rush - the spirit of radio (live)
+e:\clone_hero\playerdata\songs\guitar hero 5\rose hill drive - sneak out
+e:\clone_hero\playerdata\songs\guitar hero 5\rammstein - du hast
+e:\clone_hero\playerdata\songs\guitar hero 5\queens of the stone age - make it wit chu
+e:\clone_hero\playerdata\songs\guitar hero 5\public enemy featuring zakk wylde - bring the noise 20xx
+e:\clone_hero\playerdata\songs\guitar hero 5\peter frampton - do you feel like we do (live)
+e:\clone_hero\playerdata\songs\guitar hero 5\no doubt - ex-girlfriend
+e:\clone_hero\playerdata\songs\guitar hero 5\nirvana - lithium (live)
+e:\clone_hero\playerdata\songs\guitar hero 5\mötley crüe - looks that kill
+e:\clone_hero\playerdata\songs\guitar hero 5\my morning jacket - one big holiday
+e:\clone_hero\playerdata\songs\guitar hero 5\megadeth - sweating bullets
+e:\clone_hero\playerdata\songs\guitar hero 5\love and rockets - mirror people
+e:\clone_hero\playerdata\songs\guitar hero 5\kings of leon - sex on fire
+e:\clone_hero\playerdata\songs\guitar hero 5\king crimson - 21st century schizoid man
+e:\clone_hero\playerdata\songs\guitar hero 5\john mellencamp - hurts so good
+e:\clone_hero\playerdata\songs\guitar hero 5\jimmy eat world - bleed american
+e:\clone_hero\playerdata\songs\guitar hero 5\iron maiden - 2 minutes to midnight
+e:\clone_hero\playerdata\songs\guitar hero 5\iggy pop - lust for life (live)
+e:\clone_hero\playerdata\songs\guitar hero 5\grand funk railroad - we're an american band
+e:\clone_hero\playerdata\songs\guitar hero 5\gov't mule - streamline woman
+e:\clone_hero\playerdata\songs\guitar hero 5\gorillaz - feel good inc
+e:\clone_hero\playerdata\songs\guitar hero 5\eagles of death metal - wannabe in la
+e:\clone_hero\playerdata\songs\guitar hero 5\duran duran - hungry like the wolf
+e:\clone_hero\playerdata\songs\guitar hero 5\dire straits - sultans of swing
+e:\clone_hero\playerdata\songs\guitar hero 5\deep purple - woman from tokyo ('99 remix)
+e:\clone_hero\playerdata\songs\guitar hero 5\darkest hour - demon(s)
+e:\clone_hero\playerdata\songs\guitar hero 5\children of bodom - done with everything, die for nothing
+e:\clone_hero\playerdata\songs\guitar hero 5\bush - comedown
+e:\clone_hero\playerdata\songs\guitar hero 5\brand new - sowing season (yeah)
+e:\clone_hero\playerdata\songs\guitar hero 5\blur - song 2
+e:\clone_hero\playerdata\songs\guitar hero 5\billy squier - lonely is the night
+e:\clone_hero\playerdata\songs\guitar hero 5\billy idol - dancing with myself
+e:\clone_hero\playerdata\songs\guitar hero 5\beastie boys - gratitude
+e:\clone_hero\playerdata\songs\guitar hero 5\attack! attack! - you and me
+e:\clone_hero\playerdata\songs\guitar hero 5\afi - medicate
+e:\clone_hero\playerdata\songs\guitar hero 5\a perfect circle - judith
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\zz top - sharp dressed man (live)
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\twisted sister - we're not gonna take it
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\tom petty & the heartbreakers - listen to her heart
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\third eye blind - graduate
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\them crooked vultures - scumbag blues
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\the vines - get free
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\the runaways - cherry bomb
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\the rolling stones - stray cat blues
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\the ramones - theme from spiderman
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\the offspring - self esteem
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\the hives - tick tick boom
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\the dillinger escape plan - setting fire to sleeping giants
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\the cure - fascination street
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\tesla - modern day cowboy
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\styx - renegade
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\strung out - calling
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\snot - deadfall
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\slipknot - psychosocial
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\slayer - chemical warfare
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\rush - 2112 pt. 7 grand finale
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\rush - 2112 pt. 3 discovery
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\rise against - savior
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\rammstein - waidmanns heil
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\r.e.m. - losing my religion
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\queensryche - jet city woman
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\phoenix - lasso
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\pantera - i'm broken
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\orianthi - suffocated
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\nine inch nails - wish
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\nickelback - how you remind me
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\my chemical romance - i'm not okay (i promise)
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\muse - uprising
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\metallica & ozzy osbourne - paranoid (live)
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\megadeth - this day we fight!
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\megadeth - holy wars... the punishment due
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\lynyrd skynyrd - call me the breeze (live)
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\linkin park - bleed it out
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\jethro tull - aqualung
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\jane's addiction - been caught stealing
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\george thorogood & the destroyers - move it on over (live)
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\foreigner - feels like the first time
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\flyleaf - again
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\five finger death punch - hard to see
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\fall out boy - dance, dance
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\drowning pool - bodies
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\dire straits - money for nothing
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\dethklok - bloodlines
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\def leppard - pour some sugar on me (live)
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\children of bodom - if you want peace... prepare for war
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\buzzcocks - what do i get
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\bush - machinehead
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\blind melon - tones of home
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\band of skulls - i know what i am
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\bad brains - re-ignition (live)
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\avenged sevenfold - bat country
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\atreyu - ravenous
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\arch enemy - nemesis
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\anthrax - indians
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\anberlin - the feel good drag
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\alice cooper - no more mr. nice guy
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\afi - dancing through sunday
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\aerosmith - cryin'
+e:\clone_hero\playerdata\songs\guitar hero - warriors of rock\a perfect circle - the outsider
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\wolfmother - woman
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\white zombie - thunder kiss '65
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\warrant - cherry pie
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\twisted sister - i wanna rock
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\the sword - freya
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\the reverend horton heat - psychobilly freakout
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\the police - message in a bottle
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\the exies - hey you
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\the donnas - take it off
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\stone temple pilots - trippin' on a hole in a paper heart
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\slayer - raining blood
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\ratt - round and round
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\rage against the machine - killing in the name
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\queens of the stone age - no one knows
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\queen - killer queen
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\priestess - lay down
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\poison - nothin' but a good time
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\pat benetar - hit me with your best shot
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\pantera - cowboys from hell
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\ozzy osbourne - bark at the moon
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\motley crue - shout at the devil
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\lynyrd skynyrd - free bird
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\living colour - cult of personality
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\lamb of god - laid to rest
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\kiss - rock and roll all nite
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\kansas - carry on wayward son
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\judas priest - electric eye
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\joan jett and the blackhearts - i love rock and roll
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\jane's addiction - stop!
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\incubus - stellar
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\heart - barracuda
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\franz ferdinand - take me out
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\foo fighters - monkey wrench
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\extreme - play with me
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\extras\kiss - rock and roll all nite ft steve ouimette
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\deep purple - smoke on the water
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\danzig - mother
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\boston - more than a feeling
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\blue oyster cult - godzilla
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\avenged sevenfold - beast and the harlot
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\anthrax - caught in a mosh
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\alice in chains - them bones
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\afi - miss murder
+e:\clone_hero\playerdata\songs\guitar hero - smash hits\aerosmith - back in the saddle
+e:\clone_hero\playerdata\songs\guitar hero - metallica dlc\the judas kiss
+e:\clone_hero\playerdata\songs\guitar hero - metallica dlc\the end of the line
+e:\clone_hero\playerdata\songs\guitar hero - metallica dlc\the day that never comes
+e:\clone_hero\playerdata\songs\guitar hero - metallica dlc\that was just your life
+e:\clone_hero\playerdata\songs\guitar hero - metallica dlc\my apocalypse
+e:\clone_hero\playerdata\songs\guitar hero - metallica dlc\cyanide
+e:\clone_hero\playerdata\songs\guitar hero - metallica\thin lizzy - the boys are back in town
+e:\clone_hero\playerdata\songs\guitar hero - metallica\suicidal tendencies - war inside my head
+e:\clone_hero\playerdata\songs\guitar hero - metallica\slayer - war ensemble
+e:\clone_hero\playerdata\songs\guitar hero - metallica\samhain - mother of mercy
+e:\clone_hero\playerdata\songs\guitar hero - metallica\queen - stone cold crazy
+e:\clone_hero\playerdata\songs\guitar hero - metallica\motörhead - ace of spades
+e:\clone_hero\playerdata\songs\guitar hero - metallica\michael schenker group - armed and ready
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - whiplash
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - wherever i may roam
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - welcome home (sanitarium)
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - the shortest straw
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - the memory remains
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - seek and destroy
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - sad but true
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - nothing else matters
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - no leaf clover
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - mercyful fate
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - master of puppets
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - king nothing
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - hit the lights
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - fuel
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - frantic
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - fight fire with fire
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - enter sandman
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - disposable heroes
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - creeping death
+e:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - all nightmare long
+e:\clone_hero\playerdata\songs\guitar hero - metallica\mastodon - blood and thunder
+e:\clone_hero\playerdata\songs\guitar hero - metallica\machine head - beautiful mourning
+e:\clone_hero\playerdata\songs\guitar hero - metallica\lynyrd skynyrd - tuesday's gone
+e:\clone_hero\playerdata\songs\guitar hero - metallica\judas priest - hell bent for leather
+e:\clone_hero\playerdata\songs\guitar hero - metallica\foo fighters - stacked actors
+e:\clone_hero\playerdata\songs\guitar hero - metallica\diamond head - am i evil
+e:\clone_hero\playerdata\songs\guitar hero - metallica\corrosion of conformity - albatross
+e:\clone_hero\playerdata\songs\band hero\village people - ymca
+e:\clone_hero\playerdata\songs\band hero\tonic - if you could only see
+e:\clone_hero\playerdata\songs\band hero\the turtles - happy together
+e:\clone_hero\playerdata\songs\band hero\the rolling stones - honky tonk women
+e:\clone_hero\playerdata\songs\band hero\the mighty mighty bosstones - the impression that i get
+e:\clone_hero\playerdata\songs\band hero\the kooks - naive
+e:\clone_hero\playerdata\songs\band hero\the airborne toxic event - gasoline
+e:\clone_hero\playerdata\songs\band hero\taylor swift - you belong with me
+e:\clone_hero\playerdata\songs\band hero\taylor swift - picture to burn
+e:\clone_hero\playerdata\songs\band hero\styx - mr roboto
+e:\clone_hero\playerdata\songs\band hero\spice girls - wannabe
+e:\clone_hero\playerdata\songs\band hero\roy orbison - oh pretty woman
+e:\clone_hero\playerdata\songs\band hero\robbie williams and kylie minogue - kids
+e:\clone_hero\playerdata\songs\band hero\poison - every rose has its thorn
+e:\clone_hero\playerdata\songs\band hero\pat benatar - love is a battlefield
+e:\clone_hero\playerdata\songs\band hero\paracute - back again
+e:\clone_hero\playerdata\songs\band hero\no doubt - just a girl
+e:\clone_hero\playerdata\songs\band hero\nerd - rock star
+e:\clone_hero\playerdata\songs\band hero\nelly furtado - turn off the light
+e:\clone_hero\playerdata\songs\band hero\kt tunstall - black horse and the cherry tree
+e:\clone_hero\playerdata\songs\band hero\katrina and the waves - walking on sunshine
+e:\clone_hero\playerdata\songs\band hero\joan jett - bad reputation
+e:\clone_hero\playerdata\songs\band hero\janet jackson - black cat
+e:\clone_hero\playerdata\songs\band hero\jackson 5 - abc
+e:\clone_hero\playerdata\songs\band hero\hilary duff - so yesterday
+e:\clone_hero\playerdata\songs\band hero\finger eleven - paralyzer
+e:\clone_hero\playerdata\songs\band hero\evanescence - bring me to life
+e:\clone_hero\playerdata\songs\band hero\duran duran - rio
+e:\clone_hero\playerdata\songs\band hero\devo - whip it
+e:\clone_hero\playerdata\songs\band hero\david bowie - let's dance
+e:\clone_hero\playerdata\songs\band hero\dashboard confessional - hands down
+e:\clone_hero\playerdata\songs\band hero\counting crows - angels of the sliences
+e:\clone_hero\playerdata\songs\band hero\cheap trick - i want you to want me (live)
+e:\clone_hero\playerdata\songs\band hero\carl douglas - kung fu fighting
+e:\clone_hero\playerdata\songs\band hero\big country - in a big country
+e:\clone_hero\playerdata\songs\band hero\ben harper and the innocent criminals - steal my kisses
+e:\clone_hero\playerdata\songs\band hero\angels & airwaves - the adventure
+e:\clone_hero\playerdata\songs\band hero\aly & aj - like whoa
+e:\clone_hero\playerdata\songs\band hero\alphabeat - fascination
+
+ERROR: These folders contain charts that another song has (duplicate charts)!
+e:\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\nirvana - heart-shaped box - 4 ch test (e:\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\nirvana - heart-shaped box)
+e:\clone_hero\playerdata\songs\misc rips\guitar hero ii official playstation magazine demo\kiss - strutter (e:\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\kiss - strutter)
+
+ERROR: These folders contain charts that don't have any supported instruments charted!
+e:\clone_hero\playerdata\songs\green day rock band\green day - song of the century
