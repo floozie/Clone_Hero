@@ -1,0 +1,667 @@
+Log ID: -1240602541
+ 
+----Info----
+Game Version: v1.0.0.4080-final
+Operating System: Windows 11  (10.0.22621) 64bit
+CPU: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz, Count: 8, Frequency: 3302 MHz
+GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU, Driver Version: Direct3D 11.0 [level 11.1], VRAM: 3993 MBs
+RAM: 16218 MBs
+Renderer: Direct3D11
+------------
+ 
+[Log] Logged into USG
+[Log] PlayerID: OCbjesmOUdRa40CDlhjnFbzRFJ6g
+[Log] Remote config ready!
+[Log] Bass: 2.4.16.7 BassFx: 2.4.12.6 BassMix: 2.4.11.1
+[Log] WASAPI
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Starting video thumbs
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\A Normal Day in an Abnormal World by Faxdoc.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Amazon by AnasAbdin.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Aurora by AnasAbdin.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Aurora 1.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Aurora 2.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Fight 1.mp4
+[Log] [2023-04-19T13:20:56.399+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config C:\Users\heiner\Documents\Clone Hero\Custom\Colors\DefaultColors.ini
+[Log] Biology
+[Log] Coalescence & Segmentation
+[Log] Combat Mosh
+[Log] Crumbling Castle
+[Log] Embrace
+[Log] Enact the Ending (2023 Redux)
+[Log] Flamewall
+[Log] Gone (feat. Rasmus Bom Andersen)
+[Log] Good Grief Retreat
+[Log] i ws nvr yr grlfrnd
+[Log] Moonhunter
+[Log] No Known Suspects
+[Log] Revenge
+[Log] Stigma
+[Log] Stop Saying We Sound Like Dragonforce
+[Log] The Palace of the Kantus
+[Log] Troopers of the Stars
+[Warning] <Missing i18n Resource>: StrikeLine Base Red :en
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Aurora 1.mp4 TempBuffer 4 2560x1440 (UnityEngine.RenderTexture)
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Aurora 2.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Aurora 1.mp4 TempBuffer 4 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Aurora 1.mp4 TempBuffer 4 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Aurora 1.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Aurora 2.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Aurora 2.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Aurora 2.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Amazon by AnasAbdin.mp4 TempBuffer 6 1920x1080 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Fight 2.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Amazon by AnasAbdin.mp4 TempBuffer 6 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Amazon by AnasAbdin.mp4 TempBuffer 6 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Amazon by AnasAbdin.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\A Normal Day in an Abnormal World by Faxdoc.mp4 TempBuffer 8 1920x1080 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Mad 1.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\A Normal Day in an Abnormal World by Faxdoc.mp4 TempBuffer 8 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\A Normal Day in an Abnormal World by Faxdoc.mp4 TempBuffer 8 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\A Normal Day in an Abnormal World by Faxdoc.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Aurora by AnasAbdin.mp4 TempBuffer 9 1920x1080 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Mad 2.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Aurora by AnasAbdin.mp4 TempBuffer 9 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Aurora by AnasAbdin.mp4 TempBuffer 9 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Aurora by AnasAbdin.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Cherry Blossom.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Fight 1.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Fight 1.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Fight 1.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Fight 1.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 1.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Fight 2.mp4 TempBuffer 10 2552x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Fight 2.mp4 TempBuffer 10 2552x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Fight 2.mp4 TempBuffer 10 2552x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Fight 2.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Mad 2.mp4 TempBuffer 11 2520x1440 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 2.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Mad 2.mp4 TempBuffer 11 2520x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Mad 2.mp4 TempBuffer 11 2520x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Mad 2.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Mad 1.mp4 TempBuffer 13 2528x1418 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 3.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Mad 1.mp4 TempBuffer 13 2528x1418 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Mad 1.mp4 TempBuffer 13 2528x1418 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Baddy Mad 1.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 4.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Cherry Blossom.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Cherry Blossom.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Cherry Blossom.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Cherry Blossom.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 2.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City Entrance.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 1.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 2.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 2.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 2.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Cold 1.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Hot 1.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 3.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 3.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 3.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 3.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 4.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Hot 2.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 4.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 4.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City 4.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Determination.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Cold 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Cold 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Cold 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Cold 1.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City Entrance.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Dream Monument.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City Entrance.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City Entrance.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste City Entrance.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Epilogue.mp4
+[Log] download source.txt
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Hot 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Hot 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Hot 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Hot 1.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Hot 2.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel 1.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Hot 2.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Hot 2.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Core Hot 2.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Door.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Determination.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Determination.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Determination.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Determination.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Laundry.mp4
+[Log] download source.txt finished
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Epilogue.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Dream Monument.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Epilogue.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Epilogue.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Epilogue.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Dream Monument.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Dream Monument.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Dream Monument.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Mess.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Internet Cafe.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel 1.mp4 TempBuffer 17 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel 1.mp4 TempBuffer 17 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel 1.mp4 TempBuffer 17 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel 1.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Intro.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Door.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Door.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Door.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Door.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Maddy Car.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Laundry.mp4 TempBuffer 17 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Laundry.mp4 TempBuffer 17 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Laundry.mp4 TempBuffer 17 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Laundry.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Mess.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Monument.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Mess.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Mess.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Hotel Mess.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Internet Cafe.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Moon Berry.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Internet Cafe.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Internet Cafe.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Internet Cafe.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Intro.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare 1.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Intro.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Intro.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Intro.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare 2.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Maddy Car.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Maddy Car.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Maddy Car.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Maddy Car.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare Theo Carry.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Monument.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Monument.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Monument.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Monument.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Phone.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare 1.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Reflection Resolution.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Moon Berry.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Moon Berry.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Moon Berry.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Moon Berry.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Reflection.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare Theo Carry.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare 2.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare Theo Carry.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare Theo Carry.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare Theo Carry.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare 2.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare 2.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Nightmare 2.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Remembrance.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Satellite.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Phone.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Phone.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Phone.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Phone.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Base 1.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Reflection Resolution.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Reflection Resolution.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Reflection Resolution.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Reflection Resolution.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Base 2.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Reflection.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Reflection.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Reflection.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Reflection.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Remembrance.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Castle.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Remembrance.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Remembrance.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Remembrance.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 1.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Satellite.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Satellite.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Satellite.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Satellite.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 2.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Base 1.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Base 1.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Base 1.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Base 1.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 3.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Castle.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Castle.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Castle.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Castle.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 4.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Base 2.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Base 2.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Base 2.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Base 2.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 5.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 1.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit End Screen.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 2.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 2.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 2.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 2.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Flag.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 3.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 3.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 3.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 3.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Hotel.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 4.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 4.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 4.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 4.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Sunrise.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 5.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 5.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 5.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit City 5.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 1.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit End Screen.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Hotel.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Flag.mp4 TempBuffer 18 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit End Screen.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit End Screen.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit End Screen.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Hotel.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Hotel.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Hotel.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Flag.mp4 TempBuffer 18 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Flag.mp4 TempBuffer 18 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Summit Flag.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 2.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 3.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple Mirror.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Sunrise.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Sunrise.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Sunrise.mp4 TempBuffer 16 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Sunrise.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\City Dusk.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 1.mp4 TempBuffer 15 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 1.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Deso's Pizza by Waneella.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 2.mp4 TempBuffer 18 2560x1440 (UnityEngine.RenderTexture)
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 3.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 2.mp4 TempBuffer 18 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 2.mp4 TempBuffer 18 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 2.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 3.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 3.mp4 TempBuffer 5 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple 3.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Drizzle Flow by AnasAbdin.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Eclipse by AnasAbdin.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple Mirror.mp4 TempBuffer 18 2560x1440 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple Mirror.mp4 TempBuffer 18 2560x1440 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple Mirror.mp4 TempBuffer 18 2560x1440 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Celeste Temple Mirror.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Fallen Leaves by AnasAbdin.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\City Dusk.mp4 TempBuffer 19 1920x1080 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\City Dusk.mp4 TempBuffer 19 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\City Dusk.mp4 TempBuffer 19 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\City Dusk.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Forest.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Drizzle Flow by AnasAbdin.mp4 TempBuffer 20 1920x1080 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Drizzle Flow by AnasAbdin.mp4 TempBuffer 20 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Drizzle Flow by AnasAbdin.mp4 TempBuffer 20 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Drizzle Flow by AnasAbdin.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Deso's Pizza by Waneella.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Huston Skyline by LennSan.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Deso's Pizza by Waneella.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Deso's Pizza by Waneella.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Deso's Pizza by Waneella.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Eclipse by AnasAbdin.mp4 TempBuffer 22 1920x1080 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\I Miss You by AnasAbdin.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Eclipse by AnasAbdin.mp4 TempBuffer 22 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Eclipse by AnasAbdin.mp4 TempBuffer 22 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Eclipse by AnasAbdin.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Japanese Garden by Lennsan.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Fallen Leaves by AnasAbdin.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Fallen Leaves by AnasAbdin.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Fallen Leaves by AnasAbdin.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Fallen Leaves by AnasAbdin.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Pocket Rumble by Waneella.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Forest.mp4 TempBuffer 20 1920x1080 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Forest.mp4 TempBuffer 20 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Forest.mp4 TempBuffer 20 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Forest.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Rainy Street from Peter Moorhead's Murder.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Huston Skyline by LennSan.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\I Miss You by AnasAbdin.mp4 TempBuffer 22 1920x1080 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Huston Skyline by LennSan.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Huston Skyline by LennSan.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Huston Skyline by LennSan.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\I Miss You by AnasAbdin.mp4 TempBuffer 22 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\I Miss You by AnasAbdin.mp4 TempBuffer 22 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\I Miss You by AnasAbdin.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sakura by Lennsan.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sci-Fi Rainy City.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Japanese Garden by Lennsan.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Japanese Garden by Lennsan.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Japanese Garden by Lennsan.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Japanese Garden by Lennsan.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Pocket Rumble by Waneella.mp4 TempBuffer 20 1920x1080 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Smoking Girl from va-11 hall-a.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Pocket Rumble by Waneella.mp4 TempBuffer 20 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Pocket Rumble by Waneella.mp4 TempBuffer 20 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Pocket Rumble by Waneella.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Space Background by _Plus.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Rainy Street from Peter Moorhead's Murder.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Rainy Street from Peter Moorhead's Murder.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Rainy Street from Peter Moorhead's Murder.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Rainy Street from Peter Moorhead's Murder.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sakura by Lennsan.mp4 TempBuffer 22 1920x1080 (UnityEngine.RenderTexture)
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sundog by AnasAbdin.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sakura by Lennsan.mp4 TempBuffer 22 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sakura by Lennsan.mp4 TempBuffer 22 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sakura by Lennsan.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sunset Fall by AnasAbdin.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Smoking Girl from va-11 hall-a.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sci-Fi Rainy City.mp4 TempBuffer 20 1920x1080 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Smoking Girl from va-11 hall-a.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Smoking Girl from va-11 hall-a.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Smoking Girl from va-11 hall-a.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sci-Fi Rainy City.mp4 TempBuffer 20 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sci-Fi Rainy City.mp4 TempBuffer 20 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sci-Fi Rainy City.mp4
+[Log] Loading C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Whenever there’s a chance, Cherry blossom girl by AnasAbdin.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sundog by AnasAbdin.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Space Background by _Plus.mp4 TempBuffer 22 1920x1080 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sundog by AnasAbdin.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sundog by AnasAbdin.mp4 TempBuffer 21 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sundog by AnasAbdin.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Space Background by _Plus.mp4 TempBuffer 22 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Space Background by _Plus.mp4 TempBuffer 22 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Space Background by _Plus.mp4
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sunset Fall by AnasAbdin.mp4 TempBuffer 23 1920x1080 (UnityEngine.RenderTexture)
+[Log] Queue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Whenever there’s a chance, Cherry blossom girl by AnasAbdin.mp4 TempBuffer 24 1920x1080 (UnityEngine.RenderTexture)
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sunset Fall by AnasAbdin.mp4 TempBuffer 23 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sunset Fall by AnasAbdin.mp4 TempBuffer 23 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Sunset Fall by AnasAbdin.mp4
+[Log] Dequeue C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Whenever there’s a chance, Cherry blossom girl by AnasAbdin.mp4 TempBuffer 24 1920x1080 (UnityEngine.RenderTexture)
+[Log] Process C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Whenever there’s a chance, Cherry blossom girl by AnasAbdin.mp4 TempBuffer 24 1920x1080 (UnityEngine.RenderTexture)
+[Warning] Requested RenderTexture with sRGB format. sRGB formats are not supported in gamma mode, fallback to a UNorm format. Use a UNorm format instead of sRGB to silence this warning.
+[Log] Return videoplayer C:\Users\heiner\Documents\Clone Hero\Custom\Video Backgrounds\Whenever there’s a chance, Cherry blossom girl by AnasAbdin.mp4
+[Warning] <Missing i18n Resource>: Players:en
+[Warning] <Missing i18n Resource>: Assigned Controllers:en
+[Warning] <Missing i18n Resource>: (auto)CymExt1:en
+[Warning] <Missing i18n Resource>: (auto)CymExt2:en
+[Warning] <Missing i18n Resource>: XInput GuitarAlternate 1:en
+[Warning] <Missing i18n Resource>: A:en
+[Warning] <Missing i18n Resource>: Green (A):en
+[Warning] <Missing i18n Resource>: S:en
+[Warning] <Missing i18n Resource>: Red (B):en
+[Warning] <Missing i18n Resource>: J:en
+[Warning] <Missing i18n Resource>: Yellow (Y):en
+[Warning] <Missing i18n Resource>: K:en
+[Warning] <Missing i18n Resource>: Blue (X):en
+[Warning] <Missing i18n Resource>: L:en
+[Warning] <Missing i18n Resource>: LB:en
+[Warning] <Missing i18n Resource>: Up Arrow:en
+[Warning] <Missing i18n Resource>: Strum Bar Up:en
+[Warning] <Missing i18n Resource>: H:en
+[Warning] <Missing i18n Resource>: Vertical Orientation:en
+[Warning] <Missing i18n Resource>: Space:en
+[Warning] <Missing i18n Resource>: Down Arrow:en
+[Warning] <Missing i18n Resource>: Strum Bar Down:en
+[Warning] <Missing i18n Resource>: Return:en
+[Warning] <Missing i18n Resource>: Whammy Bar:en
+[Warning] <Missing i18n Resource>: RB:en
+[Warning] <Missing i18n Resource>: ;:en
+[Warning] <Missing i18n Resource>: Right Arrow:en
+[Warning] <Missing i18n Resource>: D-Pad Right:en
+[Warning] <Missing i18n Resource>: Left Arrow:en
+[Warning] <Missing i18n Resource>: D-Pad Left:en
+[Log] Loading Song: Ray Parker Jr. - Ghostbusters
+[Log] Returned missing glyphs are correct.
+[Warning] <Missing i18n Resource>: Current Section::en
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file

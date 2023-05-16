@@ -1,0 +1,75 @@
+Log ID: -978232157
+ 
+----Info----
+Game Version: v1.0.0.4080-final
+Operating System: Windows 11  (10.0.22621) 64bit
+CPU: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz, Count: 8, Frequency: 3302 MHz
+GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU, Driver Version: Direct3D 11.0 [level 11.1], VRAM: 3993 MBs
+RAM: 16218 MBs
+Renderer: Direct3D11
+------------
+ 
+[Log] Logged into USG
+[Log] PlayerID: OCbjesmOUdRa40CDlhjnFbzRFJ6g
+[Log] Failed to load config from cache.
+[Log] Remote config ready!
+[Log] Bass: 2.4.16.7 BassFx: 2.4.12.6 BassMix: 2.4.11.1
+[Log] WASAPI
+[Log] Starting video thumbs
+[Log] [2023-04-19T08:08:44.724+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config C:\Users\heiner\Documents\Clone Hero\Custom\Colors\DefaultColors.ini
+[Warning] <Missing i18n Resource>: StrikeLine Base Red :en
+[Log] Cache log before: 0 songs, 18 paths
+[Log] Biology
+[Log] Coalescence & Segmentation
+[Log] Combat Mosh
+[Log] Crumbling Castle
+[Log] Embrace
+[Log] Enact the Ending (2023 Redux)
+[Log] Flamewall
+[Log] Gone (feat. Rasmus Bom Andersen)
+[Log] Good Grief Retreat
+[Log] i ws nvr yr grlfrnd
+[Log] Moonhunter
+[Log] No Known Suspects
+[Log] Revenge
+[Log] Stigma
+[Log] Stop Saying We Sound Like Dragonforce
+[Log] The Palace of the Kantus
+[Log] Troopers of the Stars
+[Log] Full Scan Elapsed Time: 0.6785658
+[Log] download source.txt
+[Log] download source.txt finished
+[Warning] <Missing i18n Resource>: Players:en
+[Warning] <Missing i18n Resource>: Assigned Controllers:en
+[Warning] <Missing i18n Resource>: (auto)CymExt1:en
+[Warning] <Missing i18n Resource>: (auto)CymExt2:en
+[Warning] <Missing i18n Resource>: A:en
+[Warning] <Missing i18n Resource>: S:en
+[Warning] <Missing i18n Resource>: J:en
+[Warning] <Missing i18n Resource>: K:en
+[Warning] <Missing i18n Resource>: L:en
+[Warning] <Missing i18n Resource>: Up Arrow:en
+[Warning] <Missing i18n Resource>: H:en
+[Warning] <Missing i18n Resource>: Space:en
+[Warning] <Missing i18n Resource>: Down Arrow:en
+[Warning] <Missing i18n Resource>: Return:en
+[Warning] <Missing i18n Resource>: ;:en
+[Warning] <Missing i18n Resource>: Right Arrow:en
+[Warning] <Missing i18n Resource>: Left Arrow:en
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file

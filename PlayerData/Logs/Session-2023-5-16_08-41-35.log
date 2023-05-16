@@ -1,0 +1,86 @@
+Log ID: -1541619449
+ 
+----Info----
+Game Version: v1.0.0.4080-final
+Operating System: Windows 11  (10.0.22621) 64bit
+CPU: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz, Count: 8, Frequency: 3302 MHz
+GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU, Driver Version: Direct3D 11.0 [level 11.1], VRAM: 3993 MBs
+RAM: 16218 MBs
+Renderer: Direct3D11
+------------
+ 
+[Log] Logged into USG
+[Log] PlayerID: OCbjesmOUdRa40CDlhjnFbzRFJ6g
+[Log] Remote config ready!
+[Log] Bass: 2.4.16.7 BassFx: 2.4.12.6 BassMix: 2.4.11.1
+[Log] WASAPI
+[Log] DiscordRPC: is now online
+[Log] Starting video thumbs
+[Log] [2023-05-16T08:41:38.490+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config D:\portableApps\Clone Hero\PlayerData\Custom\Colors\DefaultColors.ini
+ 
+----Error----
+System.IO.DirectoryNotFoundException: Could not find a part of the path "d:\private\clone hero\clone hero_data\streamingassets\songs\biology.sng".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <b1e6d7427a984e4e865c2fe6f6a26cd8>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <b1e6d7427a984e4e865c2fe6f6a26cd8>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <b1e6d7427a984e4e865c2fe6f6a26cd8>:0 
+  at ʷʸʾʳˁˀʳʵʻʺʾ..ctor (System.String ˁʷˁʲʺʴʲʴʺʴʵ) [0x00247] in <f509f804e1e0419ba898dc0b9ff5db1f>:0 
+  at SongEntry.ˁʿʹʶʽʲʺʻˁʼʸ () [0x0002b] in <f509f804e1e0419ba898dc0b9ff5db1f>:0 
+  at SongEntry..ctor (System.IO.BinaryReader ˀʸʴʿʻʹʼʷʲˀʸ, System.String ʿʻʴʳʶʵʾʸʶʻʹ) [0x00061] in <f509f804e1e0419ba898dc0b9ff5db1f>:0 
+  at ʺˀʹʻˀʾʸʻʾʽʺ.ʵʾˁʳʻʺʾʶʸʹʵ (System.Boolean ʹʽʶˀʲˀʲˁʻˀʹ) [0x000a1] in <f509f804e1e0419ba898dc0b9ff5db1f>:0 
+Stacktrace: 
+----Error----
+ 
+[Warning] <Missing i18n Resource>: StrikeLine Base Red :en
+ 
+----Error----
+System.IO.DirectoryNotFoundException: Could not find a part of the path "d:\private\clone hero\clone hero_data\streamingassets\songs\biology.sng".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <b1e6d7427a984e4e865c2fe6f6a26cd8>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <b1e6d7427a984e4e865c2fe6f6a26cd8>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <b1e6d7427a984e4e865c2fe6f6a26cd8>:0 
+  at ʷʸʾʳˁˀʳʵʻʺʾ..ctor (System.String ˁʷˁʲʺʴʲʴʺʴʵ) [0x00247] in <f509f804e1e0419ba898dc0b9ff5db1f>:0 
+  at SongEntry.ˁʿʹʶʽʲʺʻˁʼʸ () [0x0002b] in <f509f804e1e0419ba898dc0b9ff5db1f>:0 
+  at SongEntry..ctor (System.IO.BinaryReader ˀʸʴʿʻʹʼʷʲˀʸ, System.String ʿʻʴʳʶʵʾʸʶʻʹ) [0x00061] in <f509f804e1e0419ba898dc0b9ff5db1f>:0 
+  at ʺˀʹʻˀʾʸʻʾʽʺ.ʵʾˁʳʻʺʾʶʸʹʵ (System.Boolean ʹʽʶˀʲˀʲˁʻˀʹ) [0x000a1] in <f509f804e1e0419ba898dc0b9ff5db1f>:0 
+Stacktrace: 
+----Error----
+ 
+[Log] Cache log before: 0 songs, 18 paths
+[Log] Biology
+[Log] Coalescence & Segmentation
+[Log] Combat Mosh
+[Log] Crumbling Castle
+[Log] Embrace
+[Log] Enact the Ending (2023 Redux)
+[Log] Flamewall
+[Log] Gone (feat. Rasmus Bom Andersen)
+[Log] Good Grief Retreat
+[Log] i ws nvr yr grlfrnd
+[Log] Moonhunter
+[Log] No Known Suspects
+[Log] Revenge
+[Log] Stigma
+[Log] Stop Saying We Sound Like Dragonforce
+[Log] The Palace of the Kantus
+[Log] Troopers of the Stars
+[Log] Full Scan Elapsed Time: 0.6883296
+[Log] download source.txt
+[Log] download source.txt finished
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
+[Log] Disposed of memorymapped file
