@@ -2,7 +2,7 @@ DeviceName: ESI MIDIMATE eX
 Mappings:
   Red Pad:
   - NoteNumber: 38
-    Velocity: 10
+    Velocity: 1
     OverHitThreshold: 0
   Yellow Pad:
   - NoteNumber: 48
@@ -11,15 +11,15 @@ Mappings:
   Blue Pad:
   - NoteNumber: 45
     Velocity: 10
-    OverHitThreshold: 0.0249999985
+    OverHitThreshold: 0
   Green Pad:
   - NoteNumber: 43
     Velocity: 10
-    OverHitThreshold: 0.0249999985
+    OverHitThreshold: 0
   Kick Pad:
   - NoteNumber: 36
     Velocity: 10
-    OverHitThreshold: 0.0249999985
+    OverHitThreshold: 0
   Yellow Cymbal:
   - NoteNumber: 46
     Velocity: 10
