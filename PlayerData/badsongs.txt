@@ -1,11 +1,11 @@
 Warning: These folders contain lyrics that do not have matching vocal note events, and have fallen back to non validated parsing.
 This warning has no effect on charts currently, but they will not work properly in the future when/if vocals support is pursued.
-e:\clone_hero\clone hero_data\streamingassets\songs\no known suspects.sng
-e:\clone_hero\clone hero_data\streamingassets\songs\troopers of the stars.sng
+d:\portableapps\clone_hero\clone hero_data\streamingassets\songs\no known suspects.sng
+d:\portableapps\clone_hero\clone hero_data\streamingassets\songs\troopers of the stars.sng
 
 ERROR: These folders contain charts that another song has (duplicate charts)!
-e:\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\nirvana - heart-shaped box - 4 ch test (e:\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\nirvana - heart-shaped box)
-e:\clone_hero\playerdata\songs\misc rips\guitar hero ii official playstation magazine demo\kiss - strutter (e:\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\kiss - strutter)
+d:\portableapps\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\nirvana - heart-shaped box - 4 ch test (d:\portableapps\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\nirvana - heart-shaped box)
+d:\portableapps\clone_hero\playerdata\songs\misc rips\guitar hero ii official playstation magazine demo\kiss - strutter (d:\portableapps\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\kiss - strutter)
 
 ERROR: These folders contain charts that don't have any supported instruments charted!
-e:\clone_hero\playerdata\songs\green day rock band\green day - song of the century
+d:\portableapps\clone_hero\playerdata\songs\green day rock band\green day - song of the century
