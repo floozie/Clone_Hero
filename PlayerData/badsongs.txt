@@ -1,6 +1,3 @@
-Warning: These folders contain notes after the end event. End events will be disabled for these folders.
-d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\coheed and cambria - welcome home
-
 Warning: These folders contain lyrics that do not have matching vocal note events, and have fallen back to non validated parsing.
 This warning has no effect on charts currently, but they will not work properly in the future when/if vocals support is pursued.
 d:\portableapps\clone_hero\clone hero_data\streamingassets\songs\no known suspects.sng
