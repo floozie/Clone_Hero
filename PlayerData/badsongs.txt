@@ -4,19 +4,24 @@ d:\portableapps\clone_hero\clone hero_data\streamingassets\songs\no known suspec
 d:\portableapps\clone_hero\clone hero_data\streamingassets\songs\troopers of the stars.sng
 d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\marilyn manson - coma white
 d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\linkin park - bleed it out
-d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\less than jake - soundtrack of my life
-d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\less than jake - look what happened (borders _ boundaries)
 d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\in flames - disconnected
+d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\danzig - mother
 
 ERROR: These folders contain charts that another song has (duplicate charts)!
-d:\portableapps\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\nirvana - heart-shaped box - 4 ch test (d:\portableapps\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\nirvana - heart-shaped box)
-d:\portableapps\clone_hero\playerdata\songs\misc rips\guitar hero ii official playstation magazine demo\kiss - strutter (d:\portableapps\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\kiss - strutter)
-d:\portableapps\clone_hero\playerdata\songs\the beatles rock band\~the beatles rock band dlc\the beatles - michelle (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the beatles - michelle)
+d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the police - every breath you take (d:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\the police - every breath you take)
+d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\mr. big - to be with  you (d:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\mr. big - to be with  you)
+d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\tom petty - i won't back down (d:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\tom petty - i won't back down)
+d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the police - roxanne (d:\portableapps\clone_hero\playerdata\songs\rock band 1 dlc\the police - roxanne)
+d:\portableapps\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\nirvana - heart-shaped box - 4 ch test (d:\portableapps\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\nirvana - heart-shaped box)
+d:\portableapps\clone_hero\playerdata\songs\guitar hero ii official playstation magazine demo\kiss - strutter (d:\portableapps\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\kiss - strutter)
+d:\portableapps\clone_hero\playerdata\songs\the beatles rock band dlc\the beatles - michelle (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the beatles - michelle)
 d:\portableapps\clone_hero\playerdata\songs\the beatles rock band\the beatles - all you need is love (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the beatles - all you need is love)
 d:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\marilyn manson - coma white (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\marilyn manson - coma white)
 d:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\linkin park - bleed it out (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\linkin park - bleed it out)
 d:\portableapps\clone_hero\playerdata\songs\guitar hero 5\kiss - shout it out loud (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\kiss - shout it out loud)
 d:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\in flames - disconnected (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\in flames - disconnected)
+d:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\danzig - mother (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\danzig - mother)
+d:\portableapps\clone_hero\playerdata\songs\lego rock band\bon jovi - you give love a bad name (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\bon jovi - you give love a bad name)
 
 ERROR: These folders contain charts that don't have any supported instruments charted!
 d:\portableapps\clone_hero\playerdata\songs\green day rock band\green day - song of the century
