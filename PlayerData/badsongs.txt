@@ -4,11 +4,15 @@ d:\portableapps\clone_hero\clone hero_data\streamingassets\songs\no known suspec
 d:\portableapps\clone_hero\clone hero_data\streamingassets\songs\troopers of the stars.sng
 d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\marilyn manson - coma white
 d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\linkin park - bleed it out
+d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\less than jake - soundtrack of my life
+d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\less than jake - look what happened (borders _ boundaries)
 d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\in flames - disconnected
 
 ERROR: These folders contain charts that another song has (duplicate charts)!
 d:\portableapps\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\nirvana - heart-shaped box - 4 ch test (d:\portableapps\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\nirvana - heart-shaped box)
 d:\portableapps\clone_hero\playerdata\songs\misc rips\guitar hero ii official playstation magazine demo\kiss - strutter (d:\portableapps\clone_hero\playerdata\songs\misc rips\guitar hero ii late 06 retail demo\kiss - strutter)
+d:\portableapps\clone_hero\playerdata\songs\the beatles rock band\~the beatles rock band dlc\the beatles - michelle (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the beatles - michelle)
+d:\portableapps\clone_hero\playerdata\songs\the beatles rock band\the beatles - all you need is love (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the beatles - all you need is love)
 d:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\marilyn manson - coma white (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\marilyn manson - coma white)
 d:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\linkin park - bleed it out (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\linkin park - bleed it out)
 d:\portableapps\clone_hero\playerdata\songs\guitar hero 5\kiss - shout it out loud (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\kiss - shout it out loud)
