@@ -1,27 +1,607 @@
+Warning: These folders contain lyrics that are not valid UTF-8, and may display missing or incorrect characters in-game.
+e:\portableapps\clone_hero\playerdata\songs\rock band 2\talking heads - psycho killer
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\rise against - death blossoms
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\m-clan - carolina
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\loquillo y los trogloditas - cadillac solitario (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\les rita mitsouko - c'est comme ca
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\housse de racket - oh yeah!
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\finley - adrenalina
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\die toten hosen - hier kommt alex
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\a day to remember - nj legion iced tea
+
+Warning: These folders contain notes after the end event. End events will be disabled for these folders.
+e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\coheed and cambria - welcome home
+
 Warning: These folders contain lyrics that do not have matching vocal note events, and have fallen back to non validated parsing.
 This warning has no effect on charts currently, but they will not work properly in the future when/if vocals support is pursued.
-d:\portableapps\clone_hero\clone hero_data\streamingassets\songs\no known suspects.sng
-d:\portableapps\clone_hero\clone hero_data\streamingassets\songs\troopers of the stars.sng
-d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\marilyn manson - coma white
-d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\linkin park - bleed it out
-d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\in flames - disconnected
-d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\danzig - mother
+e:\portableapps\clone_hero\clone hero_data\streamingassets\songs\no known suspects.sng
+e:\portableapps\clone_hero\clone hero_data\streamingassets\songs\troopers of the stars.sng
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\zz top - gimme all your lovin'
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\wolfmother - dimension
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\within temptation - what have you done
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\wings - junior's farm
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\wings - jet
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\wings - hi hi hi
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\unearth - grave of opportunity
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\the vines - outtathaway!
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\the sleeping - bomb the world
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\the raconteurs - salute your solution
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\the raconteurs - hold up
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\the raconteurs - consoler of the lonely
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\the killers - mr. brightside
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\the devil wears prada - dez moines
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\sworn - electro rock
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\steely dan - black friday
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\sportfreunde stiller - 54, 74, 90, 2010
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\smashing pumpkins - g.l.o.w
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\slightly stoopid - jimi
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\silverstein - i am the arsonist
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\senses fail - the martyr
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\rise against - ready to fall
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\rise against - death blossoms
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\rick springfield - jessie's girl
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\rascal flatts - me and my gang
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\ram jam - black betty
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\queen - fat bottomed girls
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\protest the hero - bloodmeat
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\pixies - the sad punk
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\pixies - monkey gone to heaven
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\pixies - debaser
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\pink - so what
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\phish - sample in a jar (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\pepper - your face
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\oasis - waiting for the rapture
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\oasis - get off your high horse lady
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\oasis - bag it up
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\nirvana - stay away
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\nirvana - negative creep
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\nickelback - because of you
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\negrita - mama maè‏
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\motörhead - love me like a reptile
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\motörhead - jailbait
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\m-clan - carolina
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\loquillo y los trogloditas - cadillac solitario (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\les rita mitsouko - c'est comme ca
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\jimi hendrix - little wing
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\jimi hendrix - if 6 was 9
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\jimi hendrix - freedom
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\jimi hendrix - foxy lady (live at woodstock)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\jimi hendrix - fire (live at woodstock)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\jimi hendrix - angel
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\in flames - disconnected
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\housse de racket - oh yeah!
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\hinder - use me
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\flo rida ft. t-pain - low (travis barker remix)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\finley - adrenalina
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\eagles of death metal - i only want you
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\eagles of death metal - cherry cola
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\eagles of death metal - anything 'cept the truth
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\eagles - life in the fast lane
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\dropkick murphys - i'm shipping up to boston
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\cody chesnutt - look good in leather
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\chimaira - on broken glass
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\bruce springsteen - my lucky day
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\bruce springsteen - born to run
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\brooks & dunn - hillbilly deluxe
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\brad paisley - ticks
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\bob seger & the silver bullet band - old time rock and roll
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\bob seger & the silver bullet band - her strut
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\blind melon - no rain
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\ben harper and relentless7 - number with no name
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\backyard babies - degenerated
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\awaken - the silence is deafening
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\alexisonfire - young cardinals
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\a day to remember - nj legion iced tea
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\willie nelson - on the road again (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\van halen - hot for teacher
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\trust - antisocial
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\tool - vicarious
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\the stone roses - love spreads
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\the sex pistols - pretty vacant
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\the police - demolition man (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\the living end - prisoner of society
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\the jimi hendrix experience - purple haze (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\the guess who - american woman
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\the cult - love removal machine
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\the answer - never too late
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\system of a down - b.y.o.b
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\sublime - santeria
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\stuck in the sound - toy boy
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\radio futura - escuela de calor
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\paramore - misery business
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\ozzy osbourne - crazy train
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\motörhead - overkill
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\modest mouse - float on
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\mc5's wayne kramer - kick out the jams
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\lynyrd skynyrd - sweet home alabama (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\lenny kravitz - are you gonna go my way
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\korn - freak on a leash
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\joe satriani - satch boogie
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\jimmy eat world - the middle
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\jane's addiction - mountain song
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\eagles - hotel california
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\bullet for my valentine - scream aim fire
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\bon jovi - livin' on a prayer
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\bob seger & the silver bullet band - hollywood nights
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\billy idol - rebel yell
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\beastie boys ft. kerry king - no sleep till brooklyn
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\at the drive-in - one armed scissor
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\anouk - good god
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour\30 seconds to mars - the kill
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\trapt - headstrong
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\the used - buried myself alive
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\the rocky horror picture show - time warp
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\the rocky horror picture show - sweet transvestite
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\the rocky horror picture show - hot patootie
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\the damned things - we've got a situation here
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\tesla - love song
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - spoonman
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - outshined
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - my wave
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - hunted down
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - hands all over
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - fell on black days
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - burden in my hand
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - blow up the outside world
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\soundgarden - birth ritual
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\snow patrol - hands open
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\slash (with iggy pop) - we're all gonna die
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\saliva - always
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\rush - tom sawyer
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\rush - red barchetta
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\queens of the stone age - little sister
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\poison - talk dirty to me
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\nine inch nails - head like a hole
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\nine inch nails - closer
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\my chemical romance - teenagers
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\my chemical romance - na na na
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\my chemical romance - helena
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\my chemical romance - bulletproof heart
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\muse - supermassive black hole
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\muse - resistance
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\middle class rut - new low
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\matchbox twenty - real world
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\marilyn manson - tourniquet
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\marilyn manson - get your gunn
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\marilyn manson - coma white
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\madina lake - hey superstar
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\linkin park - wretches and kings
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\linkin park - waiting for the end
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\linkin park - the messenger
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\linkin park - burning in the skies
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\linkin park - blackout
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\kiss - rock and roll all nite
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\kiss - detroit rock city
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\kiss - calling dr. love
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\jet - she's a genius
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\goo goo dolls - name
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\firewind - world on fire
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\darkest hour - savor the kill
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\darkest hour - doomsayer
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\darkest hour - beyond the life you know
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\children of bodom - was it worth it
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\children of bodom - living dead beat
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\children of bodom - blooddrunk
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\brand new - sic transit gloria... glory fades
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\alice cooper - poison
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\alice cooper - elected
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\a day to remember - the downfall of us all
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\a day to remember - 2nd sucks
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\weezer - dope nose
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - you really got me
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - unchained
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - somebody get me a doctor
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - so this is love
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - runnin_ with the devil
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - romeo delight
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - panama
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - mean street
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - loss of control
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - jump
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - jamie_s cryin_
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - i_m the one
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - intruder (oh) pretty woman
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - ice cream man
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - hot for teacher
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - hear about it later
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - hang _em high
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - feel your love tonight
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - everybody wants some!!
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - dance the night away
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - beautiful girls
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - atomic punk
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - and the cradle will rock
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\van halen - ain_t talkin_ _bout love
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\third eye blind - semi-charmed life
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\the offspring - pretty fly (for a white guy)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\the clash - safe european home
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\tenacious d - master exploder
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\queens of the stone age - sick, sick, sick
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\queen - i want it all
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\killswitch engage - the end of heartache
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\judas priest - painkiller
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\jimmy eat world - pain
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\fountains of wayne - stacy_s mom
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\foo fighters - best of you
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\billy idol - white wedding (part 1)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero van halen\alter bridge - come to life
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\yeah yeah yeahs - dull life
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\wolfmother - pilgrim
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\wolfmother - cosmic egg
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\weezer - pork and beans
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\weezer - island in the sun
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\weezer - beverly hills
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\vampire weekend - the kids don't stand a chance
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\vampire weekend - holiday
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\vampire weekend - cousins
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\tyler bryant - who i am
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\third eye blind - never let you go
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\third eye blind - losing a whole year
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\third eye blind - can you take me
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\the used - the taste of ink
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\the used - the bird and the worm
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\the used - pretty handsome awkward
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\the rolling stones - you gotta move (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\the rolling stones - under my thumb (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\the rolling stones - prodigal son (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\the rolling stones - i'm free (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\the rolling stones - (i can't get no) satisfaction (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\the j. geils band - freeze frame
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\the go-go's - we got the beat
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\the fall of troy - panic attack!
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\street sweeper social club - somewhere in the world it's midnight
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\street sweeper social club - fight! smash! win!
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\street sweeper social club - 100 little curses
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\stone temple pilots - plush
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\stone temple pilots - between the lines
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\steve miller band - take the money and run
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\spoon - sister jack
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\snow patrol - you're all i have
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\shinedown - sound of madness
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\shinedown - devour
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\shadow falls - still i rise
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\queen - somebody to love
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\queen - killer queen
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\queen - crazy little thing called love
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\phoenix - lisztomania
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\phoenix - everything is everything
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\phoenix - 1901
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\pavement - cut your hair
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\papa roach - last resort
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\orgy - blue monday
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\onerepublic - everybody loves me
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\onerepublic - all the right moves
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\ok go - here it goes again
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\ok go - get over it
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\ok go - do what you want
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\no doubt - new
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\night ranger - sister christian
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\nancy fullforce - rocknrola
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\mötley crüe - girls girls girls
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\megadeth - symphony of destruction
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\megadeth - peace sells
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\megadeth - hangar 18
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\marilyn manson - the dope show
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\marilyn manson - the beautiful people
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\lynyrd skynyrd - sweet home alabama (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\lynyrd skynyrd - simple man
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\lynyrd skynyrd - gimme three steps
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\lynyrd skynyrd - free bird
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\limp bizkit - nookie
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\lenny kravitz - let love rule
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\lenny kravitz - lady
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\lenny kravitz - fly away
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\kiss - modern day delilah
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\kiss - lick it up
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\kiss - i was made for lovin' you
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\gwar - gor-gor
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\godsmack - i stand alone
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\foreigner - jukebox hero
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\flogging molly - the seven deadly sins
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\flogging molly - requiem for a dying song
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\faith no more - epic
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\dom liberati - love holds it down
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\disturbed - stricken
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\disturbed - indestructible
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\disturbed - down with the sickness
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\dethklok - laser cannon deth sentence
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\davidicus - you really like me
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\creedence clearwater revival - travelin' band
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\capra - low day
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\bunny knutson - lemon frosting
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\breaking benjamin - until the end
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\billy squier - the stroke
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\billy squier - everybody wants you
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\avenged sevenfold - scream
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\avenged sevenfold - almost easy
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\avenged sevenfold - afterlife
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\amon amarth - twilight of the thunder god
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\alpha rev - face down
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\all time low - weightless
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\all time low - dear maria, count me in
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\all time low - damned if i do ya (damned if i don't) (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\alice cooper - welcome to my nightmare
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\alice cooper - school's out
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\afi - beautiful thieves
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\aerosmith - rag doll
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\aerosmith - love in an elevator
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\aerosmith - livin' on the edge
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\30 seconds to mars - kings and queens
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\30 seconds to mars - from yesterday
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5 dlc\30 seconds to mars - attack
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\wolfmother - back round
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\wild cherry - play that funky music
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\weezer - why bother
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\vampire weekend - a-punk
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\tom petty - runnin' down a dream
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\tom petty & the heartbreakers - american girl
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\thrice - deadbolt
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\thin lizzy - jailbreak
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\the white stripes - blue orchid
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\the rolling stones - sympathy for the devil
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\the police - so lonely
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\the killers - all the pretty faces
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\the bronx - six days a week
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\t. rex - 20th century boy
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\stevie wonder - superstition
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\rush - the spirit of radio (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\rose hill drive - sneak out
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\rammstein - du hast
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\queens of the stone age - make it wit chu
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\public enemy featuring zakk wylde - bring the noise 20xx
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\peter frampton - do you feel like we do (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\no doubt - ex-girlfriend
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\nirvana - lithium (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\mötley crüe - looks that kill
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\my morning jacket - one big holiday
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\megadeth - sweating bullets
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\love and rockets - mirror people
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\kings of leon - sex on fire
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\king crimson - 21st century schizoid man
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\john mellencamp - hurts so good
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\jimmy eat world - bleed american
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\iron maiden - 2 minutes to midnight
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\iggy pop - lust for life (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\grand funk railroad - we're an american band
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\gov't mule - streamline woman
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\gorillaz - feel good inc
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\eagles of death metal - wannabe in la
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\duran duran - hungry like the wolf
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\dire straits - sultans of swing
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\deep purple - woman from tokyo ('99 remix)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\darkest hour - demon(s)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\children of bodom - done with everything, die for nothing
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\bush - comedown
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\brand new - sowing season (yeah)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\blur - song 2
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\billy squier - lonely is the night
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\billy idol - dancing with myself
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\beastie boys - gratitude
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\attack! attack! - you and me
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\afi - medicate
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\a perfect circle - judith
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\zz top - sharp dressed man (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\twisted sister - we're not gonna take it
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\tom petty & the heartbreakers - listen to her heart
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\third eye blind - graduate
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\them crooked vultures - scumbag blues
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\the vines - get free
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\the runaways - cherry bomb
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\the rolling stones - stray cat blues
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\the ramones - theme from spiderman
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\the offspring - self esteem
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\the hives - tick tick boom
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\the dillinger escape plan - setting fire to sleeping giants
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\the cure - fascination street
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\tesla - modern day cowboy
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\styx - renegade
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\strung out - calling
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\snot - deadfall
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\slipknot - psychosocial
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\slayer - chemical warfare
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\rush - 2112 pt. 7 grand finale
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\rush - 2112 pt. 3 discovery
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\rise against - savior
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\rammstein - waidmanns heil
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\r.e.m. - losing my religion
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\queensryche - jet city woman
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\phoenix - lasso
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\pantera - i'm broken
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\orianthi - suffocated
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\nine inch nails - wish
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\nickelback - how you remind me
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\my chemical romance - i'm not okay (i promise)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\muse - uprising
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\metallica & ozzy osbourne - paranoid (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\megadeth - this day we fight!
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\megadeth - holy wars... the punishment due
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\lynyrd skynyrd - call me the breeze (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\linkin park - bleed it out
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\jethro tull - aqualung
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\jane's addiction - been caught stealing
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\george thorogood & the destroyers - move it on over (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\foreigner - feels like the first time
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\flyleaf - again
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\five finger death punch - hard to see
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\fall out boy - dance, dance
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\drowning pool - bodies
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\dire straits - money for nothing
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\dethklok - bloodlines
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\def leppard - pour some sugar on me (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\children of bodom - if you want peace... prepare for war
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\buzzcocks - what do i get
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\bush - machinehead
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\blind melon - tones of home
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\band of skulls - i know what i am
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\bad brains - re-ignition (live)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\avenged sevenfold - bat country
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\atreyu - ravenous
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\arch enemy - nemesis
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\anthrax - indians
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\anberlin - the feel good drag
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\alice cooper - no more mr. nice guy
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\afi - dancing through sunday
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\aerosmith - cryin'
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\a perfect circle - the outsider
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\wolfmother - woman
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\white zombie - thunder kiss '65
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\warrant - cherry pie
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\twisted sister - i wanna rock
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\the sword - freya
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\the reverend horton heat - psychobilly freakout
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\the police - message in a bottle
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\the exies - hey you
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\the donnas - take it off
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\stone temple pilots - trippin' on a hole in a paper heart
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\slayer - raining blood
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\ratt - round and round
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\rage against the machine - killing in the name
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\queens of the stone age - no one knows
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\queen - killer queen
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\priestess - lay down
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\poison - nothin' but a good time
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\pat benetar - hit me with your best shot
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\pantera - cowboys from hell
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\ozzy osbourne - bark at the moon
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\motley crue - shout at the devil
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\lynyrd skynyrd - free bird
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\living colour - cult of personality
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\lamb of god - laid to rest
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\kiss - rock and roll all nite ft steve ouimette
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\kiss - rock and roll all nite
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\kansas - carry on wayward son
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\judas priest - electric eye
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\joan jett and the blackhearts - i love rock and roll
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\jane's addiction - stop!
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\incubus - stellar
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\heart - barracuda
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\franz ferdinand - take me out
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\foo fighters - monkey wrench
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\extreme - play with me
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\deep purple - smoke on the water
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\danzig - mother
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\boston - more than a feeling
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\blue oyster cult - godzilla
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\avenged sevenfold - beast and the harlot
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\anthrax - caught in a mosh
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\alice in chains - them bones
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\afi - miss murder
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\aerosmith - back in the saddle
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica dlc\the judas kiss
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica dlc\the end of the line
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica dlc\the day that never comes
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica dlc\that was just your life
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica dlc\my apocalypse
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica dlc\cyanide
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\thin lizzy - the boys are back in town
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\suicidal tendencies - war inside my head
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\slayer - war ensemble
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\samhain - mother of mercy
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\queen - stone cold crazy
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\motörhead - ace of spades
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\michael schenker group - armed and ready
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - whiplash
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - wherever i may roam
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - welcome home (sanitarium)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - the shortest straw
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - the memory remains
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - seek and destroy
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - sad but true
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - nothing else matters
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - no leaf clover
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - mercyful fate
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - master of puppets
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - king nothing
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - hit the lights
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - fuel
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - frantic
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - fight fire with fire
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - enter sandman
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - disposable heroes
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - creeping death
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\metallica - all nightmare long
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\mastodon - blood and thunder
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\machine head - beautiful mourning
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\lynyrd skynyrd - tuesday's gone
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\judas priest - hell bent for leather
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\foo fighters - stacked actors
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\diamond head - am i evil
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - metallica\corrosion of conformity - albatross
+e:\portableapps\clone_hero\playerdata\songs\band hero\village people - ymca
+e:\portableapps\clone_hero\playerdata\songs\band hero\tonic - if you could only see
+e:\portableapps\clone_hero\playerdata\songs\band hero\the turtles - happy together
+e:\portableapps\clone_hero\playerdata\songs\band hero\the rolling stones - honky tonk women
+e:\portableapps\clone_hero\playerdata\songs\band hero\the mighty mighty bosstones - the impression that i get
+e:\portableapps\clone_hero\playerdata\songs\band hero\the kooks - naive
+e:\portableapps\clone_hero\playerdata\songs\band hero\the airborne toxic event - gasoline
+e:\portableapps\clone_hero\playerdata\songs\band hero\taylor swift - you belong with me
+e:\portableapps\clone_hero\playerdata\songs\band hero\taylor swift - picture to burn
+e:\portableapps\clone_hero\playerdata\songs\band hero\styx - mr roboto
+e:\portableapps\clone_hero\playerdata\songs\band hero\spice girls - wannabe
+e:\portableapps\clone_hero\playerdata\songs\band hero\roy orbison - oh pretty woman
+e:\portableapps\clone_hero\playerdata\songs\band hero\robbie williams and kylie minogue - kids
+e:\portableapps\clone_hero\playerdata\songs\band hero\poison - every rose has its thorn
+e:\portableapps\clone_hero\playerdata\songs\band hero\pat benatar - love is a battlefield
+e:\portableapps\clone_hero\playerdata\songs\band hero\paracute - back again
+e:\portableapps\clone_hero\playerdata\songs\band hero\no doubt - just a girl
+e:\portableapps\clone_hero\playerdata\songs\band hero\nerd - rock star
+e:\portableapps\clone_hero\playerdata\songs\band hero\nelly furtado - turn off the light
+e:\portableapps\clone_hero\playerdata\songs\band hero\kt tunstall - black horse and the cherry tree
+e:\portableapps\clone_hero\playerdata\songs\band hero\katrina and the waves - walking on sunshine
+e:\portableapps\clone_hero\playerdata\songs\band hero\joan jett - bad reputation
+e:\portableapps\clone_hero\playerdata\songs\band hero\janet jackson - black cat
+e:\portableapps\clone_hero\playerdata\songs\band hero\jackson 5 - abc
+e:\portableapps\clone_hero\playerdata\songs\band hero\hilary duff - so yesterday
+e:\portableapps\clone_hero\playerdata\songs\band hero\finger eleven - paralyzer
+e:\portableapps\clone_hero\playerdata\songs\band hero\evanescence - bring me to life
+e:\portableapps\clone_hero\playerdata\songs\band hero\duran duran - rio
+e:\portableapps\clone_hero\playerdata\songs\band hero\devo - whip it
+e:\portableapps\clone_hero\playerdata\songs\band hero\david bowie - let's dance
+e:\portableapps\clone_hero\playerdata\songs\band hero\dashboard confessional - hands down
+e:\portableapps\clone_hero\playerdata\songs\band hero\counting crows - angels of the sliences
+e:\portableapps\clone_hero\playerdata\songs\band hero\cheap trick - i want you to want me (live)
+e:\portableapps\clone_hero\playerdata\songs\band hero\carl douglas - kung fu fighting
+e:\portableapps\clone_hero\playerdata\songs\band hero\big country - in a big country
+e:\portableapps\clone_hero\playerdata\songs\band hero\ben harper and the innocent criminals - steal my kisses
+e:\portableapps\clone_hero\playerdata\songs\band hero\angels & airwaves - the adventure
+e:\portableapps\clone_hero\playerdata\songs\band hero\aly & aj - like whoa
+e:\portableapps\clone_hero\playerdata\songs\band hero\alphabeat - fascination
+e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\marilyn manson - coma white
+e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\linkin park - bleed it out
+e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\less than jake - soundtrack of my life
+e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\less than jake - look what happened (borders _ boundaries)
+e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\led zeppelin - the song remains the same [guitarzero132]
+e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\in flames - disconnected
+e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\danzig - mother
 
 ERROR: These folders contain charts that another song has (duplicate charts)!
-d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the police - every breath you take (d:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\the police - every breath you take)
-d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\mr. big - to be with  you (d:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\mr. big - to be with  you)
-d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\tom petty - i won't back down (d:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\tom petty - i won't back down)
-d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the police - roxanne (d:\portableapps\clone_hero\playerdata\songs\rock band 1 dlc\the police - roxanne)
-d:\portableapps\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\nirvana - heart-shaped box - 4 ch test (d:\portableapps\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\nirvana - heart-shaped box)
-d:\portableapps\clone_hero\playerdata\songs\guitar hero ii official playstation magazine demo\kiss - strutter (d:\portableapps\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\kiss - strutter)
-d:\portableapps\clone_hero\playerdata\songs\the beatles rock band dlc\the beatles - michelle (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the beatles - michelle)
-d:\portableapps\clone_hero\playerdata\songs\the beatles rock band\the beatles - all you need is love (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the beatles - all you need is love)
-d:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\marilyn manson - coma white (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\marilyn manson - coma white)
-d:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\linkin park - bleed it out (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\linkin park - bleed it out)
-d:\portableapps\clone_hero\playerdata\songs\guitar hero 5\kiss - shout it out loud (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\kiss - shout it out loud)
-d:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\in flames - disconnected (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\in flames - disconnected)
-d:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\danzig - mother (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\danzig - mother)
-d:\portableapps\clone_hero\playerdata\songs\lego rock band\bon jovi - you give love a bad name (d:\portableapps\clone_hero\playerdata\songs\01_custom_drums\bon jovi - you give love a bad name)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\nirvana - heart-shaped box - 4 ch test (e:\portableapps\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\nirvana - heart-shaped box)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero ii official playstation magazine demo\kiss - strutter (e:\portableapps\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\kiss - strutter)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\tom petty - i won't back down (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\tom petty - i won't back down)
+e:\portableapps\clone_hero\playerdata\songs\rock band 1 dlc\the police - roxanne (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the police - roxanne)
+e:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\the police - every breath you take (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the police - every breath you take)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\the cult - she sells sanctuary (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the cult - she sells sanctuary)
+e:\portableapps\clone_hero\playerdata\songs\the beatles rock band dlc\the beatles - michelle (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the beatles - michelle)
+e:\portableapps\clone_hero\playerdata\songs\the beatles rock band\the beatles - all you need is love (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the beatles - all you need is love)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\queen - another one bites the dust (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\queen - another one bites the dust)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\mötley crüe - without you (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\mötley crüe - without you)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\mötley crüe - time for change (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\mötley crüe - time for change)
+e:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\mr. big - to be with  you (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\mr. big - to be with  you)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - dawn patrol (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\megadeth - dawn patrol)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\marilyn manson - coma white (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\marilyn manson - coma white)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\little fish - bang bang (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\little fish - bang bang)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\linkin park - bleed it out (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\linkin park - bleed it out)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\lacuna coil - swamped (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\lacuna coil - swamped)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\kiss - shout it out loud (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\kiss - shout it out loud)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - united (live) (2x bass pedal expert+) (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\judas priest - united (live) (2x bass pedal expert+))
+e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\in flames - disconnected (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\in flames - disconnected)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - this i love (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\guns n' roses - this i love)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\free - all right now (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\free - all right now)
+e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\danzig - mother (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\danzig - mother)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\creedence clearwater revival - lookin' out my back door (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\creedence clearwater revival - lookin' out my back door)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\creedence clearwater revival - green river (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\creedence clearwater revival - green river)
+e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\creedence clearwater revival - bad moon rising (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\creedence clearwater revival - bad moon rising)
+e:\portableapps\clone_hero\playerdata\songs\lego rock band\bon jovi - you give love a bad name (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\bon jovi - you give love a bad name)
 
 ERROR: These folders contain charts that don't have any supported instruments charted!
-d:\portableapps\clone_hero\playerdata\songs\green day rock band\green day - song of the century
+e:\portableapps\clone_hero\playerdata\songs\green day rock band\green day - song of the century
