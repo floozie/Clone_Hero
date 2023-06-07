@@ -1,78 +1,32 @@
-Warning: These folders contain lyrics that are not valid UTF-8, and may display missing or incorrect characters in-game.
-e:\portableapps\clone_hero\playerdata\songs\rock band network\eths - gravis venter
-e:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\bruno mars - marry you
-e:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\bap - verdamp lang her
-
 Warning: These folders contain lyrics that do not have matching vocal note events, and have fallen back to non validated parsing.
 This warning has no effect on charts currently, but they will not work properly in the future when/if vocals support is pursued.
 e:\portableapps\clone_hero\clone hero_data\streamingassets\songs\no known suspects.sng
 e:\portableapps\clone_hero\clone hero_data\streamingassets\songs\troopers of the stars.sng
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\marilyn manson - coma white
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\linkin park - bleed it out
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\in flames - disconnected
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\danzig - mother
+
+ERROR: These folders either have no valid metadata file (song.ini), or the metadata does not include a valid song name!
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\switch & evil-dog - switch vs evil-dog round 2\1x bass pedal
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\switch & evil-dog - switch vs evil-dog round 1\1x bass pedal
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - some kind of monster\1x bass pedal
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - hate train\1x bass pedal
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - dirty window\1x bass pedal
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\megadeth - sweating bullets\1x bass pedal
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\buckethead - soothsayer\1x bass pedal
 
 ERROR: These folders contain charts that another song has (duplicate charts)!
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\xtt - divine (e:\portableapps\clone_hero\playerdata\songs\rock band network\xtt - divine)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the main drag - montana (e:\portableapps\clone_hero\playerdata\songs\rock band network\the main drag - montana)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the main drag - car windows (e:\portableapps\clone_hero\playerdata\songs\rock band network\the main drag - car windows)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the gufs - smile (live) (e:\portableapps\clone_hero\playerdata\songs\rock band network\the gufs - smile (live))
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\steam powered giraffe - electricity is in my soul (e:\portableapps\clone_hero\playerdata\songs\rock band network\steam powered giraffe - electricity is in my soul)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\slightly stoopid - closer to the sun (e:\portableapps\clone_hero\playerdata\songs\rock band network\slightly stoopid - closer to the sun)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\seether - fake it (e:\portableapps\clone_hero\playerdata\songs\rock band network\seether - fake it)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\jukebox the ghost - so let us create (e:\portableapps\clone_hero\playerdata\songs\rock band network\jukebox the ghost - so let us create)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\jonathan coulton ft. john roderick - nemeses (e:\portableapps\clone_hero\playerdata\songs\rock band network\jonathan coulton ft. john roderick - nemeses)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\free spirit - pale sister of light (e:\portableapps\clone_hero\playerdata\songs\rock band network\free spirit - pale sister of light)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\free spirit - cry of an eagle (2x bass pedal expert+) (e:\portableapps\clone_hero\playerdata\songs\rock band network\free spirit - cry of an eagle (2x bass pedal expert+))
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\drive-by truckers - this fucking job (e:\portableapps\clone_hero\playerdata\songs\rock band network\drive-by truckers - this fucking job)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\buckner & garcia - the defender (e:\portableapps\clone_hero\playerdata\songs\rock band network\buckner & garcia - the defender)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\buckner & garcia - ode to a centipede (e:\portableapps\clone_hero\playerdata\songs\rock band network\buckner & garcia - ode to a centipede)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\buckner & garcia - hyperspace (e:\portableapps\clone_hero\playerdata\songs\rock band network\buckner & garcia - hyperspace)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\buckner & garcia - goin' berzerk (e:\portableapps\clone_hero\playerdata\songs\rock band network\buckner & garcia - goin' berzerk)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\buckner & garcia - froggy's lament (e:\portableapps\clone_hero\playerdata\songs\rock band network\buckner & garcia - froggy's lament)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\buckner & garcia - do the donkey kong (e:\portableapps\clone_hero\playerdata\songs\rock band network\buckner & garcia - do the donkey kong)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\blame ringo - garble arch (e:\portableapps\clone_hero\playerdata\songs\rock band network\blame ringo - garble arch)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\bang camaro - bang camaro (e:\portableapps\clone_hero\playerdata\songs\rock band network\bang camaro - bang camaro)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\band of horses - the great salt lake (e:\portableapps\clone_hero\playerdata\songs\rock band network\band of horses - the great salt lake)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\band of horses - the funeral (e:\portableapps\clone_hero\playerdata\songs\rock band network\band of horses - the funeral)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\astra kelly - timebomb (e:\portableapps\clone_hero\playerdata\songs\rock band network\astra kelly - timebomb)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\anarchy club - king of everything (e:\portableapps\clone_hero\playerdata\songs\rock band network\anarchy club - king of everything)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\anarchy club - all the fires burning (e:\portableapps\clone_hero\playerdata\songs\rock band network\anarchy club - all the fires burning)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\anarchy club - a single drop of red (the gentleman) (e:\portableapps\clone_hero\playerdata\songs\rock band network\anarchy club - a single drop of red (the gentleman))
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\amberian dawn - my only star (e:\portableapps\clone_hero\playerdata\songs\rock band network\amberian dawn - my only star)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\relient k - must have done something right (e:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\relient k - must have done something right)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\elton john - don't let the sun go down on me (e:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\elton john - don't let the sun go down on me)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\bon jovi - wanted dead or alive (rb3 version) (e:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\bon jovi - wanted dead or alive (rb3 version))
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\billy squier - the stroke (e:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\billy squier - the stroke)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\locksley - she does (e:\portableapps\clone_hero\playerdata\songs\rock band 1 dlc\locksley - she does)
-e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\judas priest - pain and pleasure (e:\portableapps\clone_hero\playerdata\songs\rock band 1 dlc\judas priest - pain and pleasure)
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\royal blood - space (multitrack) (e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\royal blood - space)
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - bleeding me (multitrack) (e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - bleeding me)
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - waiting on a war (multitrack) (e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - waiting on a war)
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - shame shame (multitrack) (e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - shame shame)
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - no son of mine (multitrack) (e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - no son of mine)
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - medicine at midnight (multitrack) (e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - medicine at midnight)
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - making a fire (multitrack) (e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - making a fire)
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - love dies young (multitrack) (e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - love dies young)
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - holding poison (multitrack) (e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - holding poison)
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - cloudspotter (multitrack) (e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - cloudspotter)
+e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - chasing birds (multitrack) (e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - chasing birds)
+e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\brad sucks - gasoline (e:\portableapps\clone_hero\playerdata\songs\mb1nightmare_s customs\brad sucks - gasoline)
 e:\portableapps\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\nirvana - heart-shaped box - 4 ch test (e:\portableapps\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\nirvana - heart-shaped box)
 e:\portableapps\clone_hero\playerdata\songs\guitar hero ii official playstation magazine demo\kiss - strutter (e:\portableapps\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\kiss - strutter)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\tom petty - i won't back down (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\tom petty - i won't back down)
-e:\portableapps\clone_hero\playerdata\songs\rock band 1 dlc\the police - roxanne (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the police - roxanne)
-e:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\the police - every breath you take (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the police - every breath you take)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\the cult - she sells sanctuary (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the cult - she sells sanctuary)
-e:\portableapps\clone_hero\playerdata\songs\the beatles rock band dlc\the beatles - michelle (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the beatles - michelle)
-e:\portableapps\clone_hero\playerdata\songs\the beatles rock band\the beatles - all you need is love (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\the beatles - all you need is love)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\queen - another one bites the dust (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\queen - another one bites the dust)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\mötley crüe - without you (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\mötley crüe - without you)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\mötley crüe - time for change (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\mötley crüe - time for change)
-e:\portableapps\clone_hero\playerdata\songs\rock band 3 dlc\mr. big - to be with  you (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\mr. big - to be with  you)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - dawn patrol (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\megadeth - dawn patrol)
-e:\portableapps\clone_hero\playerdata\songs\guitar hero warriors of rock dlc\marilyn manson - coma white (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\marilyn manson - coma white)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\little fish - bang bang (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\little fish - bang bang)
-e:\portableapps\clone_hero\playerdata\songs\guitar hero - warriors of rock\linkin park - bleed it out (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\linkin park - bleed it out)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\lacuna coil - swamped (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\lacuna coil - swamped)
-e:\portableapps\clone_hero\playerdata\songs\guitar hero 5\kiss - shout it out loud (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\kiss - shout it out loud)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - united (live) (2x bass pedal expert+) (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\judas priest - united (live) (2x bass pedal expert+))
-e:\portableapps\clone_hero\playerdata\songs\guitar hero world tour dlc\in flames - disconnected (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\in flames - disconnected)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - this i love (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\guns n' roses - this i love)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\free - all right now (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\free - all right now)
-e:\portableapps\clone_hero\playerdata\songs\guitar hero - smash hits\danzig - mother (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\danzig - mother)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\creedence clearwater revival - lookin' out my back door (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\creedence clearwater revival - lookin' out my back door)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\creedence clearwater revival - green river (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\creedence clearwater revival - green river)
-e:\portableapps\clone_hero\playerdata\songs\rock band 2 dlc\creedence clearwater revival - bad moon rising (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\creedence clearwater revival - bad moon rising)
-e:\portableapps\clone_hero\playerdata\songs\lego rock band\bon jovi - you give love a bad name (e:\portableapps\clone_hero\playerdata\songs\01_custom_drums\bon jovi - you give love a bad name)
 
 ERROR: These folders contain charts that don't have any supported instruments charted!
 e:\portableapps\clone_hero\playerdata\songs\rock band network\freen in green - halftime
