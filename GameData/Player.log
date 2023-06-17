@@ -23,105 +23,23 @@ int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program
 L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
 t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_t
 exture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 37362432
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 27922032
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.135 seconds
+- Completed reload, in  0.180 seconds
 FastLogger: Activated
 Default vsync count 0
 requesting resize 1280 x 720
 requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
 Desktop is 3200 x 1800 @ 60 Hz
-UnloadTime: 2.375235 ms
+UnloadTime: 2.753111 ms
 Setting up services
-Curl error 6: Could not resolve host: pls.prd.mz.internal.unity3d.com
-Curl error 6: Could not resolve host: config.uca.cloud.unity3d.com
-Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
-Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
-Log ID: -1162915045
-Curl error 6: Could not resolve host: player-auth.services.api.unity.com
-Curl error 6: Could not resolve host: player-auth.services.api.unity.com
-[Authentication]: Network error detected, retrying...
-[Authentication]: Network error detected, retrying...
-Curl error 6: Could not resolve host: player-auth.services.api.unity.com
-[Authentication]: Network error detected, retrying...
-Curl error 6: Could not resolve host: player-auth.services.api.unity.com
-Curl error 6: Could not resolve host: player-auth.services.api.unity.com
-[Authentication]: Network error detected, retrying...
-Curl error 6: Could not resolve host: player-auth.services.api.unity.com
-[Authentication]: Request completed with error: Cannot resolve destination host
-[Authentication]: Request failed: 0, Cannot resolve destination host
-Uploading Crash Report
-WebRequestException: Cannot resolve destination host
-  at Unity.Services.Authentication.WebRequest.SendAsync[T] () [0x0006d] in <ef5b65af803c41759ec43022911208e1>:0 
-  at Unity.Services.Authentication.AuthenticationServiceInternal.HandleSignInRequestAsync (System.Func`1[TResult] signInRequest, System.Boolean enableRefresh) [0x000b9] in <ef5b65af803c41759ec43022911208e1>:0 
-Rethrow as RequestFailedException: Network Error: Cannot resolve destination host
-  at Unity.Services.Authentication.AuthenticationServiceInternal.HandleSignInRequestAsync (System.Func`1[TResult] signInRequest, System.Boolean enableRefresh) [0x00159] in <ef5b65af803c41759ec43022911208e1>:0 
-  at UGSManager.ʹʸʺʴʷʹʺʻʵʾʽ () [0x000e6] in <c6a437496d644dd9911270e738a705c0>:0 
-UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
-ʾʾʶʿʼˁʾʿˁʲʶ:LogException(Exception, Object)
-UnityEngine.Debug:LogException(Exception)
-ʼʴʳʴʾˀʺʸʾʻʵ:MoveNext()
-System.Runtime.CompilerServices.MoveNextRunner:InvokeMoveNext(Object)
-System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
-System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
-System.Runtime.CompilerServices.MoveNextRunner:Run()
-System.Threading.Tasks.AwaitTaskContinuation:InvokeAction(Object)
-System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
-System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
-System.Threading.Tasks.Task:FinishContinuations()
-System.Threading.Tasks.Task:FinishStageThree()
-System.Threading.Tasks.Task:FinishStageTwo()
-System.Threading.Tasks.Task:Finish(Boolean)
-System.Threading.Tasks.Task:TrySetException(Object)
-System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetException(Exception)
-System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetException(Exception)
-Unity.Services.Authentication.<HandleSignInRequestAsync>d__108:MoveNext()
-System.Runtime.CompilerServices.MoveNextRunner:InvokeMoveNext(Object)
-System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
-System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
-System.Runtime.CompilerServices.MoveNextRunner:Run()
-System.Threading.Tasks.AwaitTaskContinuation:InvokeAction(Object)
-System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
-System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
-System.Threading.Tasks.Task:FinishContinuations()
-System.Threading.Tasks.Task:FinishStageThree()
-System.Threading.Tasks.Task:FinishStageTwo()
-System.Threading.Tasks.Task:Finish(Boolean)
-System.Threading.Tasks.Task:TrySetException(Object)
-System.Threading.Tasks.WhenAllPromise:Invoke(Task)
-System.Threading.Tasks.Task:FinishContinuations()
-System.Threading.Tasks.Task:FinishStageThree()
-System.Threading.Tasks.Task:FinishStageTwo()
-System.Threading.Tasks.Task:Finish(Boolean)
-System.Threading.Tasks.Task:TrySetException(Object)
-System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetException(Exception)
-Unity.Services.Authentication.<SendAsync>d__15`1:MoveNext()
-System.Runtime.CompilerServices.MoveNextRunner:InvokeMoveNext(Object)
-System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
-System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
-System.Runtime.CompilerServices.MoveNextRunner:Run()
-System.Threading.Tasks.AwaitTaskContinuation:InvokeAction(Object)
-System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
-System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
-System.Threading.Tasks.Task:FinishContinuations()
-System.Threading.Tasks.Task:FinishStageThree()
-System.Threading.Tasks.Task:FinishStageTwo()
-System.Threading.Tasks.Task:Finish(Boolean)
-System.Threading.Tasks.Task:TrySetException(Object)
-System.Threading.Tasks.TaskCompletionSource`1:TrySetException(Exception)
-System.Threading.Tasks.TaskCompletionSource`1:SetException(Exception)
-Unity.Services.Authentication.WebRequest:RequestCompleted(TaskCompletionSource`1, Int64, Boolean, Boolean, String, String, IDictionary`2)
-Unity.Services.Authentication.<>c__DisplayClass16_0:<SendAttemptAsync>b__0(AsyncOperation)
-UnityEngine.AsyncOperation:InvokeCompletionEvent()
-
-Curl error 6: Could not resolve host: perf-events.cloud.unity3d.com
-Curl error 6: Could not resolve host: config.unity3d.com
-[Authentication]: Request completed with error: Cannot resolve destination host
+Log ID: 2129703016
+Logged into USG
+PlayerID: ujocDavc9Rzfi4fHnfcooZ3xFecr
 Remote config ready!
-Curl error 6: Could not resolve host: pls.prd.mz.internal.unity3d.com
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.680279 ms
+UnloadTime: 8.690028 ms
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
@@ -140,11 +58,8 @@ Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/M
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libsteam_api
 Bass: 2.4.16.7 BassFx: 2.4.12.6 BassMix: 2.4.11.2
 WASAPI
-Curl error 6: Could not resolve host: clonehero.net
 Starting video thumbs
-[2023-06-17T14:08:23.317+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
-Curl error 6: Could not resolve host: clonehero.net
-Curl error 6: Could not resolve host: sources.clonehero.net
+[2023-06-17T15:51:14.813+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
 Biology
 Coalescence & Segmentation
 Combat Mosh
@@ -155,11 +70,11 @@ Flamewall
 Gone (feat. Rasmus Bom Andersen)
 Good Grief Retreat
 Moonhunter
-<Missing i18n Resource>: StrikeLine Base Red :en
 No Known Suspects
 Revenge
 Stigma
 Stop Saying We Sound Like Dragonforce
+<Missing i18n Resource>: StrikeLine Base Red :en
 The Palace of the Kantus
 Troopers of the Stars
 i ws nvr yr grlfrnd
@@ -168,26 +83,11 @@ requesting resize 1280 x 720
 requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
 Desktop is 3200 x 1800 @ 60 Hz
-Cannot resolve destination host
-Cannot resolve destination host
-Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
-Curl error 6: Could not resolve host: online.clonehero.net
-Unloading 585 unused Assets to reduce memory usage. Loaded Objects now: 23050.
-Total: 38.907846 ms (FindLiveObjects: 1.876596 ms CreateObjectMapping: 0.415015 ms MarkObjects: 35.767505 ms  DeleteObjects: 0.847921 ms)
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 23050.
+Total: 40.354477 ms (FindLiveObjects: 2.151572 ms CreateObjectMapping: 0.565810 ms MarkObjects: 37.535917 ms  DeleteObjects: 0.100144 ms)
 
-Cannot resolve destination host
 download source.txt
-Curl error 6: Could not resolve host: sources.clonehero.net
-Cannot resolve destination host
 download source.txt finished
-<Missing i18n Resource>: Device not available.:en
-<Missing i18n Resource>: Device in use by :en
-Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
-<Missing i18n Resource>: This will reset your MIDI mappings.:en
-<Missing i18n Resource>: Press <color="green">Green</color> to continue.:en
-<Missing i18n Resource>: Press <color="red">Red</color> to go back.:en
-<Missing i18n Resource>: Hit the pad you want to assign to {} twice.:en
-Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
 Disposed of memorymapped file
 Disposed of memorymapped file
 Disposed of memorymapped file
@@ -210,7 +110,7 @@ Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 361 frames, [2.0 KB-4.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 7182 frames, [32.0 KB-64.0 KB]: 1 frames, [64.0 KB-128.0 KB]: 3 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames
+      Peak usage frame count: [0-1.0 KB]: 702 frames, [2.0 KB-4.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 2538 frames, [32.0 KB-64.0 KB]: 2 frames, [64.0 KB-128.0 KB]: 3 frames, [128.0 KB-256.0 KB]: 1 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames
       Initial Block Size 4.0 MB
       Current Block Size 4.0 MB
       Peak Allocated Bytes 2.1 MB
@@ -288,7 +188,7 @@ Memory Statistics:
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 27.5 KB
+      Peak Allocated Bytes 19.0 KB
       Overflow Count 0
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 3
       Initial Block Size 64.0 KB
@@ -328,17 +228,17 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 0]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 66 B
-      Overflow Count 0
+      Peak Allocated Bytes 114 B
+      Overflow Count 1
     [ALLOC_TEMP_CloudJob.Worker 0]
       Initial Block Size 32.0 KB
-      Current Block Size 44.0 KB
-      Peak Allocated Bytes 19.6 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 7.2 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 4]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 66 B
+      Peak Allocated Bytes 0 B
       Overflow Count 0
     [ALLOC_TEMP_BatchDeleteObjects]
       Initial Block Size 64.0 KB
@@ -346,22 +246,22 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 5545
+  Peak main deferred allocation count 7102
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 3.6 MB
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 326 frames, [16.0 MB-32.0 MB]: 7224 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 675 frames, [16.0 MB-32.0 MB]: 2574 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 22.9 MB
+      Peak Allocated memory 23.1 MB
       Peak Large allocation bytes 0 B
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 293 frames, [16.0 MB-32.0 MB]: 7257 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 633 frames, [16.0 MB-32.0 MB]: 2616 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 20.1 MB
+      Peak Allocated memory 20.2 MB
       Peak Large allocation bytes 10.3 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -390,13 +290,13 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.6 MB
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 363 frames, [64.0 KB-128.0 KB]: 2 frames, [1.0 MB-2.0 MB]: 2 frames, [2.0 MB-4.0 MB]: 7183 frames
+      Peak usage frame count: [32.0 KB-64.0 KB]: 703 frames, [64.0 KB-128.0 KB]: 2 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 2541 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
-      Peak Allocated memory 3.4 MB
+      Peak Allocated memory 3.7 MB
       Peak Large allocation bytes 0 B
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 221 frames, [16.0 MB-32.0 MB]: 22 frames, [32.0 MB-64.0 MB]: 7307 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 548 frames, [16.0 MB-32.0 MB]: 29 frames, [32.0 MB-64.0 MB]: 2672 frames
       Requested Block Size 16.0 MB
       Peak Block count 3
       Peak Allocated memory 40.0 MB
@@ -408,13 +308,13 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.6 MB
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [2.0 MB-4.0 MB]: 7550 frames
+      Peak usage frame count: [2.0 MB-4.0 MB]: 3249 frames
       Requested Block Size 4.0 MB
       Peak Block count 1
-      Peak Allocated memory 3.1 MB
+      Peak Allocated memory 3.2 MB
       Peak Large allocation bytes 0 B
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [32.0 MB-64.0 MB]: 252 frames, [64.0 MB-128.0 MB]: 7298 frames
+      Peak usage frame count: [32.0 MB-64.0 MB]: 592 frames, [64.0 MB-128.0 MB]: 2657 frames
       Requested Block Size 4.0 MB
       Peak Block count 4
       Peak Allocated memory 82.2 MB
@@ -426,13 +326,13 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.6 MB
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 366 frames, [4.0 KB-8.0 KB]: 7184 frames
+      Peak usage frame count: [0-1.0 KB]: 706 frames, [4.0 KB-8.0 KB]: 2543 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
-      Peak Allocated memory 5.1 KB
+      Peak Allocated memory 6.1 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [256.0 KB-0.5 MB]: 7550 frames
+      Peak usage frame count: [256.0 KB-0.5 MB]: 3249 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 314.4 KB
