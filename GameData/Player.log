@@ -23,23 +23,23 @@ int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program
 L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
 t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_t
 exture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 31868896
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 28456624
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.115 seconds
+- Completed reload, in  0.098 seconds
 FastLogger: Activated
 Default vsync count 0
 requesting resize 1280 x 720
 requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
 Desktop is 3200 x 1800 @ 60 Hz
-UnloadTime: 2.588432 ms
+UnloadTime: 1.348023 ms
 Setting up services
-Log ID: 2067253336
+Log ID: 938052305
 Logged into USG
 PlayerID: ujocDavc9Rzfi4fHnfcooZ3xFecr
 Remote config ready!
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.981586 ms
+UnloadTime: 8.894908 ms
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
@@ -59,7 +59,7 @@ Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/M
 Bass: 2.4.16.7 BassFx: 2.4.12.6 BassMix: 2.4.11.2
 WASAPI
 Starting video thumbs
-[2023-06-17T11:26:52.007+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
+[2023-06-17T11:27:24.185+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
 Biology
 Coalescence & Segmentation
 Combat Mosh
@@ -84,7 +84,7 @@ requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
 Desktop is 3200 x 1800 @ 60 Hz
 Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 23050.
-Total: 40.813315 ms (FindLiveObjects: 2.049102 ms CreateObjectMapping: 0.538362 ms MarkObjects: 38.127425 ms  DeleteObjects: 0.097664 ms)
+Total: 41.205407 ms (FindLiveObjects: 1.534890 ms CreateObjectMapping: 0.469163 ms MarkObjects: 38.869732 ms  DeleteObjects: 0.330605 ms)
 
 download source.txt
 download source.txt finished
@@ -109,7 +109,7 @@ Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 670 frames, [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 219 frames, [4.0 KB-8.0 KB]: 1 frames, [8.0 KB-16.0 KB]: 3 frames, [16.0 KB-32.0 KB]: 385 frames, [32.0 KB-64.0 KB]: 2 frames, [64.0 KB-128.0 KB]: 3 frames, [128.0 KB-256.0 KB]: 2 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames
+      Peak usage frame count: [0-1.0 KB]: 578 frames, [2.0 KB-4.0 KB]: 292 frames, [4.0 KB-8.0 KB]: 80 frames, [8.0 KB-16.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 421 frames, [32.0 KB-64.0 KB]: 2 frames, [64.0 KB-128.0 KB]: 5 frames, [128.0 KB-256.0 KB]: 2 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames
       Initial Block Size 4.0 MB
       Current Block Size 4.0 MB
       Peak Allocated Bytes 2.1 MB
@@ -187,7 +187,7 @@ Memory Statistics:
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 19.0 KB
+      Peak Allocated Bytes 29.6 KB
       Overflow Count 0
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 3
       Initial Block Size 64.0 KB
@@ -237,7 +237,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 4]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 66 B
+      Peak Allocated Bytes 0 B
       Overflow Count 0
     [ALLOC_TEMP_BatchDeleteObjects]
       Initial Block Size 64.0 KB
@@ -251,16 +251,16 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.7 MB
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 625 frames, [16.0 MB-32.0 MB]: 663 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 530 frames, [16.0 MB-32.0 MB]: 853 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 23.4 MB
+      Peak Allocated memory 23.2 MB
       Peak Large allocation bytes 0 B
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 621 frames, [16.0 MB-32.0 MB]: 667 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 524 frames, [16.0 MB-32.0 MB]: 859 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 19.9 MB
+      Peak Allocated memory 20.2 MB
       Peak Large allocation bytes 10.3 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -289,13 +289,13 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.7 MB
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 673 frames, [64.0 KB-128.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 1 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 324 frames, [4.0 MB-8.0 MB]: 286 frames
+      Peak usage frame count: [32.0 KB-64.0 KB]: 579 frames, [64.0 KB-128.0 KB]: 3 frames, [128.0 KB-256.0 KB]: 1 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 794 frames, [16.0 MB-32.0 MB]: 1 frames
       Requested Block Size 16.0 MB
-      Peak Block count 1
-      Peak Allocated memory 6.2 MB
+      Peak Block count 2
+      Peak Allocated memory 22.1 MB
       Peak Large allocation bytes 0 B
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 573 frames, [16.0 MB-32.0 MB]: 3 frames, [32.0 MB-64.0 MB]: 712 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 488 frames, [16.0 MB-32.0 MB]: 3 frames, [32.0 MB-64.0 MB]: 892 frames
       Requested Block Size 16.0 MB
       Peak Block count 3
       Peak Allocated memory 40.0 MB
@@ -307,13 +307,13 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.7 MB
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [2.0 MB-4.0 MB]: 1288 frames
+      Peak usage frame count: [2.0 MB-4.0 MB]: 1383 frames
       Requested Block Size 4.0 MB
       Peak Block count 1
       Peak Allocated memory 3.2 MB
       Peak Large allocation bytes 0 B
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [32.0 MB-64.0 MB]: 580 frames, [64.0 MB-128.0 MB]: 708 frames
+      Peak usage frame count: [32.0 MB-64.0 MB]: 496 frames, [64.0 MB-128.0 MB]: 887 frames
       Requested Block Size 4.0 MB
       Peak Block count 4
       Peak Allocated memory 82.2 MB
@@ -325,13 +325,13 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.7 MB
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 676 frames, [4.0 KB-8.0 KB]: 612 frames
+      Peak usage frame count: [0-1.0 KB]: 584 frames, [4.0 KB-8.0 KB]: 799 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 6.1 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [256.0 KB-0.5 MB]: 1288 frames
+      Peak usage frame count: [256.0 KB-0.5 MB]: 1383 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 314.4 KB
