@@ -23,23 +23,23 @@ int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program
 L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
 t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_t
 exture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 18510512
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 25371360
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.173 seconds
+- Completed reload, in  0.160 seconds
 FastLogger: Activated
 Default vsync count 0
 requesting resize 1280 x 720
 requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
 Desktop is 3200 x 1800 @ 60 Hz
-UnloadTime: 1.243348 ms
+UnloadTime: 1.097465 ms
 Setting up services
-Log ID: -280455216
+Log ID: 891997326
 Logged into USG
 PlayerID: ujocDavc9Rzfi4fHnfcooZ3xFecr
 Remote config ready!
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 16.061694 ms
+UnloadTime: 12.312637 ms
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
@@ -59,7 +59,7 @@ Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/M
 Bass: 2.4.16.7 BassFx: 2.4.12.6 BassMix: 2.4.11.2
 WASAPI
 Starting video thumbs
-[2023-06-22T19:10:27.800+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
+[2023-06-25T19:10:55.128+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
 Biology
 Coalescence & Segmentation
 Combat Mosh
@@ -72,8 +72,8 @@ Good Grief Retreat
 Moonhunter
 No Known Suspects
 Revenge
-Stigma
 <Missing i18n Resource>: StrikeLine Base Red :en
+Stigma
 Stop Saying We Sound Like Dragonforce
 The Palace of the Kantus
 Troopers of the Stars
@@ -83,394 +83,133 @@ requesting resize 1280 x 720
 requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
 Desktop is 3200 x 1800 @ 60 Hz
-Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 23681.
-Total: 58.336494 ms (FindLiveObjects: 1.709824 ms CreateObjectMapping: 0.427797 ms MarkObjects: 56.087111 ms  DeleteObjects: 0.110757 ms)
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 23050.
+Total: 45.597215 ms (FindLiveObjects: 2.123915 ms CreateObjectMapping: 0.545886 ms MarkObjects: 42.781932 ms  DeleteObjects: 0.144600 ms)
 
 download source.txt
 download source.txt finished
 <Missing i18n Resource>: Device not available.:en
 <Missing i18n Resource>: Device in use by :en
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 31.520324 ms
-Loading Song: Otis Redding - (Sittin' on the) Dock of the Bay (Take 2)
+UnloadTime: 53.136147 ms
+Loading Song: Pages - If I Saw You Again
 Returned missing glyphs are correct.
 Unloading 1155 unused Assets to reduce memory usage. Loaded Objects now: 14562.
-Total: 34.757240 ms (FindLiveObjects: 1.045063 ms CreateObjectMapping: 0.463174 ms MarkObjects: 32.307973 ms  DeleteObjects: 0.940216 ms)
+Total: 37.352946 ms (FindLiveObjects: 1.357865 ms CreateObjectMapping: 0.619987 ms MarkObjects: 32.050968 ms  DeleteObjects: 3.323394 ms)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 20.369034 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9609.
-Total: 46.073346 ms (FindLiveObjects: 1.624031 ms CreateObjectMapping: 0.545936 ms MarkObjects: 42.880551 ms  DeleteObjects: 1.021531 ms)
+UnloadTime: 13.837199 ms
+Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9577.
+Total: 46.910629 ms (FindLiveObjects: 0.739741 ms CreateObjectMapping: 0.361314 ms MarkObjects: 44.756782 ms  DeleteObjects: 1.051736 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 11.254998 ms
+UnloadTime: 10.552763 ms
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 23853.
-Total: 46.441733 ms (FindLiveObjects: 1.930395 ms CreateObjectMapping: 0.569260 ms MarkObjects: 43.810856 ms  DeleteObjects: 0.130080 ms)
+Total: 42.764432 ms (FindLiveObjects: 1.585718 ms CreateObjectMapping: 0.447194 ms MarkObjects: 40.614659 ms  DeleteObjects: 0.116072 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 32.680245 ms
-Loading Song: Hautewerk - Alone in My Head
+UnloadTime: 28.958074 ms
+Loading Song: Coheed & Cambria - Welcome Home
+Unloading 598 unused Assets to reduce memory usage. Loaded Objects now: 14561.
+Total: 32.026862 ms (FindLiveObjects: 0.920878 ms CreateObjectMapping: 0.408188 ms MarkObjects: 30.202827 ms  DeleteObjects: 0.494201 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.609709 ms
+Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9592.
+Total: 41.913367 ms (FindLiveObjects: 0.687923 ms CreateObjectMapping: 0.361243 ms MarkObjects: 39.912279 ms  DeleteObjects: 0.950921 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.739852 ms
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23853.
+Total: 44.790852 ms (FindLiveObjects: 1.756665 ms CreateObjectMapping: 0.476365 ms MarkObjects: 42.464050 ms  DeleteObjects: 0.092678 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 28.687082 ms
+Loading Song: Guns N' Roses - Down on the Farm
 Returned missing glyphs are correct.
 Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14564.
-Total: 37.387922 ms (FindLiveObjects: 0.984408 ms CreateObjectMapping: 0.413300 ms MarkObjects: 35.470049 ms  DeleteObjects: 0.519255 ms)
+Total: 37.476378 ms (FindLiveObjects: 0.908286 ms CreateObjectMapping: 0.403177 ms MarkObjects: 35.638289 ms  DeleteObjects: 0.525818 ms)
 
 <Missing i18n Resource>: Current Section::en
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.317193 ms
+UnloadTime: 30.819118 ms
 Unloading 617 unused Assets to reduce memory usage. Loaded Objects now: 23081.
-Total: 42.696518 ms (FindLiveObjects: 2.021068 ms CreateObjectMapping: 0.657352 ms MarkObjects: 38.825889 ms  DeleteObjects: 1.191322 ms)
+Total: 41.431655 ms (FindLiveObjects: 1.933874 ms CreateObjectMapping: 0.511474 ms MarkObjects: 37.760403 ms  DeleteObjects: 1.224986 ms)
 
-<Missing i18n Resource>: Intensity:en
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 30.509288 ms
-Loading Song: Foo Fighters - Wheels
+UnloadTime: 33.291107 ms
+Loading Song: Body Count - Body Count
 Returned missing glyphs are correct.
 Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14568.
-Total: 33.414663 ms (FindLiveObjects: 1.016973 ms CreateObjectMapping: 0.418676 ms MarkObjects: 31.491061 ms  DeleteObjects: 0.487086 ms)
+Total: 33.520993 ms (FindLiveObjects: 1.011063 ms CreateObjectMapping: 0.408006 ms MarkObjects: 31.667161 ms  DeleteObjects: 0.433362 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.829264 ms
+Unloading 618 unused Assets to reduce memory usage. Loaded Objects now: 23084.
+Total: 41.572390 ms (FindLiveObjects: 2.188295 ms CreateObjectMapping: 0.562680 ms MarkObjects: 37.794076 ms  DeleteObjects: 1.026274 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 30.261701 ms
+Loading Song: AC/DC - Back in Black (Live)
+Returned missing glyphs are correct.
+Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14571.
+Total: 32.939831 ms (FindLiveObjects: 1.017109 ms CreateObjectMapping: 0.410662 ms MarkObjects: 31.044225 ms  DeleteObjects: 0.466430 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.682876 ms
+Unloading 618 unused Assets to reduce memory usage. Loaded Objects now: 23087.
+Total: 50.141181 ms (FindLiveObjects: 1.854621 ms CreateObjectMapping: 0.644284 ms MarkObjects: 46.093217 ms  DeleteObjects: 1.547527 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 30.940159 ms
+Loading Song: AC/DC - Back in Black (Live)
+Returned missing glyphs are correct.
+Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14574.
+Total: 44.047621 ms (FindLiveObjects: 1.330350 ms CreateObjectMapping: 0.614869 ms MarkObjects: 41.508396 ms  DeleteObjects: 0.593065 ms)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 16.014183 ms
+UnloadTime: 11.044343 ms
+Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9621.
+Total: 46.096396 ms (FindLiveObjects: 0.952050 ms CreateObjectMapping: 0.357640 ms MarkObjects: 43.786042 ms  DeleteObjects: 0.999895 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.240244 ms
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 23865.
+Total: 45.564030 ms (FindLiveObjects: 1.760349 ms CreateObjectMapping: 0.511187 ms MarkObjects: 43.189827 ms  DeleteObjects: 0.101682 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 28.474950 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14576.
+Total: 41.004268 ms (FindLiveObjects: 0.921747 ms CreateObjectMapping: 0.415585 ms MarkObjects: 39.054929 ms  DeleteObjects: 0.610903 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.213371 ms
 Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9615.
-Total: 46.385888 ms (FindLiveObjects: 0.896924 ms CreateObjectMapping: 0.356290 ms MarkObjects: 43.888113 ms  DeleteObjects: 1.243417 ms)
+Total: 42.485237 ms (FindLiveObjects: 0.804630 ms CreateObjectMapping: 0.496046 ms MarkObjects: 40.053532 ms  DeleteObjects: 1.130007 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.064523 ms
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 23859.
-Total: 44.046801 ms (FindLiveObjects: 2.096783 ms CreateObjectMapping: 0.542965 ms MarkObjects: 41.280196 ms  DeleteObjects: 0.125757 ms)
+UnloadTime: 10.350691 ms
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23868.
+Total: 45.710523 ms (FindLiveObjects: 2.052934 ms CreateObjectMapping: 0.535384 ms MarkObjects: 43.006056 ms  DeleteObjects: 0.115191 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 28.906533 ms
-Loading Song: Green Day - Whatsername
+UnloadTime: 28.314733 ms
+Loading Song: AC/DC - For Those About to Rock (We Salute You) (Live)
 Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14570.
-Total: 40.817969 ms (FindLiveObjects: 0.996014 ms CreateObjectMapping: 0.436766 ms MarkObjects: 38.946498 ms  DeleteObjects: 0.437805 ms)
+Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14579.
+Total: 34.837745 ms (FindLiveObjects: 1.318541 ms CreateObjectMapping: 0.623377 ms MarkObjects: 32.338801 ms  DeleteObjects: 0.556076 ms)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.492052 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9609.
-Total: 40.816153 ms (FindLiveObjects: 0.724533 ms CreateObjectMapping: 0.569831 ms MarkObjects: 38.564926 ms  DeleteObjects: 0.955626 ms)
+UnloadTime: 13.854677 ms
+Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9610.
+Total: 43.496233 ms (FindLiveObjects: 0.906368 ms CreateObjectMapping: 0.360291 ms MarkObjects: 41.103070 ms  DeleteObjects: 1.125587 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 36.777557 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23862.
-Total: 43.525863 ms (FindLiveObjects: 1.780992 ms CreateObjectMapping: 0.496028 ms MarkObjects: 41.134781 ms  DeleteObjects: 0.113270 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 30.970110 ms
-Loading Song: Sublime - What I Got
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14573.
-Total: 33.609946 ms (FindLiveObjects: 1.008544 ms CreateObjectMapping: 0.414339 ms MarkObjects: 31.764137 ms  DeleteObjects: 0.421697 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 26.144119 ms
-Unloading 617 unused Assets to reduce memory usage. Loaded Objects now: 23090.
-Total: 45.032380 ms (FindLiveObjects: 1.783129 ms CreateObjectMapping: 0.527838 ms MarkObjects: 41.517800 ms  DeleteObjects: 1.202014 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 29.864063 ms
-Loading Song: Black Rebel Motorcycle Club - Weapon of Choice
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14577.
-Total: 35.895109 ms (FindLiveObjects: 1.003458 ms CreateObjectMapping: 0.417849 ms MarkObjects: 34.058140 ms  DeleteObjects: 0.414950 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.062200 ms
-Unloading 618 unused Assets to reduce memory usage. Loaded Objects now: 23093.
-Total: 42.987687 ms (FindLiveObjects: 1.826421 ms CreateObjectMapping: 0.616101 ms MarkObjects: 39.557881 ms  DeleteObjects: 0.986209 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 28.366152 ms
-Loading Song: Pixies - Wave of Mutilation
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14580.
-Total: 46.688065 ms (FindLiveObjects: 1.037331 ms CreateObjectMapping: 0.427003 ms MarkObjects: 44.786666 ms  DeleteObjects: 0.436023 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 30.675696 ms
-Unloading 618 unused Assets to reduce memory usage. Loaded Objects now: 23096.
-Total: 44.300761 ms (FindLiveObjects: 1.649975 ms CreateObjectMapping: 0.808213 ms MarkObjects: 40.669467 ms  DeleteObjects: 1.172193 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 37.302837 ms
-Loading Song: Hinder - Use Me
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14583.
-Total: 45.552233 ms (FindLiveObjects: 1.169360 ms CreateObjectMapping: 0.434296 ms MarkObjects: 43.425650 ms  DeleteObjects: 0.521983 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.052413 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9622.
-Total: 39.990767 ms (FindLiveObjects: 0.636902 ms CreateObjectMapping: 0.410346 ms MarkObjects: 37.926954 ms  DeleteObjects: 1.015753 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.159698 ms
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 23874.
-Total: 45.154609 ms (FindLiveObjects: 1.809783 ms CreateObjectMapping: 0.485033 ms MarkObjects: 42.743129 ms  DeleteObjects: 0.115566 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 28.780400 ms
-Loading Song: The Mother Hips - Time-Sick Son of a Grizzly Bear
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14585.
-Total: 39.712022 ms (FindLiveObjects: 0.909319 ms CreateObjectMapping: 0.420542 ms MarkObjects: 37.881284 ms  DeleteObjects: 0.500139 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.642425 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9632.
-Total: 40.794526 ms (FindLiveObjects: 0.660875 ms CreateObjectMapping: 0.377645 ms MarkObjects: 38.721462 ms  DeleteObjects: 1.033438 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 11.795035 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23877.
-Total: 45.199110 ms (FindLiveObjects: 2.446068 ms CreateObjectMapping: 0.531231 ms MarkObjects: 42.091617 ms  DeleteObjects: 0.129159 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 29.908908 ms
-Loading Song: Brad Sucks - Time to Take Out the Trash
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14588.
-Total: 37.708032 ms (FindLiveObjects: 0.949378 ms CreateObjectMapping: 0.424401 ms MarkObjects: 35.894060 ms  DeleteObjects: 0.439018 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 17.465399 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9627.
-Total: 39.710033 ms (FindLiveObjects: 0.648117 ms CreateObjectMapping: 0.369621 ms MarkObjects: 37.733514 ms  DeleteObjects: 0.957820 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.956014 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23880.
-Total: 47.590376 ms (FindLiveObjects: 2.024704 ms CreateObjectMapping: 0.498626 ms MarkObjects: 44.961329 ms  DeleteObjects: 0.104796 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 30.217344 ms
-Loading Song: Billy Squier - The Stroke
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14591.
-Total: 37.666997 ms (FindLiveObjects: 1.294798 ms CreateObjectMapping: 0.592860 ms MarkObjects: 35.196116 ms  DeleteObjects: 0.582009 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 11.859402 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9630.
-Total: 40.885242 ms (FindLiveObjects: 0.889873 ms CreateObjectMapping: 0.343711 ms MarkObjects: 38.504497 ms  DeleteObjects: 1.146153 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.992645 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23883.
-Total: 46.048096 ms (FindLiveObjects: 1.988605 ms CreateObjectMapping: 0.517188 ms MarkObjects: 43.435956 ms  DeleteObjects: 0.105262 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 35.293982 ms
-Loading Song: Incubus - Stellar
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14594.
-Total: 37.867932 ms (FindLiveObjects: 1.000460 ms CreateObjectMapping: 0.418730 ms MarkObjects: 35.928924 ms  DeleteObjects: 0.518691 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 36.782383 ms
-Loading Song: Incubus - Stellar
-Returned missing glyphs are correct.
-Unloading 538 unused Assets to reduce memory usage. Loaded Objects now: 14597.
-Total: 36.376010 ms (FindLiveObjects: 0.991647 ms CreateObjectMapping: 0.720413 ms MarkObjects: 34.268226 ms  DeleteObjects: 0.394617 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 12.231089 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9636.
-Total: 42.732704 ms (FindLiveObjects: 0.737682 ms CreateObjectMapping: 0.345620 ms MarkObjects: 40.409259 ms  DeleteObjects: 1.239028 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.258703 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23889.
-Total: 47.022124 ms (FindLiveObjects: 1.985633 ms CreateObjectMapping: 0.522570 ms MarkObjects: 44.385167 ms  DeleteObjects: 0.127503 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 35.978266 ms
-Loading Song: Less Than Jake - Soundtrack of My Life
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14600.
-Total: 38.460444 ms (FindLiveObjects: 1.322185 ms CreateObjectMapping: 0.603088 ms MarkObjects: 36.031806 ms  DeleteObjects: 0.502304 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 14.641585 ms
-Unloading 617 unused Assets to reduce memory usage. Loaded Objects now: 23117.
-Total: 43.941441 ms (FindLiveObjects: 1.818954 ms CreateObjectMapping: 0.589531 ms MarkObjects: 40.213523 ms  DeleteObjects: 1.318206 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 28.790649 ms
-Loading Song: Oasis - Soldier On
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14604.
-Total: 33.690030 ms (FindLiveObjects: 0.922394 ms CreateObjectMapping: 0.421498 ms MarkObjects: 31.943078 ms  DeleteObjects: 0.402243 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 12.254509 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9635.
-Total: 39.693468 ms (FindLiveObjects: 0.687094 ms CreateObjectMapping: 0.512230 ms MarkObjects: 37.428776 ms  DeleteObjects: 1.064572 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.992787 ms
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 23895.
-Total: 48.160242 ms (FindLiveObjects: 2.177256 ms CreateObjectMapping: 0.510820 ms MarkObjects: 45.355131 ms  DeleteObjects: 0.115305 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 28.093847 ms
-Loading Song: Beastie Boys - So What'cha Want
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14606.
-Total: 34.432775 ms (FindLiveObjects: 0.999196 ms CreateObjectMapping: 0.416604 ms MarkObjects: 32.461944 ms  DeleteObjects: 0.553824 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.643808 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9637.
-Total: 41.625287 ms (FindLiveObjects: 0.880572 ms CreateObjectMapping: 0.410393 ms MarkObjects: 39.230227 ms  DeleteObjects: 1.103038 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.157074 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23898.
-Total: 46.271734 ms (FindLiveObjects: 1.656404 ms CreateObjectMapping: 0.487768 ms MarkObjects: 44.020632 ms  DeleteObjects: 0.105871 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 38.217017 ms
-Loading Song: Lynyrd Skynyrd - Simple Man
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14609.
-Total: 39.293126 ms (FindLiveObjects: 0.993178 ms CreateObjectMapping: 0.435324 ms MarkObjects: 37.286369 ms  DeleteObjects: 0.576905 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 28.961678 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9656.
-Total: 44.656911 ms (FindLiveObjects: 0.921457 ms CreateObjectMapping: 0.385479 ms MarkObjects: 42.087315 ms  DeleteObjects: 1.261521 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.963277 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23901.
-Total: 46.552871 ms (FindLiveObjects: 1.588990 ms CreateObjectMapping: 0.492467 ms MarkObjects: 44.368610 ms  DeleteObjects: 0.101949 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 29.659140 ms
-Loading Song: Kiss - Shout It Out Loud
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14612.
-Total: 34.535500 ms (FindLiveObjects: 1.022537 ms CreateObjectMapping: 0.450875 ms MarkObjects: 32.567106 ms  DeleteObjects: 0.493992 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.451428 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9643.
-Total: 40.538994 ms (FindLiveObjects: 0.704343 ms CreateObjectMapping: 0.368902 ms MarkObjects: 38.496194 ms  DeleteObjects: 0.968618 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.729777 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23904.
-Total: 46.252054 ms (FindLiveObjects: 2.368025 ms CreateObjectMapping: 0.699101 ms MarkObjects: 43.049669 ms  DeleteObjects: 0.134338 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 28.306472 ms
-Loading Song: The Offspring - Pretty Fly (For a White Guy)
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14615.
-Total: 34.073699 ms (FindLiveObjects: 0.925766 ms CreateObjectMapping: 0.410059 ms MarkObjects: 32.223034 ms  DeleteObjects: 0.514108 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 13.416130 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9646.
-Total: 40.218988 ms (FindLiveObjects: 0.789019 ms CreateObjectMapping: 0.388209 ms MarkObjects: 37.866992 ms  DeleteObjects: 1.173931 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.593561 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23907.
-Total: 46.576282 ms (FindLiveObjects: 2.080699 ms CreateObjectMapping: 0.494362 ms MarkObjects: 43.903624 ms  DeleteObjects: 0.096778 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 30.920603 ms
-Loading Song: Brad Sucks - Making Me Nervous
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14618.
-Total: 33.594009 ms (FindLiveObjects: 0.924644 ms CreateObjectMapping: 0.413879 ms MarkObjects: 31.730452 ms  DeleteObjects: 0.523814 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 14.257907 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9649.
-Total: 41.186184 ms (FindLiveObjects: 0.875023 ms CreateObjectMapping: 0.452068 ms MarkObjects: 38.897103 ms  DeleteObjects: 0.960787 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.968098 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23910.
-Total: 46.002553 ms (FindLiveObjects: 1.973724 ms CreateObjectMapping: 0.518311 ms MarkObjects: 43.399281 ms  DeleteObjects: 0.110350 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 29.218145 ms
-Loading Song: Pat Benatar - Love is a Battlefield
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14621.
-Total: 37.880833 ms (FindLiveObjects: 1.008108 ms CreateObjectMapping: 0.427358 ms MarkObjects: 35.960947 ms  DeleteObjects: 0.483287 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 33.334352 ms
-Unloading 617 unused Assets to reduce memory usage. Loaded Objects now: 23138.
-Total: 44.355323 ms (FindLiveObjects: 2.204234 ms CreateObjectMapping: 0.523495 ms MarkObjects: 40.382682 ms  DeleteObjects: 1.243948 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 30.884398 ms
-Loading Song: Kiss - Love Gun
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14625.
-Total: 43.396508 ms (FindLiveObjects: 1.014643 ms CreateObjectMapping: 0.447800 ms MarkObjects: 41.351945 ms  DeleteObjects: 0.581154 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 14.992393 ms
-Unloading 618 unused Assets to reduce memory usage. Loaded Objects now: 23141.
-Total: 43.512339 ms (FindLiveObjects: 1.748932 ms CreateObjectMapping: 0.504706 ms MarkObjects: 39.877812 ms  DeleteObjects: 1.379587 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 31.392750 ms
-Loading Song: a t o m - Light Of Day
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14628.
-Total: 35.147165 ms (FindLiveObjects: 1.031156 ms CreateObjectMapping: 0.425144 ms MarkObjects: 33.175822 ms  DeleteObjects: 0.514196 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 30.142065 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9675.
-Total: 49.859424 ms (FindLiveObjects: 0.648452 ms CreateObjectMapping: 0.398492 ms MarkObjects: 47.721891 ms  DeleteObjects: 1.089765 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.960856 ms
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 23919.
-Total: 45.240227 ms (FindLiveObjects: 2.162849 ms CreateObjectMapping: 0.485343 ms MarkObjects: 42.485376 ms  DeleteObjects: 0.105725 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 29.637058 ms
-Loading Song: AC/DC - The Jack (Live)
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14630.
-Total: 42.181951 ms (FindLiveObjects: 1.302202 ms CreateObjectMapping: 0.600519 ms MarkObjects: 39.683549 ms  DeleteObjects: 0.594609 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 12.575167 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9677.
-Total: 41.274815 ms (FindLiveObjects: 0.642816 ms CreateObjectMapping: 0.397969 ms MarkObjects: 39.238802 ms  DeleteObjects: 0.994471 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 11.033474 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23922.
-Total: 37.196438 ms (FindLiveObjects: 1.691638 ms CreateObjectMapping: 0.536425 ms MarkObjects: 34.858469 ms  DeleteObjects: 0.108831 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 30.821999 ms
-Loading Song: AC/DC - Moneytalks (Live)
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14633.
-Total: 39.477772 ms (FindLiveObjects: 1.043356 ms CreateObjectMapping: 0.474083 ms MarkObjects: 37.427661 ms  DeleteObjects: 0.531197 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 26.539270 ms
-Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 9680.
-Total: 44.116819 ms (FindLiveObjects: 0.906236 ms CreateObjectMapping: 0.380867 ms MarkObjects: 41.535521 ms  DeleteObjects: 1.293121 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.849940 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23925.
-Total: 47.968172 ms (FindLiveObjects: 1.701279 ms CreateObjectMapping: 0.462156 ms MarkObjects: 45.694075 ms  DeleteObjects: 0.109329 ms)
+UnloadTime: 10.306041 ms
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23871.
+Total: 47.227141 ms (FindLiveObjects: 1.719516 ms CreateObjectMapping: 0.546506 ms MarkObjects: 44.856022 ms  DeleteObjects: 0.103976 ms)
 
 Disposed of memorymapped file
 Disposed of memorymapped file
@@ -494,7 +233,7 @@ Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 737 frames, [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 1253147 frames, [4.0 KB-8.0 KB]: 77 frames, [8.0 KB-16.0 KB]: 59 frames, [16.0 KB-32.0 KB]: 4273 frames, [32.0 KB-64.0 KB]: 200 frames, [64.0 KB-128.0 KB]: 36 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 25 frames, [0.5 MB-1.0 MB]: 42 frames, [1.0 MB-2.0 MB]: 25 frames, [2.0 MB-4.0 MB]: 1 frames
+      Peak usage frame count: [0-1.0 KB]: 708 frames, [2.0 KB-4.0 KB]: 576972 frames, [4.0 KB-8.0 KB]: 27 frames, [8.0 KB-16.0 KB]: 35 frames, [16.0 KB-32.0 KB]: 1875 frames, [32.0 KB-64.0 KB]: 652 frames, [64.0 KB-128.0 KB]: 17 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 8 frames, [0.5 MB-1.0 MB]: 13 frames, [1.0 MB-2.0 MB]: 9 frames, [2.0 MB-4.0 MB]: 1 frames
       Initial Block Size 4.0 MB
       Current Block Size 4.0 MB
       Peak Allocated Bytes 2.1 MB
@@ -502,13 +241,13 @@ Memory Statistics:
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
-      Peak Allocated Bytes 168 B
+      Peak Allocated Bytes 208 B
       Overflow Count 0
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
       Current Block Size 508.0 KB
       Peak Allocated Bytes 313.2 KB
-      Overflow Count 286
+      Overflow Count 106
     [ALLOC_TEMP_Background Job.Worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -522,7 +261,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 0]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 59.3 KB
+      Peak Allocated Bytes 56.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 10]
       Initial Block Size 32.0 KB
@@ -592,12 +331,12 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 1]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 59.2 KB
+      Peak Allocated Bytes 58.7 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 2]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 59.3 KB
+      Peak Allocated Bytes 58.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 3]
       Initial Block Size 32.0 KB
@@ -630,31 +369,31 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 7235
+  Peak main deferred allocation count 7525
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 3.9 MB
       Failed Allocations. Bucket layout:
-        16B: 18 Subsections = 18432 buckets. Failed count: 80032
-        32B: 18 Subsections = 9216 buckets. Failed count: 176932
-        48B: 43 Subsections = 14677 buckets. Failed count: 32128
+        16B: 17 Subsections = 17408 buckets. Failed count: 38975
+        32B: 18 Subsections = 9216 buckets. Failed count: 50843
+        48B: 43 Subsections = 14677 buckets. Failed count: 317
         64B: 95 Subsections = 24320 buckets. Failed count: 0
         80B: 25 Subsections = 5120 buckets. Failed count: 0
-        96B: 6 Subsections = 1024 buckets. Failed count: 96170
-        112B: 6 Subsections = 877 buckets. Failed count: 33669
-        128B: 45 Subsections = 5760 buckets. Failed count: 4583
+        96B: 7 Subsections = 1194 buckets. Failed count: 22710
+        112B: 6 Subsections = 877 buckets. Failed count: 17121
+        128B: 45 Subsections = 5760 buckets. Failed count: 1885
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 679 frames, [16.0 MB-32.0 MB]: 1257945 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 655 frames, [16.0 MB-32.0 MB]: 579663 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 25.3 MB
+      Peak Allocated memory 25.0 MB
       Peak Large allocation bytes 0 B
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 678 frames, [16.0 MB-32.0 MB]: 1257946 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 633 frames, [16.0 MB-32.0 MB]: 579685 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 30.1 MB
+      Peak Allocated memory 30.0 MB
       Peak Large allocation bytes 16.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -683,49 +422,49 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.9 MB
       Failed Allocations. Bucket layout:
-        16B: 18 Subsections = 18432 buckets. Failed count: 80032
-        32B: 18 Subsections = 9216 buckets. Failed count: 176932
-        48B: 43 Subsections = 14677 buckets. Failed count: 32128
+        16B: 17 Subsections = 17408 buckets. Failed count: 38975
+        32B: 18 Subsections = 9216 buckets. Failed count: 50843
+        48B: 43 Subsections = 14677 buckets. Failed count: 317
         64B: 95 Subsections = 24320 buckets. Failed count: 0
         80B: 25 Subsections = 5120 buckets. Failed count: 0
-        96B: 6 Subsections = 1024 buckets. Failed count: 96170
-        112B: 6 Subsections = 877 buckets. Failed count: 33669
-        128B: 45 Subsections = 5760 buckets. Failed count: 4583
+        96B: 7 Subsections = 1194 buckets. Failed count: 22710
+        112B: 6 Subsections = 877 buckets. Failed count: 17121
+        128B: 45 Subsections = 5760 buckets. Failed count: 1885
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 739 frames, [64.0 KB-128.0 KB]: 3 frames, [128.0 KB-256.0 KB]: 1 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 19453 frames, [4.0 MB-8.0 MB]: 8678 frames, [8.0 MB-16.0 MB]: 240593 frames, [16.0 MB-32.0 MB]: 837417 frames, [32.0 MB-64.0 MB]: 151737 frames
+      Peak usage frame count: [32.0 KB-64.0 KB]: 709 frames, [64.0 KB-128.0 KB]: 4 frames, [128.0 KB-256.0 KB]: 1 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 3694 frames, [4.0 MB-8.0 MB]: 8140 frames, [8.0 MB-16.0 MB]: 567759 frames, [16.0 MB-32.0 MB]: 8 frames
       Requested Block Size 16.0 MB
-      Peak Block count 4
-      Peak Allocated memory 36.0 MB
+      Peak Block count 2
+      Peak Allocated memory 20.4 MB
       Peak Large allocation bytes 0 B
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 545 frames, [16.0 MB-32.0 MB]: 14 frames, [32.0 MB-64.0 MB]: 1258065 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 518 frames, [16.0 MB-32.0 MB]: 24 frames, [32.0 MB-64.0 MB]: 579776 frames
       Requested Block Size 16.0 MB
       Peak Block count 3
       Peak Allocated memory 41.1 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 514
+  Peak main deferred allocation count 506
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 3.9 MB
       Failed Allocations. Bucket layout:
-        16B: 18 Subsections = 18432 buckets. Failed count: 80032
-        32B: 18 Subsections = 9216 buckets. Failed count: 176932
-        48B: 43 Subsections = 14677 buckets. Failed count: 32128
+        16B: 17 Subsections = 17408 buckets. Failed count: 38975
+        32B: 18 Subsections = 9216 buckets. Failed count: 50843
+        48B: 43 Subsections = 14677 buckets. Failed count: 317
         64B: 95 Subsections = 24320 buckets. Failed count: 0
         80B: 25 Subsections = 5120 buckets. Failed count: 0
-        96B: 6 Subsections = 1024 buckets. Failed count: 96170
-        112B: 6 Subsections = 877 buckets. Failed count: 33669
-        128B: 45 Subsections = 5760 buckets. Failed count: 4583
+        96B: 7 Subsections = 1194 buckets. Failed count: 22710
+        112B: 6 Subsections = 877 buckets. Failed count: 17121
+        128B: 45 Subsections = 5760 buckets. Failed count: 1885
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [2.0 MB-4.0 MB]: 1258624 frames
+      Peak usage frame count: [2.0 MB-4.0 MB]: 580318 frames
       Requested Block Size 4.0 MB
       Peak Block count 2
       Peak Allocated memory 3.7 MB
       Peak Large allocation bytes 0 B
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [32.0 MB-64.0 MB]: 579 frames, [64.0 MB-128.0 MB]: 1258045 frames
+      Peak usage frame count: [32.0 MB-64.0 MB]: 554 frames, [64.0 MB-128.0 MB]: 579764 frames
       Requested Block Size 4.0 MB
       Peak Block count 5
       Peak Allocated memory 83.6 MB
@@ -737,22 +476,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.9 MB
       Failed Allocations. Bucket layout:
-        16B: 18 Subsections = 18432 buckets. Failed count: 80032
-        32B: 18 Subsections = 9216 buckets. Failed count: 176932
-        48B: 43 Subsections = 14677 buckets. Failed count: 32128
+        16B: 17 Subsections = 17408 buckets. Failed count: 38975
+        32B: 18 Subsections = 9216 buckets. Failed count: 50843
+        48B: 43 Subsections = 14677 buckets. Failed count: 317
         64B: 95 Subsections = 24320 buckets. Failed count: 0
         80B: 25 Subsections = 5120 buckets. Failed count: 0
-        96B: 6 Subsections = 1024 buckets. Failed count: 96170
-        112B: 6 Subsections = 877 buckets. Failed count: 33669
-        128B: 45 Subsections = 5760 buckets. Failed count: 4583
+        96B: 7 Subsections = 1194 buckets. Failed count: 22710
+        112B: 6 Subsections = 877 buckets. Failed count: 17121
+        128B: 45 Subsections = 5760 buckets. Failed count: 1885
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 744 frames, [4.0 KB-8.0 KB]: 3551 frames, [16.0 KB-32.0 KB]: 1254329 frames
+      Peak usage frame count: [0-1.0 KB]: 715 frames, [4.0 KB-8.0 KB]: 2063 frames, [16.0 KB-32.0 KB]: 577540 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 24.3 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [256.0 KB-0.5 MB]: 1258624 frames
+      Peak usage frame count: [256.0 KB-0.5 MB]: 580318 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 314.4 KB
