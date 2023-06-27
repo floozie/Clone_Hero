@@ -23,23 +23,23 @@ int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program
 L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
 t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_t
 exture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 18330160
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 22017344
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.145 seconds
+- Completed reload, in  0.084 seconds
 FastLogger: Activated
 Default vsync count 0
 requesting resize 1280 x 720
 requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
 Desktop is 3200 x 1800 @ 60 Hz
-UnloadTime: 1.773463 ms
+UnloadTime: 1.440050 ms
 Setting up services
-Log ID: -1610352220
+Log ID: -715008845
 Logged into USG
 PlayerID: ujocDavc9Rzfi4fHnfcooZ3xFecr
 Remote config ready!
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.493099 ms
+UnloadTime: 8.889773 ms
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
@@ -59,7 +59,7 @@ Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/M
 Bass: 2.4.16.7 BassFx: 2.4.12.6 BassMix: 2.4.11.2
 WASAPI
 Starting video thumbs
-[2023-06-27T11:42:36.189+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
+[2023-06-27T12:11:19.534+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
 Biology
 Coalescence & Segmentation
 Combat Mosh
@@ -75,45 +75,33 @@ Revenge
 Stigma
 Stop Saying We Sound Like Dragonforce
 The Palace of the Kantus
-<Missing i18n Resource>: StrikeLine Base Red :en
 Troopers of the Stars
 i ws nvr yr grlfrnd
+<Missing i18n Resource>: StrikeLine Base Red :en
 Setting up 2 worker threads for Enlighten.
 requesting resize 1280 x 720
 requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
 Desktop is 3200 x 1800 @ 60 Hz
 Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 23050.
-Total: 41.727279 ms (FindLiveObjects: 1.622850 ms CreateObjectMapping: 0.385703 ms MarkObjects: 39.598708 ms  DeleteObjects: 0.118911 ms)
+Total: 57.970967 ms (FindLiveObjects: 5.111156 ms CreateObjectMapping: 0.605659 ms MarkObjects: 52.136375 ms  DeleteObjects: 0.116838 ms)
 
 download source.txt
 download source.txt finished
 <Missing i18n Resource>: Device not available.:en
 <Missing i18n Resource>: Device in use by :en
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 31.212096 ms
-Loading Song: AC/DC - Back in Black (Live)
+UnloadTime: 58.204786 ms
+Loading Song: (Damn) This Desert Air - Ghost I Own
 Returned missing glyphs are correct.
 Unloading 1155 unused Assets to reduce memory usage. Loaded Objects now: 14562.
-Total: 32.706758 ms (FindLiveObjects: 0.945364 ms CreateObjectMapping: 0.448327 ms MarkObjects: 30.401143 ms  DeleteObjects: 0.910999 ms)
+Total: 54.213880 ms (FindLiveObjects: 1.054736 ms CreateObjectMapping: 0.495833 ms MarkObjects: 51.243345 ms  DeleteObjects: 1.418964 ms)
 
 <Missing i18n Resource>: Current Section::en
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 23.852592 ms
+UnloadTime: 44.590940 ms
 Unloading 618 unused Assets to reduce memory usage. Loaded Objects now: 23078.
-Total: 40.683786 ms (FindLiveObjects: 1.640954 ms CreateObjectMapping: 0.577397 ms MarkObjects: 37.513402 ms  DeleteObjects: 0.951026 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 41.624362 ms
-Loading Song: AC/DC - Back in Black (Live)
-Returned missing glyphs are correct.
-Unloading 593 unused Assets to reduce memory usage. Loaded Objects now: 14571.
-Total: 31.313847 ms (FindLiveObjects: 0.909992 ms CreateObjectMapping: 0.430546 ms MarkObjects: 29.473279 ms  DeleteObjects: 0.499149 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 19.994517 ms
-Unloading 618 unused Assets to reduce memory usage. Loaded Objects now: 23081.
-Total: 42.861656 ms (FindLiveObjects: 1.863202 ms CreateObjectMapping: 0.515272 ms MarkObjects: 39.292436 ms  DeleteObjects: 1.189913 ms)
+Total: 75.902353 ms (FindLiveObjects: 2.052114 ms CreateObjectMapping: 1.027331 ms MarkObjects: 71.557491 ms  DeleteObjects: 1.264385 ms)
 
 Disposed of memorymapped file
 Disposed of memorymapped file
@@ -132,12 +120,11 @@ Disposed of memorymapped file
 Disposed of memorymapped file
 Disposed of memorymapped file
 Disposed of memorymapped file
-Curl error 42: Callback aborted
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 712 frames, [2.0 KB-4.0 KB]: 53244 frames, [4.0 KB-8.0 KB]: 25 frames, [8.0 KB-16.0 KB]: 7 frames, [16.0 KB-32.0 KB]: 7671 frames, [32.0 KB-64.0 KB]: 111 frames, [64.0 KB-128.0 KB]: 6 frames, [128.0 KB-256.0 KB]: 14 frames, [256.0 KB-0.5 MB]: 3 frames, [0.5 MB-1.0 MB]: 2 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 1 frames
+      Peak usage frame count: [0-1.0 KB]: 294 frames, [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 2250 frames, [4.0 KB-8.0 KB]: 4 frames, [8.0 KB-16.0 KB]: 7 frames, [16.0 KB-32.0 KB]: 3160 frames, [32.0 KB-64.0 KB]: 5 frames, [64.0 KB-128.0 KB]: 4 frames, [128.0 KB-256.0 KB]: 2 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 1 frames, [1.0 MB-2.0 MB]: 2 frames, [2.0 MB-4.0 MB]: 1 frames
       Initial Block Size 4.0 MB
       Current Block Size 4.0 MB
       Peak Allocated Bytes 2.1 MB
@@ -145,13 +132,13 @@ Memory Statistics:
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
-      Peak Allocated Bytes 256 B
+      Peak Allocated Bytes 192 B
       Overflow Count 0
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
       Current Block Size 508.0 KB
       Peak Allocated Bytes 313.2 KB
-      Overflow Count 38
+      Overflow Count 30
     [ALLOC_TEMP_Background Job.Worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -164,8 +151,8 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 0]
       Initial Block Size 256.0 KB
-      Current Block Size 460.0 KB
-      Peak Allocated Bytes 252.9 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 31.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 10]
       Initial Block Size 32.0 KB
@@ -200,7 +187,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 1]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 66 B
+      Peak Allocated Bytes 0 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 2]
       Initial Block Size 32.0 KB
@@ -214,8 +201,8 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
-      Current Block Size 416.0 KB
-      Peak Allocated Bytes 228.6 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 61.3 KB
       Overflow Count 0
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 3
       Initial Block Size 64.0 KB
@@ -230,17 +217,17 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 13]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 66 B
+      Peak Allocated Bytes 0 B
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 1]
       Initial Block Size 256.0 KB
-      Current Block Size 460.0 KB
-      Peak Allocated Bytes 252.7 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 31.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 2]
       Initial Block Size 256.0 KB
-      Current Block Size 452.0 KB
-      Peak Allocated Bytes 246.6 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 31.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 3]
       Initial Block Size 32.0 KB
@@ -250,7 +237,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 11]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 0 B
+      Peak Allocated Bytes 66 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 0]
       Initial Block Size 32.0 KB
@@ -279,25 +266,25 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.9 MB
       Failed Allocations. Bucket layout:
-        16B: 17 Subsections = 17408 buckets. Failed count: 10875
-        32B: 18 Subsections = 9216 buckets. Failed count: 16277
-        48B: 43 Subsections = 14677 buckets. Failed count: 62907
+        16B: 17 Subsections = 17408 buckets. Failed count: 5547
+        32B: 18 Subsections = 9216 buckets. Failed count: 7850
+        48B: 42 Subsections = 14336 buckets. Failed count: 0
         64B: 95 Subsections = 24320 buckets. Failed count: 0
         80B: 25 Subsections = 5120 buckets. Failed count: 0
-        96B: 7 Subsections = 1194 buckets. Failed count: 8707
-        112B: 6 Subsections = 877 buckets. Failed count: 6710
-        128B: 45 Subsections = 5760 buckets. Failed count: 1327
+        96B: 7 Subsections = 1194 buckets. Failed count: 2639
+        112B: 7 Subsections = 1024 buckets. Failed count: 3155
+        128B: 45 Subsections = 5760 buckets. Failed count: 608
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 680 frames, [16.0 MB-32.0 MB]: 61119 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 287 frames, [16.0 MB-32.0 MB]: 5445 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 25.7 MB
+      Peak Allocated memory 25.3 MB
       Peak Large allocation bytes 0 B
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 648 frames, [16.0 MB-32.0 MB]: 61151 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 276 frames, [16.0 MB-32.0 MB]: 5456 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 30.0 MB
+      Peak Allocated memory 29.2 MB
       Peak Large allocation bytes 16.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -311,7 +298,7 @@ Memory Statistics:
   Overflow Count (full) 0
 [ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
   Initial Block Size 2.0 MB
-  Used Block Count 4
+  Used Block Count 2
   Overflow Count (too large) 0
   Overflow Count (full) 0
 [ALLOC_TEMP_JOB_ASYNC (Background)]
@@ -326,22 +313,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.9 MB
       Failed Allocations. Bucket layout:
-        16B: 17 Subsections = 17408 buckets. Failed count: 10875
-        32B: 18 Subsections = 9216 buckets. Failed count: 16277
-        48B: 43 Subsections = 14677 buckets. Failed count: 62907
+        16B: 17 Subsections = 17408 buckets. Failed count: 5547
+        32B: 18 Subsections = 9216 buckets. Failed count: 7850
+        48B: 42 Subsections = 14336 buckets. Failed count: 0
         64B: 95 Subsections = 24320 buckets. Failed count: 0
         80B: 25 Subsections = 5120 buckets. Failed count: 0
-        96B: 7 Subsections = 1194 buckets. Failed count: 8707
-        112B: 6 Subsections = 877 buckets. Failed count: 6710
-        128B: 45 Subsections = 5760 buckets. Failed count: 1327
+        96B: 7 Subsections = 1194 buckets. Failed count: 2639
+        112B: 7 Subsections = 1024 buckets. Failed count: 3155
+        128B: 45 Subsections = 5760 buckets. Failed count: 608
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 713 frames, [64.0 KB-128.0 KB]: 2 frames, [128.0 KB-256.0 KB]: 1 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 3291 frames, [4.0 MB-8.0 MB]: 5398 frames, [8.0 MB-16.0 MB]: 52391 frames
+      Peak usage frame count: [32.0 KB-64.0 KB]: 296 frames, [64.0 KB-128.0 KB]: 2 frames, [1.0 MB-2.0 MB]: 12 frames, [2.0 MB-4.0 MB]: 3629 frames, [4.0 MB-8.0 MB]: 775 frames, [8.0 MB-16.0 MB]: 1018 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 15.2 MB
+      Peak Allocated memory 13.3 MB
       Peak Large allocation bytes 0 B
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 539 frames, [16.0 MB-32.0 MB]: 30 frames, [32.0 MB-64.0 MB]: 61230 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 253 frames, [16.0 MB-32.0 MB]: 3 frames, [32.0 MB-64.0 MB]: 5476 frames
       Requested Block Size 16.0 MB
       Peak Block count 3
       Peak Allocated memory 41.1 MB
@@ -353,25 +340,25 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.9 MB
       Failed Allocations. Bucket layout:
-        16B: 17 Subsections = 17408 buckets. Failed count: 10875
-        32B: 18 Subsections = 9216 buckets. Failed count: 16277
-        48B: 43 Subsections = 14677 buckets. Failed count: 62907
+        16B: 17 Subsections = 17408 buckets. Failed count: 5547
+        32B: 18 Subsections = 9216 buckets. Failed count: 7850
+        48B: 42 Subsections = 14336 buckets. Failed count: 0
         64B: 95 Subsections = 24320 buckets. Failed count: 0
         80B: 25 Subsections = 5120 buckets. Failed count: 0
-        96B: 7 Subsections = 1194 buckets. Failed count: 8707
-        112B: 6 Subsections = 877 buckets. Failed count: 6710
-        128B: 45 Subsections = 5760 buckets. Failed count: 1327
+        96B: 7 Subsections = 1194 buckets. Failed count: 2639
+        112B: 7 Subsections = 1024 buckets. Failed count: 3155
+        128B: 45 Subsections = 5760 buckets. Failed count: 608
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [2.0 MB-4.0 MB]: 61799 frames
+      Peak usage frame count: [2.0 MB-4.0 MB]: 5732 frames
       Requested Block Size 4.0 MB
       Peak Block count 2
-      Peak Allocated memory 3.6 MB
+      Peak Allocated memory 3.9 MB
       Peak Large allocation bytes 0 B
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [32.0 MB-64.0 MB]: 583 frames, [64.0 MB-128.0 MB]: 61216 frames
+      Peak usage frame count: [32.0 MB-64.0 MB]: 261 frames, [64.0 MB-128.0 MB]: 5471 frames
       Requested Block Size 4.0 MB
       Peak Block count 5
-      Peak Allocated memory 83.1 MB
+      Peak Allocated memory 83.0 MB
       Peak Large allocation bytes 67.4 MB
 [ALLOC_TYPETREE] Dual Thread Allocator
   Peak main deferred allocation count 0
@@ -380,22 +367,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.9 MB
       Failed Allocations. Bucket layout:
-        16B: 17 Subsections = 17408 buckets. Failed count: 10875
-        32B: 18 Subsections = 9216 buckets. Failed count: 16277
-        48B: 43 Subsections = 14677 buckets. Failed count: 62907
+        16B: 17 Subsections = 17408 buckets. Failed count: 5547
+        32B: 18 Subsections = 9216 buckets. Failed count: 7850
+        48B: 42 Subsections = 14336 buckets. Failed count: 0
         64B: 95 Subsections = 24320 buckets. Failed count: 0
         80B: 25 Subsections = 5120 buckets. Failed count: 0
-        96B: 7 Subsections = 1194 buckets. Failed count: 8707
-        112B: 6 Subsections = 877 buckets. Failed count: 6710
-        128B: 45 Subsections = 5760 buckets. Failed count: 1327
+        96B: 7 Subsections = 1194 buckets. Failed count: 2639
+        112B: 7 Subsections = 1024 buckets. Failed count: 3155
+        128B: 45 Subsections = 5760 buckets. Failed count: 608
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 717 frames, [4.0 KB-8.0 KB]: 1939 frames, [16.0 KB-32.0 KB]: 59143 frames
+      Peak usage frame count: [0-1.0 KB]: 299 frames, [4.0 KB-8.0 KB]: 1581 frames, [16.0 KB-32.0 KB]: 3852 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 24.3 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [256.0 KB-0.5 MB]: 61799 frames
+      Peak usage frame count: [256.0 KB-0.5 MB]: 5732 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 314.4 KB
