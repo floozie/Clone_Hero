@@ -23,23 +23,23 @@ int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program
 L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
 t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_t
 exture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 26234064
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 6361856
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.101 seconds
+- Completed reload, in  0.085 seconds
 FastLogger: Activated
 Default vsync count 0
 requesting resize 1280 x 720
 requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
 Desktop is 3200 x 1800 @ 60 Hz
-UnloadTime: 1.774960 ms
+UnloadTime: 1.920203 ms
 Setting up services
-Log ID: 407345227
+Log ID: -573955302
 Logged into USG
 PlayerID: ujocDavc9Rzfi4fHnfcooZ3xFecr
 Remote config ready!
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 12.000723 ms
+UnloadTime: 11.900194 ms
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
@@ -59,7 +59,7 @@ Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/M
 Bass: 2.4.16.7 BassFx: 2.4.12.6 BassMix: 2.4.11.2
 WASAPI
 Starting video thumbs
-[2023-06-27T12:14:27.598+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
+[2023-06-27T12:16:10.535+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
 Biology
 Coalescence & Segmentation
 Combat Mosh
@@ -75,8 +75,8 @@ Revenge
 Stigma
 Stop Saying We Sound Like Dragonforce
 The Palace of the Kantus
-<Missing i18n Resource>: StrikeLine Base Red :en
 Troopers of the Stars
+<Missing i18n Resource>: StrikeLine Base Red :en
 i ws nvr yr grlfrnd
 Setting up 2 worker threads for Enlighten.
 requesting resize 1280 x 720
@@ -84,10 +84,144 @@ requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
 Desktop is 3200 x 1800 @ 60 Hz
 Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 23050.
-Total: 49.403426 ms (FindLiveObjects: 1.537138 ms CreateObjectMapping: 0.404275 ms MarkObjects: 47.340934 ms  DeleteObjects: 0.119970 ms)
+Total: 46.686373 ms (FindLiveObjects: 2.555060 ms CreateObjectMapping: 0.754230 ms MarkObjects: 42.814177 ms  DeleteObjects: 0.561536 ms)
 
 download source.txt
 download source.txt finished
+<Missing i18n Resource>: Device not available.:en
+<Missing i18n Resource>: Device in use by :en
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 56.496641 ms
+Loading Song: (Damn) This Desert Air - Ghost I Own
+Returned missing glyphs are correct.
+Unloading 1156 unused Assets to reduce memory usage. Loaded Objects now: 14562.
+Total: 56.410324 ms (FindLiveObjects: 1.514259 ms CreateObjectMapping: 0.702152 ms MarkObjects: 52.829027 ms  DeleteObjects: 1.363970 ms)
+
+<Missing i18n Resource>: Current Section::en
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 22.350618 ms
+Unloading 618 unused Assets to reduce memory usage. Loaded Objects now: 23078.
+Total: 114.432818 ms (FindLiveObjects: 3.229682 ms CreateObjectMapping: 1.154296 ms MarkObjects: 108.239137 ms  DeleteObjects: 1.808353 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 66.836204 ms
+Loading Song: AC/DC - Back in Black (Live)
+Returned missing glyphs are correct.
+Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14565.
+Total: 52.959114 ms (FindLiveObjects: 1.197843 ms CreateObjectMapping: 0.497413 ms MarkObjects: 50.569115 ms  DeleteObjects: 0.693471 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 19.161823 ms
+Unloading 618 unused Assets to reduce memory usage. Loaded Objects now: 23081.
+Total: 67.590758 ms (FindLiveObjects: 3.036844 ms CreateObjectMapping: 1.207569 ms MarkObjects: 61.871753 ms  DeleteObjects: 1.473584 ms)
+
+Uploading Crash Report
+ArgumentOutOfRangeException: Index and count must refer to a location within the string.
+Parameter name: count
+  at System.String.Remove (System.Int32 startIndex, System.Int32 count) [0x00035] in <67657c2d3fd149ae902be1e2abd83cfa>:0 
+  at TMPro.TMP_InputField.Append (System.Char input) [0x0012a] in <011519c7d37f49f7a94996f39dfa53e3>:0 
+  at TMPro.TMP_InputField.Append (System.String input) [0x00039] in <011519c7d37f49f7a94996f39dfa53e3>:0 
+  at TMPro.TMP_InputField.KeyPressed (UnityEngine.Event evt) [0x0015b] in <011519c7d37f49f7a94996f39dfa53e3>:0 
+  at TMPro.TMP_InputField.OnUpdateSelected (UnityEngine.EventSystems.BaseEventData eventData) [0x00053] in <011519c7d37f49f7a94996f39dfa53e3>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IUpdateSelectedHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <34cc0d42f3e2476b8f3705914a49a717>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) [0x00067] in <34cc0d42f3e2476b8f3705914a49a717>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+ʾʾʶʿʼˁʾʿˁʲʶ:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:SendUpdateEventToSelectedObject()
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+ArgumentOutOfRangeException: Index and count must refer to a location within the string.
+Parameter name: count
+  at System.String.Remove (System.Int32 startIndex, System.Int32 count) [0x00035] in <67657c2d3fd149ae902be1e2abd83cfa>:0 
+  at TMPro.TMP_InputField.Append (System.Char input) [0x0012a] in <011519c7d37f49f7a94996f39dfa53e3>:0 
+  at TMPro.TMP_InputField.Append (System.String input) [0x00039] in <011519c7d37f49f7a94996f39dfa53e3>:0 
+  at TMPro.TMP_InputField.KeyPressed (UnityEngine.Event evt) [0x0015b] in <011519c7d37f49f7a94996f39dfa53e3>:0 
+  at TMPro.TMP_InputField.OnUpdateSelected (UnityEngine.EventSystems.BaseEventData eventData) [0x00053] in <011519c7d37f49f7a94996f39dfa53e3>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IUpdateSelectedHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <34cc0d42f3e2476b8f3705914a49a717>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) [0x00067] in <34cc0d42f3e2476b8f3705914a49a717>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+ʾʾʶʿʼˁʾʿˁʲʶ:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:SendUpdateEventToSelectedObject()
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+ArgumentOutOfRangeException: Index and count must refer to a location within the string.
+Parameter name: count
+  at System.String.Remove (System.Int32 startIndex, System.Int32 count) [0x00035] in <67657c2d3fd149ae902be1e2abd83cfa>:0 
+  at TMPro.TMP_InputField.Append (System.Char input) [0x0012a] in <011519c7d37f49f7a94996f39dfa53e3>:0 
+  at TMPro.TMP_InputField.Append (System.String input) [0x00039] in <011519c7d37f49f7a94996f39dfa53e3>:0 
+  at TMPro.TMP_InputField.KeyPressed (UnityEngine.Event evt) [0x0015b] in <011519c7d37f49f7a94996f39dfa53e3>:0 
+  at TMPro.TMP_InputField.OnUpdateSelected (UnityEngine.EventSystems.BaseEventData eventData) [0x00053] in <011519c7d37f49f7a94996f39dfa53e3>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IUpdateSelectedHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <34cc0d42f3e2476b8f3705914a49a717>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) [0x00067] in <34cc0d42f3e2476b8f3705914a49a717>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+ʾʾʶʿʼˁʾʿˁʲʶ:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:SendUpdateEventToSelectedObject()
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 76.010284 ms
+Loading Song: AC/DC - Back in Black (Live)
+Returned missing glyphs are correct.
+Unloading 600 unused Assets to reduce memory usage. Loaded Objects now: 14574.
+Total: 56.292757 ms (FindLiveObjects: 1.145920 ms CreateObjectMapping: 0.470519 ms MarkObjects: 53.999561 ms  DeleteObjects: 0.675878 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.842727 ms
+Unloading 618 unused Assets to reduce memory usage. Loaded Objects now: 23084.
+Total: 86.614972 ms (FindLiveObjects: 4.501122 ms CreateObjectMapping: 1.347801 ms MarkObjects: 79.284102 ms  DeleteObjects: 1.480381 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 35.785484 ms
+Loading Song: AC/DC - Back in Black (Live)
+Returned missing glyphs are correct.
+Unloading 593 unused Assets to reduce memory usage. Loaded Objects now: 14576.
+Total: 34.158636 ms (FindLiveObjects: 0.925452 ms CreateObjectMapping: 0.412757 ms MarkObjects: 32.427861 ms  DeleteObjects: 0.391631 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 25.889973 ms
+Unloading 617 unused Assets to reduce memory usage. Loaded Objects now: 23087.
+Total: 43.714793 ms (FindLiveObjects: 1.801322 ms CreateObjectMapping: 0.567031 ms MarkObjects: 40.107437 ms  DeleteObjects: 1.238192 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 38.772878 ms
+Loading Song: AC/DC - Back in Black (Live)
+Returned missing glyphs are correct.
+Unloading 593 unused Assets to reduce memory usage. Loaded Objects now: 14579.
+Total: 43.063197 ms (FindLiveObjects: 1.311910 ms CreateObjectMapping: 0.625032 ms MarkObjects: 40.555323 ms  DeleteObjects: 0.569852 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 42.739345 ms
+Loading Song: AC/DC - Back in Black (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14582.
+Total: 32.240978 ms (FindLiveObjects: 1.125342 ms CreateObjectMapping: 0.811997 ms MarkObjects: 29.987575 ms  DeleteObjects: 0.315217 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 43.482260 ms
+Loading Song: AC/DC - Back in Black (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14585.
+Total: 33.269303 ms (FindLiveObjects: 1.057473 ms CreateObjectMapping: 0.583694 ms MarkObjects: 31.312840 ms  DeleteObjects: 0.314464 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.481594 ms
+Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9625.
+Total: 39.291742 ms (FindLiveObjects: 0.737246 ms CreateObjectMapping: 0.340947 ms MarkObjects: 37.338583 ms  DeleteObjects: 0.873819 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.079773 ms
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 23871.
+Total: 55.026884 ms (FindLiveObjects: 2.024060 ms CreateObjectMapping: 0.870514 ms MarkObjects: 51.996480 ms  DeleteObjects: 0.135022 ms)
+
 Disposed of memorymapped file
 Disposed of memorymapped file
 Disposed of memorymapped file
@@ -105,11 +239,14 @@ Disposed of memorymapped file
 Disposed of memorymapped file
 Disposed of memorymapped file
 Disposed of memorymapped file
+Uploading Crash Report
+Curl error 42: Callback aborted
+Curl error 42: Callback aborted
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 287 frames, [2.0 KB-4.0 KB]: 2 frames, [16.0 KB-32.0 KB]: 1856 frames, [32.0 KB-64.0 KB]: 2 frames, [64.0 KB-128.0 KB]: 6 frames, [128.0 KB-256.0 KB]: 1 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames
+      Peak usage frame count: [0-1.0 KB]: 262 frames, [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 206602 frames, [4.0 KB-8.0 KB]: 36 frames, [8.0 KB-16.0 KB]: 18 frames, [16.0 KB-32.0 KB]: 88728 frames, [32.0 KB-64.0 KB]: 257 frames, [64.0 KB-128.0 KB]: 6 frames, [128.0 KB-256.0 KB]: 13 frames, [256.0 KB-0.5 MB]: 8 frames, [0.5 MB-1.0 MB]: 8 frames, [1.0 MB-2.0 MB]: 6 frames, [2.0 MB-4.0 MB]: 1 frames
       Initial Block Size 4.0 MB
       Current Block Size 4.0 MB
       Peak Allocated Bytes 2.1 MB
@@ -121,9 +258,9 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
-      Current Block Size 508.0 KB
+      Current Block Size 496.0 KB
       Peak Allocated Bytes 313.2 KB
-      Overflow Count 22
+      Overflow Count 75
     [ALLOC_TEMP_Background Job.Worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -136,13 +273,13 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 0]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 31.1 KB
+      Current Block Size 452.0 KB
+      Peak Allocated Bytes 245.6 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 10]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 0 B
+      Peak Allocated Bytes 66 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 14]
       Initial Block Size 32.0 KB
@@ -186,8 +323,8 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 29.0 KB
+      Current Block Size 444.0 KB
+      Peak Allocated Bytes 245.0 KB
       Overflow Count 0
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 3
       Initial Block Size 64.0 KB
@@ -202,17 +339,17 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 13]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 0 B
+      Peak Allocated Bytes 66 B
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 1]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 31.1 KB
+      Current Block Size 452.0 KB
+      Peak Allocated Bytes 245.6 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 2]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 31.1 KB
+      Current Block Size 452.0 KB
+      Peak Allocated Bytes 245.6 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 3]
       Initial Block Size 32.0 KB
@@ -237,7 +374,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 4]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 0 B
+      Peak Allocated Bytes 66 B
       Overflow Count 0
     [ALLOC_TEMP_BatchDeleteObjects]
       Initial Block Size 64.0 KB
@@ -245,23 +382,32 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 1957
+  Peak main deferred allocation count 7100
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
-      Peak Allocated bytes 3.6 MB
+      Peak Allocated bytes 3.9 MB
+      Failed Allocations. Bucket layout:
+        16B: 17 Subsections = 17408 buckets. Failed count: 33585
+        32B: 18 Subsections = 9216 buckets. Failed count: 45564
+        48B: 42 Subsections = 14336 buckets. Failed count: 37805
+        64B: 95 Subsections = 24320 buckets. Failed count: 0
+        80B: 25 Subsections = 5120 buckets. Failed count: 0
+        96B: 7 Subsections = 1194 buckets. Failed count: 22772
+        112B: 7 Subsections = 1024 buckets. Failed count: 26822
+        128B: 45 Subsections = 5760 buckets. Failed count: 2609
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 274 frames, [16.0 MB-32.0 MB]: 1882 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 259 frames, [16.0 MB-32.0 MB]: 295687 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 23.1 MB
+      Peak Allocated memory 26.0 MB
       Peak Large allocation bytes 0 B
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 261 frames, [16.0 MB-32.0 MB]: 1895 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 237 frames, [16.0 MB-32.0 MB]: 295709 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 20.2 MB
-      Peak Large allocation bytes 10.3 MB
+      Peak Allocated memory 29.8 MB
+      Peak Large allocation bytes 16.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
   Used Block Count 1
@@ -274,7 +420,7 @@ Memory Statistics:
   Overflow Count (full) 0
 [ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
   Initial Block Size 2.0 MB
-  Used Block Count 2
+  Used Block Count 4
   Overflow Count (too large) 0
   Overflow Count (full) 0
 [ALLOC_TEMP_JOB_ASYNC (Background)]
@@ -287,51 +433,78 @@ Memory Statistics:
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
-      Peak Allocated bytes 3.6 MB
+      Peak Allocated bytes 3.9 MB
+      Failed Allocations. Bucket layout:
+        16B: 17 Subsections = 17408 buckets. Failed count: 33585
+        32B: 18 Subsections = 9216 buckets. Failed count: 45564
+        48B: 42 Subsections = 14336 buckets. Failed count: 37805
+        64B: 95 Subsections = 24320 buckets. Failed count: 0
+        80B: 25 Subsections = 5120 buckets. Failed count: 0
+        96B: 7 Subsections = 1194 buckets. Failed count: 22772
+        112B: 7 Subsections = 1024 buckets. Failed count: 26822
+        128B: 45 Subsections = 5760 buckets. Failed count: 2609
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 288 frames, [64.0 KB-128.0 KB]: 2 frames, [128.0 KB-256.0 KB]: 1 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 1862 frames
+      Peak usage frame count: [32.0 KB-64.0 KB]: 264 frames, [64.0 KB-128.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 1 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 16594 frames, [4.0 MB-8.0 MB]: 88751 frames, [8.0 MB-16.0 MB]: 181266 frames, [16.0 MB-32.0 MB]: 9065 frames, [32.0 MB-64.0 MB]: 1 frames
       Requested Block Size 16.0 MB
-      Peak Block count 1
-      Peak Allocated memory 3.9 MB
-      Peak Large allocation bytes 0 B
+      Peak Block count 2
+      Peak Allocated memory 40.6 MB
+      Peak Large allocation bytes 15.3 MB
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 244 frames, [16.0 MB-32.0 MB]: 1 frames, [32.0 MB-64.0 MB]: 1911 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 233 frames, [16.0 MB-32.0 MB]: 2 frames, [32.0 MB-64.0 MB]: 295711 frames
       Requested Block Size 16.0 MB
       Peak Block count 3
-      Peak Allocated memory 40.0 MB
+      Peak Allocated memory 41.1 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 29
+  Peak main deferred allocation count 506
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
-      Peak Allocated bytes 3.6 MB
+      Peak Allocated bytes 3.9 MB
+      Failed Allocations. Bucket layout:
+        16B: 17 Subsections = 17408 buckets. Failed count: 33585
+        32B: 18 Subsections = 9216 buckets. Failed count: 45564
+        48B: 42 Subsections = 14336 buckets. Failed count: 37805
+        64B: 95 Subsections = 24320 buckets. Failed count: 0
+        80B: 25 Subsections = 5120 buckets. Failed count: 0
+        96B: 7 Subsections = 1194 buckets. Failed count: 22772
+        112B: 7 Subsections = 1024 buckets. Failed count: 26822
+        128B: 45 Subsections = 5760 buckets. Failed count: 2609
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [2.0 MB-4.0 MB]: 2156 frames
+      Peak usage frame count: [2.0 MB-4.0 MB]: 295946 frames
       Requested Block Size 4.0 MB
-      Peak Block count 1
-      Peak Allocated memory 3.2 MB
+      Peak Block count 2
+      Peak Allocated memory 3.8 MB
       Peak Large allocation bytes 0 B
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [32.0 MB-64.0 MB]: 249 frames, [64.0 MB-128.0 MB]: 1907 frames
+      Peak usage frame count: [32.0 MB-64.0 MB]: 236 frames, [64.0 MB-128.0 MB]: 295710 frames
       Requested Block Size 4.0 MB
-      Peak Block count 4
-      Peak Allocated memory 82.2 MB
+      Peak Block count 5
+      Peak Allocated memory 83.6 MB
       Peak Large allocation bytes 67.4 MB
 [ALLOC_TYPETREE] Dual Thread Allocator
   Peak main deferred allocation count 0
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
-      Peak Allocated bytes 3.6 MB
+      Peak Allocated bytes 3.9 MB
+      Failed Allocations. Bucket layout:
+        16B: 17 Subsections = 17408 buckets. Failed count: 33585
+        32B: 18 Subsections = 9216 buckets. Failed count: 45564
+        48B: 42 Subsections = 14336 buckets. Failed count: 37805
+        64B: 95 Subsections = 24320 buckets. Failed count: 0
+        80B: 25 Subsections = 5120 buckets. Failed count: 0
+        96B: 7 Subsections = 1194 buckets. Failed count: 22772
+        112B: 7 Subsections = 1024 buckets. Failed count: 26822
+        128B: 45 Subsections = 5760 buckets. Failed count: 2609
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 292 frames, [4.0 KB-8.0 KB]: 1864 frames
+      Peak usage frame count: [0-1.0 KB]: 267 frames, [4.0 KB-8.0 KB]: 1251 frames, [16.0 KB-32.0 KB]: 294428 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
-      Peak Allocated memory 6.1 KB
+      Peak Allocated memory 24.3 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [256.0 KB-0.5 MB]: 2156 frames
+      Peak usage frame count: [256.0 KB-0.5 MB]: 295946 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 314.4 KB
