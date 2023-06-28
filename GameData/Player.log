@@ -23,23 +23,38 @@ int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program
 L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
 t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_t
 exture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 28311328
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 25159904
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.141 seconds
+- Completed reload, in  0.108 seconds
 FastLogger: Activated
 Default vsync count 0
 requesting resize 1280 x 720
 requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
 Desktop is 3200 x 1800 @ 60 Hz
-UnloadTime: 2.508253 ms
+UnloadTime: 1.486784 ms
 Setting up services
-Log ID: 670586400
+Log ID: -422558010
+Curl error 28: Operation timed out after 5000 milliseconds with 0 bytes received
+ #0 PlayerMain(int, char**)
+ #1 std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > >::operator=(std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > > const&)
+ #2 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #3 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #4 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #5 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #6 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #7 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #8 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #9 std::_Rb_tree<void const*, void const*, std::_Identity<void const*>, std::less<void const*>, std::allocator<void const*> >::_M_erase(std::_Rb_tree_node<void const*>*)
+ #10 pthread_condattr_setpshared
+ #11 __xmknodat
+
+[Authentication]: Network error detected, retrying...
 Logged into USG
 PlayerID: ujocDavc9Rzfi4fHnfcooZ3xFecr
 Remote config ready!
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.320564 ms
+UnloadTime: 8.865188 ms
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
@@ -59,7 +74,7 @@ Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/M
 Bass: 2.4.16.7 BassFx: 2.4.12.6 BassMix: 2.4.11.2
 WASAPI
 Starting video thumbs
-[2023-06-28T13:27:32.836+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
+[2023-06-28T16:44:09.049+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
 Biology
 Coalescence & Segmentation
 Combat Mosh
@@ -84,249 +99,222 @@ requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
 Desktop is 3200 x 1800 @ 60 Hz
 Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 23050.
-Total: 51.070314 ms (FindLiveObjects: 2.740910 ms CreateObjectMapping: 0.700113 ms MarkObjects: 47.529989 ms  DeleteObjects: 0.098565 ms)
+Total: 40.892178 ms (FindLiveObjects: 1.618768 ms CreateObjectMapping: 0.396062 ms MarkObjects: 38.768570 ms  DeleteObjects: 0.108019 ms)
 
+Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
+ #0 PlayerMain(int, char**)
+ #1 std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > >::operator=(std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > > const&)
+ #2 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #3 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #4 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #5 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #6 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #7 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #8 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #9 std::_Rb_tree<void const*, void const*, std::_Identity<void const*>, std::less<void const*>, std::allocator<void const*> >::_M_erase(std::_Rb_tree_node<void const*>*)
+ #10 pthread_condattr_setpshared
+ #11 __xmknodat
+
+Curl error 52: Empty reply from server
+ #0 PlayerMain(int, char**)
+ #1 std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > >::operator=(std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > > const&)
+ #2 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #3 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #4 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #5 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #6 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #7 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #8 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #9 std::_Rb_tree<void const*, void const*, std::_Identity<void const*>, std::less<void const*>, std::allocator<void const*> >::_M_erase(std::_Rb_tree_node<void const*>*)
+ #10 pthread_condattr_setpshared
+ #11 __xmknodat
+
+Received no data in response
 download source.txt
 download source.txt finished
 <Missing i18n Resource>: Device not available.:en
 <Missing i18n Resource>: Device in use by :en
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 44.076405 ms
-Loading Song: Megadeth - Symphony of Destruction
+UnloadTime: 35.805989 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
 Returned missing glyphs are correct.
-Unloading 1155 unused Assets to reduce memory usage. Loaded Objects now: 14561.
-Total: 46.225310 ms (FindLiveObjects: 0.952722 ms CreateObjectMapping: 0.481848 ms MarkObjects: 43.611690 ms  DeleteObjects: 1.178364 ms)
+Unloading 1150 unused Assets to reduce memory usage. Loaded Objects now: 14568.
+Total: 41.396754 ms (FindLiveObjects: 1.049002 ms CreateObjectMapping: 0.429634 ms MarkObjects: 38.670466 ms  DeleteObjects: 1.246697 ms)
 
 <Missing i18n Resource>: Current Section::en
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 45.839442 ms
-Loading Song: Megadeth - Symphony of Destruction
+UnloadTime: 37.269027 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
 Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14564.
-Total: 46.228199 ms (FindLiveObjects: 1.043274 ms CreateObjectMapping: 0.781868 ms MarkObjects: 44.043048 ms  DeleteObjects: 0.359284 ms)
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14571.
+Total: 38.823236 ms (FindLiveObjects: 1.059977 ms CreateObjectMapping: 0.647745 ms MarkObjects: 36.786205 ms  DeleteObjects: 0.328406 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 35.669774 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14574.
+Total: 36.336412 ms (FindLiveObjects: 1.061686 ms CreateObjectMapping: 0.510865 ms MarkObjects: 34.454905 ms  DeleteObjects: 0.308117 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 35.594914 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14577.
+Total: 44.707578 ms (FindLiveObjects: 1.101076 ms CreateObjectMapping: 0.783664 ms MarkObjects: 42.457737 ms  DeleteObjects: 0.364260 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 38.216461 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14580.
+Total: 44.744857 ms (FindLiveObjects: 1.459214 ms CreateObjectMapping: 0.712189 ms MarkObjects: 42.181751 ms  DeleteObjects: 0.390792 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 31.955153 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14583.
+Total: 37.675561 ms (FindLiveObjects: 1.242797 ms CreateObjectMapping: 0.614316 ms MarkObjects: 35.457556 ms  DeleteObjects: 0.359897 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 37.755557 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14586.
+Total: 38.540744 ms (FindLiveObjects: 1.076669 ms CreateObjectMapping: 0.598384 ms MarkObjects: 36.327293 ms  DeleteObjects: 0.537233 ms)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 33.614972 ms
-Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9604.
-Total: 45.924610 ms (FindLiveObjects: 1.342781 ms CreateObjectMapping: 0.627306 ms MarkObjects: 43.088850 ms  DeleteObjects: 0.864767 ms)
+UnloadTime: 13.807119 ms
+Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9631.
+Total: 42.602348 ms (FindLiveObjects: 0.853834 ms CreateObjectMapping: 0.337984 ms MarkObjects: 40.269810 ms  DeleteObjects: 1.139890 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 11.758892 ms
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 23856.
-Total: 47.602641 ms (FindLiveObjects: 2.318767 ms CreateObjectMapping: 0.541992 ms MarkObjects: 44.624826 ms  DeleteObjects: 0.116213 ms)
+UnloadTime: 9.924590 ms
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 23873.
+Total: 51.885826 ms (FindLiveObjects: 2.049475 ms CreateObjectMapping: 0.582862 ms MarkObjects: 49.151727 ms  DeleteObjects: 0.100634 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 31.025946 ms
-Loading Song: Megadeth - Symphony of Destruction
+UnloadTime: 27.147485 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
+ #0 PlayerMain(int, char**)
+ #1 std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > >::operator=(std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > > const&)
+ #2 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #3 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #4 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #5 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #6 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #7 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #8 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #9 std::_Rb_tree<void const*, void const*, std::_Identity<void const*>, std::less<void const*>, std::allocator<void const*> >::_M_erase(std::_Rb_tree_node<void const*>*)
+ #10 pthread_condattr_setpshared
+ #11 __xmknodat
+
 Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14566.
-Total: 31.874519 ms (FindLiveObjects: 0.995475 ms CreateObjectMapping: 0.415752 ms MarkObjects: 29.934822 ms  DeleteObjects: 0.527605 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.003602 ms
-Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9606.
-Total: 38.294842 ms (FindLiveObjects: 0.826851 ms CreateObjectMapping: 0.454484 ms MarkObjects: 36.047831 ms  DeleteObjects: 0.964935 ms)
+Unloading 592 unused Assets to reduce memory usage. Loaded Objects now: 14590.
+Total: 41.384755 ms (FindLiveObjects: 1.170311 ms CreateObjectMapping: 0.409173 ms MarkObjects: 39.353215 ms  DeleteObjects: 0.451180 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.519744 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23859.
-Total: 44.753181 ms (FindLiveObjects: 1.855096 ms CreateObjectMapping: 0.686644 ms MarkObjects: 42.093399 ms  DeleteObjects: 0.116850 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 30.308331 ms
-Loading Song: Megadeth - Symphony of Destruction
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14569.
-Total: 35.520645 ms (FindLiveObjects: 1.303043 ms CreateObjectMapping: 0.644790 ms MarkObjects: 32.957958 ms  DeleteObjects: 0.613813 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 42.983170 ms
-Loading Song: Megadeth - Symphony of Destruction
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14572.
-Total: 33.258122 ms (FindLiveObjects: 1.071997 ms CreateObjectMapping: 0.506197 ms MarkObjects: 31.194573 ms  DeleteObjects: 0.484078 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 34.484632 ms
-Loading Song: Megadeth - Symphony of Destruction
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14575.
-Total: 33.538962 ms (FindLiveObjects: 1.441548 ms CreateObjectMapping: 0.575759 ms MarkObjects: 31.148148 ms  DeleteObjects: 0.372591 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 35.088314 ms
-Loading Song: Megadeth - Symphony of Destruction
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14578.
-Total: 33.636005 ms (FindLiveObjects: 1.000069 ms CreateObjectMapping: 0.516724 ms MarkObjects: 31.759638 ms  DeleteObjects: 0.358310 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 33.054002 ms
-Loading Song: Megadeth - Symphony of Destruction
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14581.
-Total: 34.988475 ms (FindLiveObjects: 0.971456 ms CreateObjectMapping: 0.493118 ms MarkObjects: 33.065849 ms  DeleteObjects: 0.457075 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 33.084531 ms
-Loading Song: Megadeth - Symphony of Destruction
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14584.
-Total: 33.185386 ms (FindLiveObjects: 1.080034 ms CreateObjectMapping: 0.548342 ms MarkObjects: 31.203773 ms  DeleteObjects: 0.352269 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 33.054250 ms
-Loading Song: Megadeth - Symphony of Destruction
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14587.
-Total: 35.616718 ms (FindLiveObjects: 1.105135 ms CreateObjectMapping: 0.681111 ms MarkObjects: 33.490013 ms  DeleteObjects: 0.339632 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 34.866000 ms
-Loading Song: Megadeth - Symphony of Destruction
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14590.
-Total: 32.743921 ms (FindLiveObjects: 1.229213 ms CreateObjectMapping: 0.576398 ms MarkObjects: 30.484246 ms  DeleteObjects: 0.452947 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 32.777432 ms
-Loading Song: Megadeth - Symphony of Destruction
+UnloadTime: 41.419513 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
 Returned missing glyphs are correct.
 Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14593.
-Total: 33.673589 ms (FindLiveObjects: 1.288139 ms CreateObjectMapping: 0.539732 ms MarkObjects: 31.465944 ms  DeleteObjects: 0.378258 ms)
+Total: 38.777305 ms (FindLiveObjects: 1.112776 ms CreateObjectMapping: 0.528833 ms MarkObjects: 36.735849 ms  DeleteObjects: 0.398402 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 36.745676 ms
-Loading Song: Megadeth - Symphony of Destruction
+UnloadTime: 33.066014 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
 Returned missing glyphs are correct.
-Unloading 534 unused Assets to reduce memory usage. Loaded Objects now: 14842.
-Total: 32.906432 ms (FindLiveObjects: 0.987655 ms CreateObjectMapping: 0.502966 ms MarkObjects: 31.017793 ms  DeleteObjects: 0.397085 ms)
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14596.
+Total: 41.754032 ms (FindLiveObjects: 1.231972 ms CreateObjectMapping: 0.559744 ms MarkObjects: 39.656191 ms  DeleteObjects: 0.304816 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 39.215071 ms
-Loading Song: Megadeth - Symphony of Destruction
+UnloadTime: 40.233227 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
 Returned missing glyphs are correct.
-Unloading 536 unused Assets to reduce memory usage. Loaded Objects now: 14599.
-Total: 34.971345 ms (FindLiveObjects: 1.064065 ms CreateObjectMapping: 0.528510 ms MarkObjects: 32.640971 ms  DeleteObjects: 0.736622 ms)
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14599.
+Total: 49.979927 ms (FindLiveObjects: 1.007213 ms CreateObjectMapping: 0.543397 ms MarkObjects: 48.011981 ms  DeleteObjects: 0.416433 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 40.977156 ms
-Loading Song: Megadeth - Symphony of Destruction
+UnloadTime: 42.720247 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
 Returned missing glyphs are correct.
 Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14602.
-Total: 33.079666 ms (FindLiveObjects: 1.710166 ms CreateObjectMapping: 0.553745 ms MarkObjects: 30.482040 ms  DeleteObjects: 0.332988 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 13.448809 ms
-Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9642.
-Total: 44.676159 ms (FindLiveObjects: 0.789507 ms CreateObjectMapping: 0.406744 ms MarkObjects: 42.417641 ms  DeleteObjects: 1.061436 ms)
+Total: 40.426236 ms (FindLiveObjects: 1.013844 ms CreateObjectMapping: 0.743795 ms MarkObjects: 38.319092 ms  DeleteObjects: 0.348741 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 14.160609 ms
-Loading Song: Megadeth - Symphony of Destruction
+UnloadTime: 15.138835 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
 Returned missing glyphs are correct.
-Unloading 569 unused Assets to reduce memory usage. Loaded Objects now: 14605.
-Total: 33.287470 ms (FindLiveObjects: 1.022691 ms CreateObjectMapping: 0.425949 ms MarkObjects: 31.317806 ms  DeleteObjects: 0.520095 ms)
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14605.
+Total: 51.320115 ms (FindLiveObjects: 1.088959 ms CreateObjectMapping: 0.535998 ms MarkObjects: 49.009206 ms  DeleteObjects: 0.685011 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 33.605299 ms
-Loading Song: Megadeth - Symphony of Destruction
+UnloadTime: 39.044235 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
 Returned missing glyphs are correct.
 Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14608.
-Total: 38.615807 ms (FindLiveObjects: 1.006080 ms CreateObjectMapping: 0.467683 ms MarkObjects: 36.705319 ms  DeleteObjects: 0.435926 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 17.146956 ms
-Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9648.
-Total: 40.986072 ms (FindLiveObjects: 0.713014 ms CreateObjectMapping: 0.375556 ms MarkObjects: 38.762800 ms  DeleteObjects: 1.132553 ms)
+Total: 40.476843 ms (FindLiveObjects: 1.359649 ms CreateObjectMapping: 0.565147 ms MarkObjects: 38.148988 ms  DeleteObjects: 0.402155 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 28.421424 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23901.
-Total: 46.657904 ms (FindLiveObjects: 1.892521 ms CreateObjectMapping: 0.549349 ms MarkObjects: 44.087073 ms  DeleteObjects: 0.128013 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 55.266340 ms
-Loading Song: Megadeth - Symphony of Destruction
-Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
- #0 PlayerMain(int, char**)
- #1 std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > >::operator=(std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > > const&)
- #2 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
- #3 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
- #4 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
- #5 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
- #6 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
- #7 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
- #8 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
- #9 std::_Rb_tree<void const*, void const*, std::_Identity<void const*>, std::less<void const*>, std::allocator<void const*> >::_M_erase(std::_Rb_tree_node<void const*>*)
- #10 pthread_condattr_setpshared
- #11 __xmknodat
-
+UnloadTime: 33.341480 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
 Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14611.
-Total: 35.513355 ms (FindLiveObjects: 0.922581 ms CreateObjectMapping: 0.412728 ms MarkObjects: 33.594002 ms  DeleteObjects: 0.583129 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.951141 ms
-Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9651.
-Total: 42.109068 ms (FindLiveObjects: 0.839212 ms CreateObjectMapping: 0.425889 ms MarkObjects: 39.806106 ms  DeleteObjects: 1.037060 ms)
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14611.
+Total: 43.203189 ms (FindLiveObjects: 1.424016 ms CreateObjectMapping: 0.540518 ms MarkObjects: 40.935073 ms  DeleteObjects: 0.302213 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.093251 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23904.
-Total: 48.539399 ms (FindLiveObjects: 2.120788 ms CreateObjectMapping: 0.577050 ms MarkObjects: 45.714963 ms  DeleteObjects: 0.125642 ms)
-
-Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
- #0 PlayerMain(int, char**)
- #1 std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > >::operator=(std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > > const&)
- #2 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
- #3 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
- #4 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
- #5 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
- #6 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
- #7 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
- #8 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
- #9 std::_Rb_tree<void const*, void const*, std::_Identity<void const*>, std::less<void const*>, std::allocator<void const*> >::_M_erase(std::_Rb_tree_node<void const*>*)
- #10 pthread_condattr_setpshared
- #11 __xmknodat
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 33.439595 ms
-Loading Song: Megadeth - Symphony of Destruction
+UnloadTime: 35.222912 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
 Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14614.
-Total: 37.353390 ms (FindLiveObjects: 1.002147 ms CreateObjectMapping: 0.434688 ms MarkObjects: 35.409631 ms  DeleteObjects: 0.505834 ms)
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14614.
+Total: 39.822295 ms (FindLiveObjects: 1.082844 ms CreateObjectMapping: 0.506729 ms MarkObjects: 37.905458 ms  DeleteObjects: 0.326329 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 31.569371 ms
-Loading Song: Megadeth - Symphony of Destruction
+UnloadTime: 35.252132 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
 Returned missing glyphs are correct.
 Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14617.
-Total: 34.435636 ms (FindLiveObjects: 1.009488 ms CreateObjectMapping: 0.509822 ms MarkObjects: 32.473020 ms  DeleteObjects: 0.442566 ms)
+Total: 48.243062 ms (FindLiveObjects: 1.085255 ms CreateObjectMapping: 0.514008 ms MarkObjects: 46.329405 ms  DeleteObjects: 0.313263 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 36.825845 ms
-Loading Song: Megadeth - Symphony of Destruction
+UnloadTime: 8.659085 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
 Returned missing glyphs are correct.
 Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14620.
-Total: 33.698315 ms (FindLiveObjects: 1.321789 ms CreateObjectMapping: 0.533740 ms MarkObjects: 31.429044 ms  DeleteObjects: 0.412700 ms)
+Total: 40.217513 ms (FindLiveObjects: 1.119123 ms CreateObjectMapping: 0.738343 ms MarkObjects: 37.942720 ms  DeleteObjects: 0.415912 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 32.104709 ms
-Loading Song: Megadeth - Symphony of Destruction
+UnloadTime: 33.057743 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
 Returned missing glyphs are correct.
 Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14623.
-Total: 39.821386 ms (FindLiveObjects: 1.168015 ms CreateObjectMapping: 0.562894 ms MarkObjects: 37.674752 ms  DeleteObjects: 0.414759 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 11.127447 ms
-Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9671.
-Total: 41.235538 ms (FindLiveObjects: 0.794942 ms CreateObjectMapping: 0.403511 ms MarkObjects: 38.945119 ms  DeleteObjects: 1.091167 ms)
+Total: 41.903666 ms (FindLiveObjects: 1.061352 ms CreateObjectMapping: 0.498321 ms MarkObjects: 39.964246 ms  DeleteObjects: 0.378666 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 11.678299 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23916.
-Total: 45.763590 ms (FindLiveObjects: 1.793307 ms CreateObjectMapping: 0.495782 ms MarkObjects: 43.351426 ms  DeleteObjects: 0.122173 ms)
+UnloadTime: 39.970835 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14626.
+Total: 52.031857 ms (FindLiveObjects: 1.003479 ms CreateObjectMapping: 0.513739 ms MarkObjects: 50.169520 ms  DeleteObjects: 0.344038 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.425287 ms
+Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9671.
+Total: 60.762022 ms (FindLiveObjects: 0.974422 ms CreateObjectMapping: 0.352732 ms MarkObjects: 58.388336 ms  DeleteObjects: 1.045673 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.862487 ms
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23912.
+Total: 61.023100 ms (FindLiveObjects: 1.857480 ms CreateObjectMapping: 0.848558 ms MarkObjects: 58.206959 ms  DeleteObjects: 0.109396 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 28.049915 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 592 unused Assets to reduce memory usage. Loaded Objects now: 14629.
+Total: 67.640820 ms (FindLiveObjects: 1.345777 ms CreateObjectMapping: 0.587729 ms MarkObjects: 65.277058 ms  DeleteObjects: 0.429264 ms)
 
 Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
  #0 PlayerMain(int, char**)
@@ -342,6 +330,379 @@ Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
  #10 pthread_condattr_setpshared
  #11 __xmknodat
 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 33.903790 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14632.
+Total: 47.393821 ms (FindLiveObjects: 0.994519 ms CreateObjectMapping: 0.499706 ms MarkObjects: 45.441733 ms  DeleteObjects: 0.456775 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 38.982568 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14635.
+Total: 50.083201 ms (FindLiveObjects: 1.118929 ms CreateObjectMapping: 0.531353 ms MarkObjects: 48.075267 ms  DeleteObjects: 0.356879 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 40.692873 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14638.
+Total: 41.273920 ms (FindLiveObjects: 0.981303 ms CreateObjectMapping: 0.512734 ms MarkObjects: 39.474205 ms  DeleteObjects: 0.304679 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.998974 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14641.
+Total: 48.930485 ms (FindLiveObjects: 0.976960 ms CreateObjectMapping: 0.605631 ms MarkObjects: 46.937267 ms  DeleteObjects: 0.409388 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 34.486562 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14644.
+Total: 40.364669 ms (FindLiveObjects: 1.008198 ms CreateObjectMapping: 0.519869 ms MarkObjects: 38.525660 ms  DeleteObjects: 0.310189 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 41.157539 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14647.
+Total: 41.607175 ms (FindLiveObjects: 1.192684 ms CreateObjectMapping: 0.544612 ms MarkObjects: 39.494055 ms  DeleteObjects: 0.374702 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 31.820482 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14650.
+Total: 51.835000 ms (FindLiveObjects: 1.003157 ms CreateObjectMapping: 0.503430 ms MarkObjects: 49.924548 ms  DeleteObjects: 0.403050 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 33.829328 ms
+Loading Song: AC/DC - Fire Your Guns (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14653.
+Total: 39.540672 ms (FindLiveObjects: 1.101575 ms CreateObjectMapping: 0.577649 ms MarkObjects: 37.480482 ms  DeleteObjects: 0.380225 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.937657 ms
+Unloading 616 unused Assets to reduce memory usage. Loaded Objects now: 23164.
+Total: 54.392497 ms (FindLiveObjects: 2.087396 ms CreateObjectMapping: 0.682511 ms MarkObjects: 49.917673 ms  DeleteObjects: 1.703784 ms)
+
+Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
+ #0 PlayerMain(int, char**)
+ #1 std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > >::operator=(std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > > const&)
+ #2 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #3 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #4 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #5 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #6 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #7 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #8 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #9 std::_Rb_tree<void const*, void const*, std::_Identity<void const*>, std::less<void const*>, std::allocator<void const*> >::_M_erase(std::_Rb_tree_node<void const*>*)
+ #10 pthread_condattr_setpshared
+ #11 __xmknodat
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 27.375604 ms
+Loading Song: Weezer - Troublemaker
+Returned missing glyphs are correct.
+Unloading 592 unused Assets to reduce memory usage. Loaded Objects now: 14657.
+Total: 57.031209 ms (FindLiveObjects: 1.329722 ms CreateObjectMapping: 0.606415 ms MarkObjects: 54.579330 ms  DeleteObjects: 0.514863 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 27.166731 ms
+Unloading 617 unused Assets to reduce memory usage. Loaded Objects now: 23167.
+Total: 61.775280 ms (FindLiveObjects: 1.768605 ms CreateObjectMapping: 0.564093 ms MarkObjects: 58.195764 ms  DeleteObjects: 1.245781 ms)
+
+Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
+ #0 PlayerMain(int, char**)
+ #1 std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > >::operator=(std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > > const&)
+ #2 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #3 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #4 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #5 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #6 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #7 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #8 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #9 std::_Rb_tree<void const*, void const*, std::_Identity<void const*>, std::less<void const*>, std::allocator<void const*> >::_M_erase(std::_Rb_tree_node<void const*>*)
+ #10 pthread_condattr_setpshared
+ #11 __xmknodat
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 35.086732 ms
+Loading Song: AC/DC - Hells Bells (Live)
+Returned missing glyphs are correct.
+Unloading 592 unused Assets to reduce memory usage. Loaded Objects now: 14660.
+Total: 40.690653 ms (FindLiveObjects: 1.360436 ms CreateObjectMapping: 0.720233 ms MarkObjects: 38.218216 ms  DeleteObjects: 0.390923 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.939636 ms
+Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9705.
+Total: 48.817336 ms (FindLiveObjects: 0.696950 ms CreateObjectMapping: 0.401588 ms MarkObjects: 46.604454 ms  DeleteObjects: 1.113210 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.490639 ms
+Loading Song: AC/DC - Hells Bells (Live)
+Returned missing glyphs are correct.
+Unloading 563 unused Assets to reduce memory usage. Loaded Objects now: 14909.
+Total: 53.439866 ms (FindLiveObjects: 1.366536 ms CreateObjectMapping: 0.616703 ms MarkObjects: 50.989648 ms  DeleteObjects: 0.465998 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 35.811819 ms
+Unloading 617 unused Assets to reduce memory usage. Loaded Objects now: 23173.
+Total: 59.922428 ms (FindLiveObjects: 1.864276 ms CreateObjectMapping: 0.523919 ms MarkObjects: 56.418436 ms  DeleteObjects: 1.115007 ms)
+
+Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
+ #0 PlayerMain(int, char**)
+ #1 std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > >::operator=(std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > > const&)
+ #2 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #3 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #4 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #5 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #6 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #7 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #8 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #9 std::_Rb_tree<void const*, void const*, std::_Identity<void const*>, std::less<void const*>, std::allocator<void const*> >::_M_erase(std::_Rb_tree_node<void const*>*)
+ #10 pthread_condattr_setpshared
+ #11 __xmknodat
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 32.610940 ms
+Loading Song: AC/DC - Hells Bells (Live)
+Returned missing glyphs are correct.
+Unloading 592 unused Assets to reduce memory usage. Loaded Objects now: 14666.
+Total: 44.955447 ms (FindLiveObjects: 1.008329 ms CreateObjectMapping: 0.431137 ms MarkObjects: 42.608257 ms  DeleteObjects: 0.906645 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 34.987469 ms
+Loading Song: AC/DC - Hells Bells (Live)
+Returned missing glyphs are correct.
+Unloading 534 unused Assets to reduce memory usage. Loaded Objects now: 14915.
+Total: 40.953365 ms (FindLiveObjects: 1.043881 ms CreateObjectMapping: 0.514123 ms MarkObjects: 39.008313 ms  DeleteObjects: 0.385692 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 37.886418 ms
+Loading Song: AC/DC - Hells Bells (Live)
+Returned missing glyphs are correct.
+Unloading 536 unused Assets to reduce memory usage. Loaded Objects now: 14672.
+Total: 48.780213 ms (FindLiveObjects: 1.027964 ms CreateObjectMapping: 0.518380 ms MarkObjects: 46.849251 ms  DeleteObjects: 0.383734 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 34.277414 ms
+Loading Song: AC/DC - Hells Bells (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14675.
+Total: 50.714874 ms (FindLiveObjects: 1.451994 ms CreateObjectMapping: 0.538722 ms MarkObjects: 48.100855 ms  DeleteObjects: 0.622209 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 33.713723 ms
+Loading Song: AC/DC - Hells Bells (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14678.
+Total: 39.986917 ms (FindLiveObjects: 1.237132 ms CreateObjectMapping: 0.542975 ms MarkObjects: 37.799049 ms  DeleteObjects: 0.406898 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 38.400264 ms
+Loading Song: AC/DC - Hells Bells (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14681.
+Total: 39.298307 ms (FindLiveObjects: 1.116758 ms CreateObjectMapping: 0.544343 ms MarkObjects: 37.209691 ms  DeleteObjects: 0.426432 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 33.275996 ms
+Loading Song: AC/DC - Hells Bells (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14684.
+Total: 40.218674 ms (FindLiveObjects: 1.230575 ms CreateObjectMapping: 0.584746 ms MarkObjects: 37.990614 ms  DeleteObjects: 0.411622 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 38.618693 ms
+Loading Song: AC/DC - Hells Bells (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14687.
+Total: 53.976035 ms (FindLiveObjects: 1.117165 ms CreateObjectMapping: 0.516808 ms MarkObjects: 52.030044 ms  DeleteObjects: 0.310871 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 32.736175 ms
+Loading Song: AC/DC - Hells Bells (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14690.
+Total: 49.384627 ms (FindLiveObjects: 1.073028 ms CreateObjectMapping: 0.530674 ms MarkObjects: 47.386744 ms  DeleteObjects: 0.393489 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 37.319347 ms
+Loading Song: AC/DC - Hells Bells (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14693.
+Total: 39.764762 ms (FindLiveObjects: 0.966850 ms CreateObjectMapping: 0.503817 ms MarkObjects: 37.964649 ms  DeleteObjects: 0.328575 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 38.438963 ms
+Unloading 617 unused Assets to reduce memory usage. Loaded Objects now: 23203.
+Total: 53.551505 ms (FindLiveObjects: 1.644899 ms CreateObjectMapping: 0.810887 ms MarkObjects: 49.875323 ms  DeleteObjects: 1.219295 ms)
+
+Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
+ #0 PlayerMain(int, char**)
+ #1 std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > >::operator=(std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > > const&)
+ #2 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #3 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #4 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #5 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #6 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #7 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #8 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #9 std::_Rb_tree<void const*, void const*, std::_Identity<void const*>, std::less<void const*>, std::allocator<void const*> >::_M_erase(std::_Rb_tree_node<void const*>*)
+ #10 pthread_condattr_setpshared
+ #11 __xmknodat
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 30.308894 ms
+Loading Song: AC/DC - The Jack (Live)
+Returned missing glyphs are correct.
+Unloading 592 unused Assets to reduce memory usage. Loaded Objects now: 14696.
+Total: 52.174331 ms (FindLiveObjects: 1.033509 ms CreateObjectMapping: 0.444985 ms MarkObjects: 50.198751 ms  DeleteObjects: 0.496214 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 36.348496 ms
+Loading Song: AC/DC - The Jack (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14699.
+Total: 41.711275 ms (FindLiveObjects: 1.221215 ms CreateObjectMapping: 0.550636 ms MarkObjects: 39.630549 ms  DeleteObjects: 0.307748 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 31.071273 ms
+Loading Song: AC/DC - The Jack (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14702.
+Total: 42.026143 ms (FindLiveObjects: 1.204506 ms CreateObjectMapping: 0.542284 ms MarkObjects: 39.939325 ms  DeleteObjects: 0.339234 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 36.185729 ms
+Loading Song: AC/DC - The Jack (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14705.
+Total: 40.127928 ms (FindLiveObjects: 1.075041 ms CreateObjectMapping: 0.606276 ms MarkObjects: 38.046666 ms  DeleteObjects: 0.398729 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.149426 ms
+Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9750.
+Total: 60.495570 ms (FindLiveObjects: 0.683755 ms CreateObjectMapping: 0.359410 ms MarkObjects: 58.218277 ms  DeleteObjects: 1.233417 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.851448 ms
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 23990.
+Total: 53.111843 ms (FindLiveObjects: 1.756826 ms CreateObjectMapping: 0.506095 ms MarkObjects: 50.749824 ms  DeleteObjects: 0.098267 ms)
+
+Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
+ #0 PlayerMain(int, char**)
+ #1 std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > >::operator=(std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > > const&)
+ #2 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #3 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #4 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #5 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #6 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #7 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #8 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #9 std::_Rb_tree<void const*, void const*, std::_Identity<void const*>, std::less<void const*>, std::allocator<void const*> >::_M_erase(std::_Rb_tree_node<void const*>*)
+ #10 pthread_condattr_setpshared
+ #11 __xmknodat
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 30.974014 ms
+Loading Song: AC/DC - The Jack (Live)
+Returned missing glyphs are correct.
+Unloading 592 unused Assets to reduce memory usage. Loaded Objects now: 14707.
+Total: 54.217126 ms (FindLiveObjects: 1.361540 ms CreateObjectMapping: 0.607605 ms MarkObjects: 51.715972 ms  DeleteObjects: 0.531183 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 36.885712 ms
+Loading Song: AC/DC - The Jack (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14710.
+Total: 43.495371 ms (FindLiveObjects: 1.004654 ms CreateObjectMapping: 0.532235 ms MarkObjects: 41.632914 ms  DeleteObjects: 0.324623 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 39.401805 ms
+Loading Song: AC/DC - The Jack (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14713.
+Total: 50.992107 ms (FindLiveObjects: 1.083379 ms CreateObjectMapping: 0.739548 ms MarkObjects: 48.800289 ms  DeleteObjects: 0.367927 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 36.344761 ms
+Loading Song: AC/DC - The Jack (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14716.
+Total: 39.677052 ms (FindLiveObjects: 1.110636 ms CreateObjectMapping: 0.544756 ms MarkObjects: 37.620061 ms  DeleteObjects: 0.400441 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 38.256529 ms
+Loading Song: AC/DC - The Jack (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14719.
+Total: 44.562051 ms (FindLiveObjects: 1.322585 ms CreateObjectMapping: 0.589560 ms MarkObjects: 42.347479 ms  DeleteObjects: 0.300581 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.470258 ms
+Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9764.
+Total: 50.897146 ms (FindLiveObjects: 0.859315 ms CreateObjectMapping: 0.431416 ms MarkObjects: 48.232104 ms  DeleteObjects: 1.373486 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.832798 ms
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 24005.
+Total: 53.898552 ms (FindLiveObjects: 2.082442 ms CreateObjectMapping: 0.510573 ms MarkObjects: 51.203269 ms  DeleteObjects: 0.101297 ms)
+
+Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
+ #0 PlayerMain(int, char**)
+ #1 std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > >::operator=(std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > > const&)
+ #2 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #3 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #4 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #5 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #6 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #7 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #8 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #9 std::_Rb_tree<void const*, void const*, std::_Identity<void const*>, std::less<void const*>, std::allocator<void const*> >::_M_erase(std::_Rb_tree_node<void const*>*)
+ #10 pthread_condattr_setpshared
+ #11 __xmknodat
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 32.656600 ms
+Loading Song: AC/DC - The Jack (Live)
+Returned missing glyphs are correct.
+Unloading 592 unused Assets to reduce memory usage. Loaded Objects now: 14722.
+Total: 50.326597 ms (FindLiveObjects: 1.022423 ms CreateObjectMapping: 0.444654 ms MarkObjects: 48.456702 ms  DeleteObjects: 0.401909 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 38.238003 ms
+Loading Song: AC/DC - The Jack (Live)
+Returned missing glyphs are correct.
+Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14725.
+Total: 39.936797 ms (FindLiveObjects: 1.123042 ms CreateObjectMapping: 0.717896 ms MarkObjects: 37.780061 ms  DeleteObjects: 0.314451 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 30.347195 ms
+Unloading 616 unused Assets to reduce memory usage. Loaded Objects now: 23236.
+Total: 67.120787 ms (FindLiveObjects: 2.190537 ms CreateObjectMapping: 0.654234 ms MarkObjects: 62.399622 ms  DeleteObjects: 1.875037 ms)
+
+Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
+ #0 PlayerMain(int, char**)
+ #1 std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > >::operator=(std::vector<std::pair<int, unsigned int>, std::allocator<std::pair<int, unsigned int> > > const&)
+ #2 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #3 std::pair<std::_Rb_tree_iterator<int>, bool> std::_Rb_tree<int, int, std::_Identity<int>, std::less<int>, std::allocator<int> >::_M_insert_unique<int const&>(int const&)
+ #4 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #5 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #6 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #7 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #8 int* std::_V2::__rotate<int*>(int*, int*, int*, std::random_access_iterator_tag)
+ #9 std::_Rb_tree<void const*, void const*, std::_Identity<void const*>, std::less<void const*>, std::allocator<void const*> >::_M_erase(std::_Rb_tree_node<void const*>*)
+ #10 pthread_condattr_setpshared
+ #11 __xmknodat
+
+SSL CA certificate error
 Disposed of memorymapped file
 Disposed of memorymapped file
 Disposed of memorymapped file
@@ -359,13 +720,12 @@ Disposed of memorymapped file
 Disposed of memorymapped file
 Disposed of memorymapped file
 Disposed of memorymapped file
-Curl error 42: Callback aborted
 Curl error 42: Callback aborted
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 598 frames, [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 1084182 frames, [4.0 KB-8.0 KB]: 147 frames, [8.0 KB-16.0 KB]: 44 frames, [16.0 KB-32.0 KB]: 1347 frames, [32.0 KB-64.0 KB]: 756 frames, [64.0 KB-128.0 KB]: 11 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 22 frames, [0.5 MB-1.0 MB]: 28 frames, [1.0 MB-2.0 MB]: 6 frames, [2.0 MB-4.0 MB]: 1 frames
+      Peak usage frame count: [0-1.0 KB]: 5783 frames, [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 978044 frames, [4.0 KB-8.0 KB]: 129 frames, [8.0 KB-16.0 KB]: 52 frames, [16.0 KB-32.0 KB]: 9343 frames, [32.0 KB-64.0 KB]: 186 frames, [64.0 KB-128.0 KB]: 15 frames, [128.0 KB-256.0 KB]: 2 frames, [256.0 KB-0.5 MB]: 53 frames, [0.5 MB-1.0 MB]: 58 frames, [1.0 MB-2.0 MB]: 10 frames, [2.0 MB-4.0 MB]: 1 frames
       Initial Block Size 4.0 MB
       Current Block Size 4.0 MB
       Peak Allocated Bytes 2.1 MB
@@ -373,13 +733,13 @@ Memory Statistics:
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
-      Peak Allocated Bytes 256 B
+      Peak Allocated Bytes 224 B
       Overflow Count 0
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
       Current Block Size 508.0 KB
       Peak Allocated Bytes 313.2 KB
-      Overflow Count 154
+      Overflow Count 290
     [ALLOC_TEMP_Background Job.Worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -388,12 +748,12 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 9]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 66 B
+      Peak Allocated Bytes 4.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 0]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 58.6 KB
+      Peak Allocated Bytes 59.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 10]
       Initial Block Size 32.0 KB
@@ -403,7 +763,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 14]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 66 B
+      Peak Allocated Bytes 4.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 6]
       Initial Block Size 32.0 KB
@@ -423,22 +783,22 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 15]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 66 B
+      Peak Allocated Bytes 4.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 1]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 66 B
+      Peak Allocated Bytes 4.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 2]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 4.3 KB
+      Peak Allocated Bytes 66 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 7]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 66 B
+      Peak Allocated Bytes 4.3 KB
       Overflow Count 0
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
@@ -453,7 +813,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 5]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 66 B
+      Peak Allocated Bytes 4.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 13]
       Initial Block Size 32.0 KB
@@ -463,12 +823,12 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 1]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 56.3 KB
+      Peak Allocated Bytes 55.7 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 2]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 59.3 KB
+      Peak Allocated Bytes 56.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 3]
       Initial Block Size 32.0 KB
@@ -483,7 +843,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 0]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 114 B
+      Peak Allocated Bytes 4.4 KB
       Overflow Count 1
     [ALLOC_TEMP_CloudJob.Worker 0]
       Initial Block Size 32.0 KB
@@ -501,31 +861,31 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 7218
+  Peak main deferred allocation count 7664
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 3.9 MB
       Failed Allocations. Bucket layout:
-        16B: 18 Subsections = 18432 buckets. Failed count: 54916
-        32B: 18 Subsections = 9216 buckets. Failed count: 113073
-        48B: 43 Subsections = 14677 buckets. Failed count: 1979
-        64B: 95 Subsections = 24320 buckets. Failed count: 0
+        16B: 18 Subsections = 18432 buckets. Failed count: 133829
+        32B: 18 Subsections = 9216 buckets. Failed count: 279327
+        48B: 43 Subsections = 14677 buckets. Failed count: 411537
+        64B: 95 Subsections = 24320 buckets. Failed count: 5056
         80B: 25 Subsections = 5120 buckets. Failed count: 0
-        96B: 6 Subsections = 1024 buckets. Failed count: 71197
-        112B: 6 Subsections = 877 buckets. Failed count: 35192
-        128B: 45 Subsections = 5760 buckets. Failed count: 0
+        96B: 6 Subsections = 1024 buckets. Failed count: 398933
+        112B: 6 Subsections = 877 buckets. Failed count: 82076
+        128B: 45 Subsections = 5760 buckets. Failed count: 3390
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 558 frames, [16.0 MB-32.0 MB]: 1086586 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 5738 frames, [16.0 MB-32.0 MB]: 987939 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 25.4 MB
+      Peak Allocated memory 25.2 MB
       Peak Large allocation bytes 0 B
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 557 frames, [16.0 MB-32.0 MB]: 1086587 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 5733 frames, [16.0 MB-32.0 MB]: 987944 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 29.7 MB
+      Peak Allocated memory 30.0 MB
       Peak Large allocation bytes 16.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -548,58 +908,58 @@ Memory Statistics:
   Overflow Count (too large) 0
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 25
+  Peak main deferred allocation count 26
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 3.9 MB
       Failed Allocations. Bucket layout:
-        16B: 18 Subsections = 18432 buckets. Failed count: 54916
-        32B: 18 Subsections = 9216 buckets. Failed count: 113073
-        48B: 43 Subsections = 14677 buckets. Failed count: 1979
-        64B: 95 Subsections = 24320 buckets. Failed count: 0
+        16B: 18 Subsections = 18432 buckets. Failed count: 133829
+        32B: 18 Subsections = 9216 buckets. Failed count: 279327
+        48B: 43 Subsections = 14677 buckets. Failed count: 411537
+        64B: 95 Subsections = 24320 buckets. Failed count: 5056
         80B: 25 Subsections = 5120 buckets. Failed count: 0
-        96B: 6 Subsections = 1024 buckets. Failed count: 71197
-        112B: 6 Subsections = 877 buckets. Failed count: 35192
-        128B: 45 Subsections = 5760 buckets. Failed count: 0
+        96B: 6 Subsections = 1024 buckets. Failed count: 398933
+        112B: 6 Subsections = 877 buckets. Failed count: 82076
+        128B: 45 Subsections = 5760 buckets. Failed count: 3390
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 600 frames, [64.0 KB-128.0 KB]: 4 frames, [128.0 KB-256.0 KB]: 1 frames, [1.0 MB-2.0 MB]: 14 frames, [2.0 MB-4.0 MB]: 911 frames, [4.0 MB-8.0 MB]: 61953 frames, [8.0 MB-16.0 MB]: 558773 frames, [16.0 MB-32.0 MB]: 464886 frames, [32.0 MB-64.0 MB]: 2 frames
+      Peak usage frame count: [32.0 KB-64.0 KB]: 5787 frames, [64.0 KB-128.0 KB]: 3 frames, [128.0 KB-256.0 KB]: 1 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 7956 frames, [4.0 MB-8.0 MB]: 9300 frames, [8.0 MB-16.0 MB]: 99088 frames, [16.0 MB-32.0 MB]: 160701 frames, [32.0 MB-64.0 MB]: 710834 frames, [64.0 MB-128.0 MB]: 4 frames
       Requested Block Size 16.0 MB
-      Peak Block count 4
-      Peak Allocated memory 33.8 MB
+      Peak Block count 6
+      Peak Allocated memory 66.7 MB
       Peak Large allocation bytes 0 B
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 515 frames, [16.0 MB-32.0 MB]: 2 frames, [32.0 MB-64.0 MB]: 1086627 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 5698 frames, [16.0 MB-32.0 MB]: 2 frames, [32.0 MB-64.0 MB]: 987977 frames
       Requested Block Size 16.0 MB
       Peak Block count 3
       Peak Allocated memory 41.1 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 506
+  Peak main deferred allocation count 515
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 3.9 MB
       Failed Allocations. Bucket layout:
-        16B: 18 Subsections = 18432 buckets. Failed count: 54916
-        32B: 18 Subsections = 9216 buckets. Failed count: 113073
-        48B: 43 Subsections = 14677 buckets. Failed count: 1979
-        64B: 95 Subsections = 24320 buckets. Failed count: 0
+        16B: 18 Subsections = 18432 buckets. Failed count: 133829
+        32B: 18 Subsections = 9216 buckets. Failed count: 279327
+        48B: 43 Subsections = 14677 buckets. Failed count: 411537
+        64B: 95 Subsections = 24320 buckets. Failed count: 5056
         80B: 25 Subsections = 5120 buckets. Failed count: 0
-        96B: 6 Subsections = 1024 buckets. Failed count: 71197
-        112B: 6 Subsections = 877 buckets. Failed count: 35192
-        128B: 45 Subsections = 5760 buckets. Failed count: 0
+        96B: 6 Subsections = 1024 buckets. Failed count: 398933
+        112B: 6 Subsections = 877 buckets. Failed count: 82076
+        128B: 45 Subsections = 5760 buckets. Failed count: 3390
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [2.0 MB-4.0 MB]: 1087144 frames
+      Peak usage frame count: [2.0 MB-4.0 MB]: 993677 frames
       Requested Block Size 4.0 MB
       Peak Block count 2
       Peak Allocated memory 3.7 MB
       Peak Large allocation bytes 0 B
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [32.0 MB-64.0 MB]: 520 frames, [64.0 MB-128.0 MB]: 1086624 frames
+      Peak usage frame count: [32.0 MB-64.0 MB]: 5705 frames, [64.0 MB-128.0 MB]: 987972 frames
       Requested Block Size 4.0 MB
       Peak Block count 5
-      Peak Allocated memory 83.6 MB
+      Peak Allocated memory 83.7 MB
       Peak Large allocation bytes 67.4 MB
 [ALLOC_TYPETREE] Dual Thread Allocator
   Peak main deferred allocation count 0
@@ -608,22 +968,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 3.9 MB
       Failed Allocations. Bucket layout:
-        16B: 18 Subsections = 18432 buckets. Failed count: 54916
-        32B: 18 Subsections = 9216 buckets. Failed count: 113073
-        48B: 43 Subsections = 14677 buckets. Failed count: 1979
-        64B: 95 Subsections = 24320 buckets. Failed count: 0
+        16B: 18 Subsections = 18432 buckets. Failed count: 133829
+        32B: 18 Subsections = 9216 buckets. Failed count: 279327
+        48B: 43 Subsections = 14677 buckets. Failed count: 411537
+        64B: 95 Subsections = 24320 buckets. Failed count: 5056
         80B: 25 Subsections = 5120 buckets. Failed count: 0
-        96B: 6 Subsections = 1024 buckets. Failed count: 71197
-        112B: 6 Subsections = 877 buckets. Failed count: 35192
-        128B: 45 Subsections = 5760 buckets. Failed count: 0
+        96B: 6 Subsections = 1024 buckets. Failed count: 398933
+        112B: 6 Subsections = 877 buckets. Failed count: 82076
+        128B: 45 Subsections = 5760 buckets. Failed count: 3390
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 606 frames, [4.0 KB-8.0 KB]: 4341 frames, [16.0 KB-32.0 KB]: 1082197 frames
+      Peak usage frame count: [0-1.0 KB]: 5792 frames, [4.0 KB-8.0 KB]: 13162 frames, [16.0 KB-32.0 KB]: 974723 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 24.3 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [256.0 KB-0.5 MB]: 1087144 frames
+      Peak usage frame count: [256.0 KB-0.5 MB]: 993677 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 314.4 KB
