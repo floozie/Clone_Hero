@@ -8,8 +8,9 @@ Preloaded 'libbass_fx.so'
 Preloaded 'libbassmix.so'
 Preloaded 'libbassopus.so'
 Preloaded 'libslimage.so'
-Display 0 'XWAYLAND0 13"': 3200x1800 (primary device).
-Desktop is 3200 x 1800 @ 60 Hz
+Display 0 'XWAYLAND0 13"': 1920x1080 (primary device).
+Display 1 'XWAYLAND1 32"': 1920x1080 (secondary device).
+Desktop is 1920 x 1080 @ 60 Hz
 Initialize engine version: 2021.3.14f1 (eee1884e7226)
 [Subsystems] Discovering subsystems at path /home/floozie/clonehero/clonehero_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1; jobified=0
@@ -23,23 +24,23 @@ int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program
 L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
 t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_t
 exture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 22558064
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 15735120
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.144 seconds
+- Completed reload, in  0.131 seconds
 FastLogger: Activated
 Default vsync count 0
 requesting resize 1280 x 720
 requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
-Desktop is 3200 x 1800 @ 60 Hz
-UnloadTime: 1.525882 ms
+Desktop is 1920 x 1080 @ 60 Hz
+UnloadTime: 1.275123 ms
 Setting up services
-Log ID: 1277086580
+Log ID: -907512541
 Logged into USG
 PlayerID: ujocDavc9Rzfi4fHnfcooZ3xFecr
 Remote config ready!
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.606190 ms
+UnloadTime: 9.061830 ms
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
 Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/MonoBleedingEdge/x86_64/libudev.so
@@ -59,7 +60,7 @@ Fallback handler could not load library /home/floozie/clonehero/clonehero_Data/M
 Bass: 2.4.16.7 BassFx: 2.4.12.6 BassMix: 2.4.11.2
 WASAPI
 Starting video thumbs
-[2023-07-01T12:29:24.673+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
+[2023-07-01T17:16:58.873+02:00] [Assets\Scripts\StrikeCore\Settings.cs:329:Load] [Info] Writing default config /home/floozie/.clonehero/Custom/Colors/DefaultColors.ini
 Biology
 Coalescence & Segmentation
 Combat Mosh
@@ -74,212 +75,37 @@ No Known Suspects
 Revenge
 Stigma
 Stop Saying We Sound Like Dragonforce
+<Missing i18n Resource>: StrikeLine Base Red :en
 The Palace of the Kantus
 Troopers of the Stars
 i ws nvr yr grlfrnd
-<Missing i18n Resource>: StrikeLine Base Red :en
 Setting up 2 worker threads for Enlighten.
 requesting resize 1280 x 720
 requesting fullscreen 1280 x 720 at 0 Hz
 Setting up downscaled viewport at 1280 x 720
-Desktop is 3200 x 1800 @ 60 Hz
+Desktop is 1920 x 1080 @ 60 Hz
 Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 23050.
-Total: 43.229955 ms (FindLiveObjects: 1.839540 ms CreateObjectMapping: 0.515119 ms MarkObjects: 40.769794 ms  DeleteObjects: 0.104662 ms)
+Total: 39.893907 ms (FindLiveObjects: 1.804948 ms CreateObjectMapping: 0.424300 ms MarkObjects: 37.522629 ms  DeleteObjects: 0.141110 ms)
 
 download source.txt
 download source.txt finished
-<Missing i18n Resource>: Device not available.:en
-<Missing i18n Resource>: Device in use by :en
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 40.513746 ms
-Loading Song: AC/DC - Fire Your Guns (Live)
-Returned missing glyphs are correct.
-Unloading 1155 unused Assets to reduce memory usage. Loaded Objects now: 14561.
-Total: 32.646813 ms (FindLiveObjects: 0.957676 ms CreateObjectMapping: 0.443786 ms MarkObjects: 30.297589 ms  DeleteObjects: 0.946759 ms)
+UnloadTime: 37.373240 ms
+Loading Song: !I! - !I
+Unloading 1154 unused Assets to reduce memory usage. Loaded Objects now: 14558.
+Total: 32.483217 ms (FindLiveObjects: 0.954495 ms CreateObjectMapping: 0.381387 ms MarkObjects: 30.016096 ms  DeleteObjects: 1.130535 ms)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 20.057739 ms
-Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9609.
-Total: 39.461524 ms (FindLiveObjects: 0.669728 ms CreateObjectMapping: 0.350681 ms MarkObjects: 37.540497 ms  DeleteObjects: 0.899857 ms)
+UnloadTime: 14.255736 ms
+Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9607.
+Total: 39.236455 ms (FindLiveObjects: 0.892160 ms CreateObjectMapping: 0.394029 ms MarkObjects: 37.005753 ms  DeleteObjects: 0.943641 ms)
 
+Changing real window size to 3200 x 1800
+Setting up downscaled viewport at 1280 x 720
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 37.993728 ms
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 23853.
-Total: 47.776152 ms (FindLiveObjects: 2.062233 ms CreateObjectMapping: 0.526709 ms MarkObjects: 45.075940 ms  DeleteObjects: 0.110049 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 31.625203 ms
-Loading Song: AC/DC - For Those About to Rock (We Salute You) (Live)
-Returned missing glyphs are correct.
-Unloading 599 unused Assets to reduce memory usage. Loaded Objects now: 14563.
-Total: 38.439253 ms (FindLiveObjects: 0.998825 ms CreateObjectMapping: 0.415027 ms MarkObjects: 36.519112 ms  DeleteObjects: 0.505392 ms)
-
-<Missing i18n Resource>: Current Section::en
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 17.985949 ms
-Unloading 616 unused Assets to reduce memory usage. Loaded Objects now: 23081.
-Total: 42.729714 ms (FindLiveObjects: 2.028150 ms CreateObjectMapping: 0.573994 ms MarkObjects: 38.802172 ms  DeleteObjects: 1.324575 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 34.155241 ms
-Loading Song: AC/DC - For Those About to Rock (We Salute You) (Live)
-Returned missing glyphs are correct.
-Unloading 593 unused Assets to reduce memory usage. Loaded Objects now: 14574.
-Total: 39.841185 ms (FindLiveObjects: 1.007844 ms CreateObjectMapping: 0.430939 ms MarkObjects: 37.970479 ms  DeleteObjects: 0.431032 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 28.329662 ms
-Unloading 615 unused Assets to reduce memory usage. Loaded Objects now: 23086.
-Total: 54.554847 ms (FindLiveObjects: 1.692559 ms CreateObjectMapping: 0.564143 ms MarkObjects: 51.188991 ms  DeleteObjects: 1.108276 ms)
-
-Starting calibration
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 25.657501 ms
-Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 4006.
-Total: 40.941783 ms (FindLiveObjects: 0.364555 ms CreateObjectMapping: 0.227967 ms MarkObjects: 40.186569 ms  DeleteObjects: 0.161933 ms)
-
-Cube (UnityEngine.MeshRenderer)
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.243250 ms
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 14065.
-Total: 47.311427 ms (FindLiveObjects: 0.814757 ms CreateObjectMapping: 0.242300 ms MarkObjects: 46.159854 ms  DeleteObjects: 0.093675 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 61.671578 ms
-Loading Song: AC/DC - Heatseeker (Live)
-Returned missing glyphs are correct.
-Unloading 594 unused Assets to reduce memory usage. Loaded Objects now: 14581.
-Total: 79.112159 ms (FindLiveObjects: 0.996522 ms CreateObjectMapping: 0.455856 ms MarkObjects: 77.223739 ms  DeleteObjects: 0.435023 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 16.530578 ms
-Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9594.
-Total: 75.647379 ms (FindLiveObjects: 0.924042 ms CreateObjectMapping: 0.366192 ms MarkObjects: 73.406844 ms  DeleteObjects: 0.949543 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.313933 ms
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 23868.
-Total: 104.450707 ms (FindLiveObjects: 2.081979 ms CreateObjectMapping: 0.535873 ms MarkObjects: 101.730969 ms  DeleteObjects: 0.101131 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 33.823955 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 592 unused Assets to reduce memory usage. Loaded Objects now: 14585.
-Total: 82.712432 ms (FindLiveObjects: 1.314857 ms CreateObjectMapping: 0.597974 ms MarkObjects: 80.311092 ms  DeleteObjects: 0.487445 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 32.098103 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14588.
-Total: 75.525868 ms (FindLiveObjects: 1.353184 ms CreateObjectMapping: 0.561691 ms MarkObjects: 73.282895 ms  DeleteObjects: 0.326925 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 39.706976 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14591.
-Total: 79.544519 ms (FindLiveObjects: 1.123993 ms CreateObjectMapping: 0.519739 ms MarkObjects: 77.572940 ms  DeleteObjects: 0.326862 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 31.256303 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14594.
-Total: 84.647931 ms (FindLiveObjects: 1.123083 ms CreateObjectMapping: 0.536818 ms MarkObjects: 82.628145 ms  DeleteObjects: 0.358786 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 30.543583 ms
-Unloading 612 unused Assets to reduce memory usage. Loaded Objects now: 9599.
-Total: 94.624534 ms (FindLiveObjects: 0.692133 ms CreateObjectMapping: 0.401381 ms MarkObjects: 92.516142 ms  DeleteObjects: 1.014036 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.109601 ms
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 23880.
-Total: 95.555943 ms (FindLiveObjects: 1.645283 ms CreateObjectMapping: 0.487654 ms MarkObjects: 93.272373 ms  DeleteObjects: 0.149689 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 35.522414 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 592 unused Assets to reduce memory usage. Loaded Objects now: 14597.
-Total: 85.865898 ms (FindLiveObjects: 0.917143 ms CreateObjectMapping: 0.410449 ms MarkObjects: 84.091005 ms  DeleteObjects: 0.446232 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 31.534071 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14600.
-Total: 89.444259 ms (FindLiveObjects: 0.992917 ms CreateObjectMapping: 0.536029 ms MarkObjects: 87.618853 ms  DeleteObjects: 0.295192 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 31.855433 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14603.
-Total: 78.881881 ms (FindLiveObjects: 1.241193 ms CreateObjectMapping: 0.546395 ms MarkObjects: 76.707595 ms  DeleteObjects: 0.385722 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 36.454500 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14606.
-Total: 78.160887 ms (FindLiveObjects: 1.070420 ms CreateObjectMapping: 0.539081 ms MarkObjects: 76.177134 ms  DeleteObjects: 0.373461 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 32.564883 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14609.
-Total: 83.524090 ms (FindLiveObjects: 1.204164 ms CreateObjectMapping: 0.529078 ms MarkObjects: 81.425379 ms  DeleteObjects: 0.364406 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 32.964442 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14612.
-Total: 76.118789 ms (FindLiveObjects: 1.270310 ms CreateObjectMapping: 0.525713 ms MarkObjects: 73.922777 ms  DeleteObjects: 0.399060 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 38.273017 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14615.
-Total: 78.014445 ms (FindLiveObjects: 1.076404 ms CreateObjectMapping: 0.771494 ms MarkObjects: 75.809498 ms  DeleteObjects: 0.356128 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 38.509826 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14618.
-Total: 81.187614 ms (FindLiveObjects: 1.213494 ms CreateObjectMapping: 0.509613 ms MarkObjects: 79.077529 ms  DeleteObjects: 0.386129 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 37.282628 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14621.
-Total: 79.670368 ms (FindLiveObjects: 1.083396 ms CreateObjectMapping: 0.538686 ms MarkObjects: 77.695558 ms  DeleteObjects: 0.351952 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 35.793210 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 537 unused Assets to reduce memory usage. Loaded Objects now: 14624.
-Total: 76.997342 ms (FindLiveObjects: 0.917198 ms CreateObjectMapping: 0.432349 ms MarkObjects: 75.361891 ms  DeleteObjects: 0.285146 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 32.821991 ms
-Loading Song: Metallica - Murder One
-Returned missing glyphs are correct.
-Unloading 534 unused Assets to reduce memory usage. Loaded Objects now: 14873.
-Total: 76.060640 ms (FindLiveObjects: 1.405603 ms CreateObjectMapping: 0.526326 ms MarkObjects: 73.793736 ms  DeleteObjects: 0.333919 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 31.862631 ms
-Unloading 616 unused Assets to reduce memory usage. Loaded Objects now: 23138.
-Total: 92.040202 ms (FindLiveObjects: 1.770499 ms CreateObjectMapping: 0.617361 ms MarkObjects: 88.336192 ms  DeleteObjects: 1.314973 ms)
+UnloadTime: 9.956595 ms
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 23850.
+Total: 44.440208 ms (FindLiveObjects: 1.958955 ms CreateObjectMapping: 0.491995 ms MarkObjects: 41.860350 ms  DeleteObjects: 0.127924 ms)
 
 Disposed of memorymapped file
 Disposed of memorymapped file
@@ -303,7 +129,7 @@ Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 682 frames, [2.0 KB-4.0 KB]: 496051 frames, [4.0 KB-8.0 KB]: 69 frames, [8.0 KB-16.0 KB]: 31 frames, [16.0 KB-32.0 KB]: 2315 frames, [32.0 KB-64.0 KB]: 430 frames, [64.0 KB-128.0 KB]: 12 frames, [128.0 KB-256.0 KB]: 2 frames, [256.0 KB-0.5 MB]: 20 frames, [0.5 MB-1.0 MB]: 22 frames, [1.0 MB-2.0 MB]: 8 frames, [2.0 MB-4.0 MB]: 1 frames
+      Peak usage frame count: [0-1.0 KB]: 1227 frames, [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 16857 frames, [4.0 KB-8.0 KB]: 17 frames, [8.0 KB-16.0 KB]: 4 frames, [16.0 KB-32.0 KB]: 779 frames, [32.0 KB-64.0 KB]: 62 frames, [64.0 KB-128.0 KB]: 5 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 2 frames, [1.0 MB-2.0 MB]: 2 frames, [2.0 MB-4.0 MB]: 1 frames
       Initial Block Size 4.0 MB
       Current Block Size 4.0 MB
       Peak Allocated Bytes 2.1 MB
@@ -311,13 +137,13 @@ Memory Statistics:
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
-      Peak Allocated Bytes 160 B
+      Peak Allocated Bytes 256 B
       Overflow Count 0
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
       Current Block Size 508.0 KB
       Peak Allocated Bytes 313.2 KB
-      Overflow Count 142
+      Overflow Count 34
     [ALLOC_TEMP_Background Job.Worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -331,7 +157,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 0]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 56.7 KB
+      Peak Allocated Bytes 55.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 10]
       Initial Block Size 32.0 KB
@@ -341,7 +167,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 14]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 66 B
+      Peak Allocated Bytes 0 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 6]
       Initial Block Size 32.0 KB
@@ -401,12 +227,12 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 1]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 57.2 KB
+      Peak Allocated Bytes 50.7 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 2]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 56.8 KB
+      Peak Allocated Bytes 56.2 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 3]
       Initial Block Size 32.0 KB
@@ -416,7 +242,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 11]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 66 B
+      Peak Allocated Bytes 0 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 0]
       Initial Block Size 32.0 KB
@@ -439,31 +265,31 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 7469
+  Peak main deferred allocation count 6624
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
-      Peak Allocated bytes 3.9 MB
+      Peak Allocated bytes 3.8 MB
       Failed Allocations. Bucket layout:
-        16B: 17 Subsections = 17408 buckets. Failed count: 80957
-        32B: 18 Subsections = 9216 buckets. Failed count: 87700
-        48B: 43 Subsections = 14677 buckets. Failed count: 3296
+        16B: 17 Subsections = 17408 buckets. Failed count: 4740
+        32B: 18 Subsections = 9216 buckets. Failed count: 4937
+        48B: 42 Subsections = 14336 buckets. Failed count: 0
         64B: 95 Subsections = 24320 buckets. Failed count: 0
-        80B: 25 Subsections = 5120 buckets. Failed count: 8916
-        96B: 7 Subsections = 1194 buckets. Failed count: 56078
-        112B: 6 Subsections = 877 buckets. Failed count: 27846
-        128B: 45 Subsections = 5760 buckets. Failed count: 2113
+        80B: 25 Subsections = 5120 buckets. Failed count: 0
+        96B: 7 Subsections = 1194 buckets. Failed count: 2651
+        112B: 7 Subsections = 1024 buckets. Failed count: 806
+        128B: 45 Subsections = 5760 buckets. Failed count: 0
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 644 frames, [16.0 MB-32.0 MB]: 498999 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 1192 frames, [16.0 MB-32.0 MB]: 17767 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 25.1 MB
+      Peak Allocated memory 25.0 MB
       Peak Large allocation bytes 0 B
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 630 frames, [16.0 MB-32.0 MB]: 499013 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 1142 frames, [16.0 MB-32.0 MB]: 17817 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
-      Peak Allocated memory 30.6 MB
+      Peak Allocated memory 29.4 MB
       Peak Large allocation bytes 16.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -490,24 +316,24 @@ Memory Statistics:
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
-      Peak Allocated bytes 3.9 MB
+      Peak Allocated bytes 3.8 MB
       Failed Allocations. Bucket layout:
-        16B: 17 Subsections = 17408 buckets. Failed count: 80957
-        32B: 18 Subsections = 9216 buckets. Failed count: 87700
-        48B: 43 Subsections = 14677 buckets. Failed count: 3296
+        16B: 17 Subsections = 17408 buckets. Failed count: 4740
+        32B: 18 Subsections = 9216 buckets. Failed count: 4937
+        48B: 42 Subsections = 14336 buckets. Failed count: 0
         64B: 95 Subsections = 24320 buckets. Failed count: 0
-        80B: 25 Subsections = 5120 buckets. Failed count: 8916
-        96B: 7 Subsections = 1194 buckets. Failed count: 56078
-        112B: 6 Subsections = 877 buckets. Failed count: 27846
-        128B: 45 Subsections = 5760 buckets. Failed count: 2113
+        80B: 25 Subsections = 5120 buckets. Failed count: 0
+        96B: 7 Subsections = 1194 buckets. Failed count: 2651
+        112B: 7 Subsections = 1024 buckets. Failed count: 806
+        128B: 45 Subsections = 5760 buckets. Failed count: 0
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 683 frames, [64.0 KB-128.0 KB]: 2 frames, [128.0 KB-256.0 KB]: 1 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 11278 frames, [4.0 MB-8.0 MB]: 62079 frames, [8.0 MB-16.0 MB]: 168243 frames, [16.0 MB-32.0 MB]: 257351 frames, [32.0 MB-64.0 MB]: 3 frames
+      Peak usage frame count: [32.0 KB-64.0 KB]: 1229 frames, [64.0 KB-128.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 2 frames, [1.0 MB-2.0 MB]: 29 frames, [2.0 MB-4.0 MB]: 8880 frames, [4.0 MB-8.0 MB]: 8817 frames, [8.0 MB-16.0 MB]: 1 frames
       Requested Block Size 16.0 MB
-      Peak Block count 4
-      Peak Allocated memory 34.2 MB
+      Peak Block count 1
+      Peak Allocated memory 10.4 MB
       Peak Large allocation bytes 0 B
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 604 frames, [16.0 MB-32.0 MB]: 2 frames, [32.0 MB-64.0 MB]: 499037 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 993 frames, [16.0 MB-32.0 MB]: 44 frames, [32.0 MB-64.0 MB]: 17922 frames
       Requested Block Size 16.0 MB
       Peak Block count 3
       Peak Allocated memory 41.1 MB
@@ -517,51 +343,51 @@ Memory Statistics:
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
-      Peak Allocated bytes 3.9 MB
+      Peak Allocated bytes 3.8 MB
       Failed Allocations. Bucket layout:
-        16B: 17 Subsections = 17408 buckets. Failed count: 80957
-        32B: 18 Subsections = 9216 buckets. Failed count: 87700
-        48B: 43 Subsections = 14677 buckets. Failed count: 3296
+        16B: 17 Subsections = 17408 buckets. Failed count: 4740
+        32B: 18 Subsections = 9216 buckets. Failed count: 4937
+        48B: 42 Subsections = 14336 buckets. Failed count: 0
         64B: 95 Subsections = 24320 buckets. Failed count: 0
-        80B: 25 Subsections = 5120 buckets. Failed count: 8916
-        96B: 7 Subsections = 1194 buckets. Failed count: 56078
-        112B: 6 Subsections = 877 buckets. Failed count: 27846
-        128B: 45 Subsections = 5760 buckets. Failed count: 2113
+        80B: 25 Subsections = 5120 buckets. Failed count: 0
+        96B: 7 Subsections = 1194 buckets. Failed count: 2651
+        112B: 7 Subsections = 1024 buckets. Failed count: 806
+        128B: 45 Subsections = 5760 buckets. Failed count: 0
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [2.0 MB-4.0 MB]: 499643 frames
+      Peak usage frame count: [2.0 MB-4.0 MB]: 18959 frames
       Requested Block Size 4.0 MB
       Peak Block count 2
       Peak Allocated memory 3.7 MB
       Peak Large allocation bytes 0 B
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [32.0 MB-64.0 MB]: 612 frames, [64.0 MB-128.0 MB]: 499031 frames
+      Peak usage frame count: [32.0 MB-64.0 MB]: 1062 frames, [64.0 MB-128.0 MB]: 17897 frames
       Requested Block Size 4.0 MB
       Peak Block count 5
-      Peak Allocated memory 84.2 MB
+      Peak Allocated memory 83.6 MB
       Peak Large allocation bytes 67.4 MB
 [ALLOC_TYPETREE] Dual Thread Allocator
   Peak main deferred allocation count 0
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
-      Peak Allocated bytes 3.9 MB
+      Peak Allocated bytes 3.8 MB
       Failed Allocations. Bucket layout:
-        16B: 17 Subsections = 17408 buckets. Failed count: 80957
-        32B: 18 Subsections = 9216 buckets. Failed count: 87700
-        48B: 43 Subsections = 14677 buckets. Failed count: 3296
+        16B: 17 Subsections = 17408 buckets. Failed count: 4740
+        32B: 18 Subsections = 9216 buckets. Failed count: 4937
+        48B: 42 Subsections = 14336 buckets. Failed count: 0
         64B: 95 Subsections = 24320 buckets. Failed count: 0
-        80B: 25 Subsections = 5120 buckets. Failed count: 8916
-        96B: 7 Subsections = 1194 buckets. Failed count: 56078
-        112B: 6 Subsections = 877 buckets. Failed count: 27846
-        128B: 45 Subsections = 5760 buckets. Failed count: 2113
+        80B: 25 Subsections = 5120 buckets. Failed count: 0
+        96B: 7 Subsections = 1194 buckets. Failed count: 2651
+        112B: 7 Subsections = 1024 buckets. Failed count: 806
+        128B: 45 Subsections = 5760 buckets. Failed count: 0
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 687 frames, [4.0 KB-8.0 KB]: 1866 frames, [16.0 KB-32.0 KB]: 497090 frames
+      Peak usage frame count: [0-1.0 KB]: 1233 frames, [4.0 KB-8.0 KB]: 443 frames, [16.0 KB-32.0 KB]: 17283 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 24.3 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [256.0 KB-0.5 MB]: 499643 frames
+      Peak usage frame count: [256.0 KB-0.5 MB]: 18959 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 314.4 KB
