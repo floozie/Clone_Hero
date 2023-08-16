@@ -14,3 +14,4 @@ if exist "C:\scripts\drumstation_obs_websocket_client.py" (
 git commit -a -m "scores update"
 git push -v
 pause
+shutdown /s /f /t 0
