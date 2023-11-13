@@ -7,7 +7,7 @@ Mappings:
   Yellow Pad:
   - NoteNumber: 48
     Velocity: 10
-    OverHitThreshold: 0.0299999975
+    OverHitThreshold: 0.0499999933
   Blue Pad:
   - NoteNumber: 45
     Velocity: 10
