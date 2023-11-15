@@ -6,15 +6,15 @@ Mappings:
     OverHitThreshold: 0.0199999996
   Yellow Pad:
   - NoteNumber: 48
-    Velocity: 5
+    Velocity: 1
     OverHitThreshold: 0.0199999996
   Blue Pad:
   - NoteNumber: 45
-    Velocity: 5
+    Velocity: 1
     OverHitThreshold: 0.0199999996
   Green Pad:
   - NoteNumber: 43
-    Velocity: 5
+    Velocity: 1
     OverHitThreshold: 0.0199999996
   Kick Pad:
   - NoteNumber: 36
@@ -22,15 +22,15 @@ Mappings:
     OverHitThreshold: 0.00999999978
   Yellow Cymbal:
   - NoteNumber: 46
-    Velocity: 5
+    Velocity: 1
     OverHitThreshold: 0.0199999996
   Blue Cymbal:
   - NoteNumber: 51
-    Velocity: 5
+    Velocity: 1
     OverHitThreshold: 0.0199999996
   Green Cymbal:
   - NoteNumber: 49
-    Velocity: 5
+    Velocity: 1
     OverHitThreshold: 0.0199999996
   Start: []
   Select: []
