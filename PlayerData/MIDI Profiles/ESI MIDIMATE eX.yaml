@@ -18,8 +18,8 @@ Mappings:
     OverHitThreshold: 0.0199999996
   Kick Pad:
   - NoteNumber: 36
-    Velocity: 10
-    OverHitThreshold: 0
+    Velocity: 15
+    OverHitThreshold: 0.0299999975
   Yellow Cymbal:
   - NoteNumber: 46
     Velocity: 1
