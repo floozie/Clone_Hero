@@ -1,603 +1,605 @@
-Warning: These folders contain lyrics that are not valid UTF-8, and may display missing or incorrect characters in-game.
-/home/floozie/.clonehero/Songs/Rock Band Network/ETHS - Gravis Venter
-/home/floozie/.clonehero/Songs/Rock Band 3 DLC/Bruno Mars - Marry You
-/home/floozie/.clonehero/Songs/Rock Band 3 DLC/BAP - Verdamp Lang Her
-/home/floozie/.clonehero/Songs/Rock Band 2/Talking Heads - Psycho Killer
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Rise Against - Death Blossoms
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/M-Clan - Carolina
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Loquillo Y Los Trogloditas - Cadillac Solitario (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Les Rita Mitsouko - C'est Comme Ca
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Housse de Racket - Oh Yeah!
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Finley - Adrenalina
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Die Toten Hosen - Hier kommt Alex
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/A Day To Remember - Nj Legion Iced Tea
-
-Warning: These folders contain notes after the end event. End events will be disabled for these folders.
-/home/floozie/.clonehero/Songs/01_custom_drums/Coheed And Cambria - Welcome Home
-
 Warning: These folders contain lyrics that do not have matching vocal note events, and have fallen back to non validated parsing.
 This warning has no effect on charts currently, but they will not work properly in the future when/if vocals support is pursued.
-/home/floozie/clonehero/clonehero_Data/StreamingAssets/songs/No Known Suspects.sng
-/home/floozie/clonehero/clonehero_Data/StreamingAssets/songs/Troopers of the Stars.sng
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/ZZ Top - Gimme All Your Lovin'
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Wolfmother - Dimension
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Within Temptation - What Have You Done
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Wings - Junior's Farm
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Wings - Jet
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Wings - Hi Hi Hi
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Unearth - Grave of Opportunity
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/The Vines - Outtathaway!
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/The Sleeping - Bomb The World
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/The Raconteurs - Salute Your Solution
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/The Raconteurs - Hold Up
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/The Raconteurs - Consoler Of The Lonely
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/The Killers - Mr. Brightside
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/The Devil Wears Prada - Dez Moines
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Sworn - Electro Rock
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Steely Dan - Black Friday
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Sportfreunde Stiller - 54, 74, 90, 2010
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Smashing Pumpkins - G.L.O.W
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Slightly Stoopid - Jimi
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Silverstein - I Am The Arsonist
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Senses Fail - The Martyr
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Rise Against - Ready To Fall
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Rise Against - Death Blossoms
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Rick Springfield - Jessie's Girl
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Rascal Flatts - Me And My Gang
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Ram Jam - Black Betty
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Queen - Fat Bottomed Girls
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Protest The Hero - Bloodmeat
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Pixies - The Sad Punk
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Pixies - Monkey Gone To Heaven
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Pixies - Debaser
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Pink - So What
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Phish - Sample In A Jar (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Pepper - Your Face
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Oasis - Waiting for the Rapture
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Oasis - Get Off Your High Horse Lady
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Oasis - Bag It Up
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Nirvana - Stay Away
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Nirvana - Negative Creep
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Nickelback - Because Of You
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Negrita - Mama Maè‏
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Motörhead - Love Me Like a Reptile
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Motörhead - Jailbait
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/M-Clan - Carolina
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Loquillo Y Los Trogloditas - Cadillac Solitario (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Les Rita Mitsouko - C'est Comme Ca
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Jimi Hendrix - Little Wing
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Jimi Hendrix - If 6 Was 9
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Jimi Hendrix - Freedom
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Jimi Hendrix - Foxy Lady (Live at Woodstock)
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Jimi Hendrix - Fire (Live at Woodstock)
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Jimi Hendrix - Angel
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/In Flames - Disconnected
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Housse de Racket - Oh Yeah!
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Hinder - Use Me
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Flo Rida ft. T-Pain - Low (Travis Barker Remix)
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Finley - Adrenalina
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Eagles of Death Metal - Anything 'Cept the Truth
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Eagles Of Death Metal - I Only Want You
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Eagles Of Death Metal - Cherry Cola
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Eagles - Life In The Fast Lane
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Dropkick Murphys - I'm Shipping Up To Boston
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Cody ChesnuTT - Look Good In Leather
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Chimaira - On Broken Glass
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Bruce Springsteen - My Lucky Day
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Bruce Springsteen - Born To Run
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Brooks & Dunn - Hillbilly Deluxe
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Brad Paisley - Ticks
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Bob Seger & the Silver Bullet Band - Old Time Rock and Roll
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Bob Seger & the Silver Bullet Band - Her Strut
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Blind Melon - No Rain
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Ben Harper and Relentless7 - Number with No Name
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Backyard Babies - Degenerated
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Awaken - The Silence Is Deafening
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/Alexisonfire - Young Cardinals
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour DLC/A Day To Remember - Nj Legion Iced Tea
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Willie Nelson - On the Road Again (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Van Halen - Hot for Teacher
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Trust - Antisocial
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Tool - Vicarious
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/The Stone Roses - Love Spreads
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/The Sex Pistols - Pretty Vacant
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/The Police - Demolition Man (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/The Living End - Prisoner of Society
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/The Jimi Hendrix Experience - Purple Haze (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/The Guess Who - American Woman
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/The Cult - Love Removal Machine
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/The Answer - Never Too Late
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/System of a Down - B.Y.O.B
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Sublime - Santeria
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Stuck in the Sound - Toy Boy
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Radio Futura - Escuela de Calor
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Paramore - Misery Business
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Ozzy Osbourne - Crazy Train
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Motörhead - Overkill
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Modest Mouse - Float On
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/MC5's Wayne Kramer - Kick Out the Jams
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Lynyrd Skynyrd - Sweet Home Alabama (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Lenny Kravitz - Are You Gonna Go My Way
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Korn - Freak on a Leash
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Joe Satriani - Satch Boogie
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Jimmy Eat World - The Middle
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Jane's Addiction - Mountain Song
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Eagles - Hotel California
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Bullet for My Valentine - Scream Aim Fire
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Bon Jovi - Livin' on a Prayer
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Bob Seger & the Silver Bullet Band - Hollywood Nights
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Billy Idol - Rebel Yell
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Beastie Boys ft. Kerry King - No Sleep Till Brooklyn
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/At the Drive-In - One Armed Scissor
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/Anouk - Good God
-/home/floozie/.clonehero/Songs/Guitar Hero World Tour/30 Seconds to Mars - The Kill
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Trapt - Headstrong
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/The Used - Buried Myself Alive
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/The Rocky Horror Picture Show - Time Warp
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/The Rocky Horror Picture Show - Sweet Transvestite
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/The Rocky Horror Picture Show - Hot Patootie
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/The Damned Things - We've Got a Situation Here
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Tesla - Love Song
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Soundgarden - Spoonman
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Soundgarden - Outshined
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Soundgarden - My Wave
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Soundgarden - Hunted Down
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Soundgarden - Hands All Over
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Soundgarden - Fell on Black Days
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Soundgarden - Burden In My Hand
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Soundgarden - Blow Up The Outside World
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Soundgarden - Birth Ritual
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Snow Patrol - Hands Open
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Slash (With Iggy Pop) - We're All Gonna Die
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Saliva - Always
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Rush - Tom Sawyer
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Rush - Red Barchetta
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Queens of the Stone Age - Little Sister
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Poison - Talk Dirty To Me
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Nine Inch Nails - Head Like a Hole
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Nine Inch Nails - Closer
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/My Chemical Romance - Teenagers
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/My Chemical Romance - Na Na Na
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/My Chemical Romance - Helena
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/My Chemical Romance - Bulletproof Heart
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Muse - Supermassive Black Hole
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Muse - Resistance
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Middle Class Rut - New Low
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Matchbox Twenty - Real World
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Marilyn Manson - Tourniquet
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Marilyn Manson - Get Your Gunn
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Marilyn Manson - Coma White
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Madina Lake - Hey Superstar
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Linkin Park - Wretches And Kings
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Linkin Park - Waiting for the End
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Linkin Park - The Messenger
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Linkin Park - Burning In the Skies
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Linkin Park - Blackout
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Kiss - Rock and Roll All Nite
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Kiss - Detroit Rock City
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Kiss - Calling Dr. Love
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Jet - She's A Genius
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Goo Goo Dolls - Name
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Firewind - World On Fire
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Darkest Hour - Savor the Kill
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Darkest Hour - Doomsayer
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Darkest Hour - Beyond the Life You Know
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Children Of Bodom - Was It Worth It
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Children Of Bodom - Living Dead Beat
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Children Of Bodom - Blooddrunk
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Brand New - Sic Transit Gloria... Glory Fades
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Alice Cooper - Poison
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/Alice Cooper - Elected
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/A Day To Remember - The Downfall Of Us All
-/home/floozie/.clonehero/Songs/Guitar Hero Warriors of Rock DLC/A Day To Remember - 2nd Sucks
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Weezer - Dope Nose
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - You Really Got Me
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Unchained
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Somebody Get Me a Doctor
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - So This Is Love
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Runnin_ With the Devil
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Romeo Delight
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Panama
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Mean Street
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Loss of Control
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Jump
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Jamie_s Cryin_
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Intruder (Oh) Pretty Woman
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Ice Cream Man
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - I_m the One
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Hot for Teacher
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Hear About It Later
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Hang _Em High
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Feel Your Love Tonight
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Everybody Wants Some!!
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Dance the Night Away
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Beautiful Girls
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Atomic Punk
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - And the Cradle Will Rock
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Van Halen - Ain_t Talkin_ _Bout Love
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Third Eye Blind - Semi-Charmed Life
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/The Offspring - Pretty Fly (For a White Guy)
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/The Clash - Safe European Home
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Tenacious D - Master Exploder
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Queens of the Stone Age - Sick, Sick, Sick
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Queen - I Want It All
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Killswitch Engage - The End of Heartache
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Judas Priest - Painkiller
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Jimmy Eat World - Pain
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Fountains of Wayne - Stacy_s Mom
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Foo Fighters - Best of You
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Billy Idol - White Wedding (Part 1)
-/home/floozie/.clonehero/Songs/Guitar Hero Van Halen/Alter Bridge - Come to Life
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Yeah Yeah Yeahs - Dull Life
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Wolfmother - Pilgrim
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Wolfmother - Cosmic Egg
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Weezer - Pork and Beans
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Weezer - Island in the Sun
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Weezer - Beverly Hills
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Vampire Weekend - The Kids Don't Stand A Chance
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Vampire Weekend - Holiday
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Vampire Weekend - Cousins
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Tyler Bryant - Who I Am
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Third Eye Blind - Never Let You Go
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Third Eye Blind - Losing A Whole Year
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Third Eye Blind - Can You Take Me
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/The Used - The Taste Of Ink
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/The Used - The Bird and the Worm
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/The Used - Pretty Handsome Awkward
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/The Rolling Stones - You Gotta Move (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/The Rolling Stones - Under My Thumb (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/The Rolling Stones - Prodigal Son (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/The Rolling Stones - I'm Free (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/The Rolling Stones - (I Can't Get No) Satisfaction (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/The J. Geils Band - Freeze Frame
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/The Go-Go's - We Got The Beat
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/The Fall Of Troy - Panic Attack!
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Street Sweeper Social Club - Somewhere In The World It's Midnight
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Street Sweeper Social Club - Fight! Smash! Win!
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Street Sweeper Social Club - 100 Little Curses
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Stone Temple Pilots - Plush
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Stone Temple Pilots - Between The Lines
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Steve Miller Band - Take the Money and Run
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Spoon - Sister Jack
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Snow Patrol - You're All I Have
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Shinedown - Sound Of Madness
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Shinedown - Devour
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Shadow Falls - Still I Rise
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Queen - Somebody To Love
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Queen - Killer Queen
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Queen - Crazy Little Thing Called Love
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Phoenix - Lisztomania
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Phoenix - Everything Is Everything
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Phoenix - 1901
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Pavement - Cut Your Hair
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Papa Roach - Last Resort
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Orgy - Blue Monday
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/OneRepublic - Everybody Loves Me
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/OneRepublic - All The Right Moves
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Ok Go - Here It Goes Again
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Ok Go - Get Over It
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Ok Go - Do What You Want
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/No Doubt - New
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Night Ranger - Sister Christian
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Nancy Fullforce - RockNRola
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Mötley Crüe - Girls Girls Girls
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Megadeth - Symphony of Destruction
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Megadeth - Peace Sells
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Megadeth - Hangar 18
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Marilyn Manson - The Dope Show
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Marilyn Manson - The Beautiful People
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Lynyrd Skynyrd - Sweet Home Alabama (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Lynyrd Skynyrd - Simple Man
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Lynyrd Skynyrd - Gimme Three Steps
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Lynyrd Skynyrd - Free Bird
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Limp Bizkit - Nookie
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Lenny Kravitz - Let Love Rule
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Lenny Kravitz - Lady
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Lenny Kravitz - Fly Away
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Kiss - Modern Day Delilah
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Kiss - Lick It Up
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Kiss - I Was Made for Lovin' You
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Godsmack - I Stand Alone
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/GWAR - Gor-Gor
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Foreigner - Jukebox Hero
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Flogging Molly - The Seven Deadly Sins
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Flogging Molly - Requiem for a Dying Song
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Faith No More - Epic
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Dom Liberati - Love Holds it Down
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Disturbed - Stricken
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Disturbed - Indestructible
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Disturbed - Down With The Sickness
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Dethklok - Laser Cannon Deth Sentence
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Davidicus - You Really Like Me
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Creedence Clearwater Revival - Travelin' Band
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Capra - Low Day
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Bunny Knutson - Lemon Frosting
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Breaking Benjamin - Until The End
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Billy Squier - The Stroke
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Billy Squier - Everybody Wants You
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Avenged Sevenfold - Scream
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Avenged Sevenfold - Almost Easy
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Avenged Sevenfold - Afterlife
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Amon Amarth - Twilight of the Thunder God
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Alpha Rev - Face Down
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/All Time Low - Weightless
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/All Time Low - Dear Maria, Count Me In
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/All Time Low - Damned If I Do Ya (Damned If I Don't) (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Alice Cooper - Welcome to My Nightmare
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Alice Cooper - School's Out
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Aerosmith - Rag Doll
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Aerosmith - Love In An Elevator
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/Aerosmith - Livin' On The Edge
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/AFI - Beautiful Thieves
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/30 Seconds to Mars - Kings and Queens
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/30 Seconds to Mars - From Yesterday
-/home/floozie/.clonehero/Songs/Guitar Hero 5 DLC/30 Seconds to Mars - Attack
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Wolfmother - Back Round
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Wild Cherry - Play That Funky Music
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Weezer - Why Bother
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Vampire Weekend - A-Punk
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Tom Petty - Runnin' Down a Dream
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Tom Petty & The Heartbreakers - American Girl
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Thrice - Deadbolt
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Thin Lizzy - Jailbreak
-/home/floozie/.clonehero/Songs/Guitar Hero 5/The White Stripes - Blue Orchid
-/home/floozie/.clonehero/Songs/Guitar Hero 5/The Rolling Stones - Sympathy for the Devil
-/home/floozie/.clonehero/Songs/Guitar Hero 5/The Police - So Lonely
-/home/floozie/.clonehero/Songs/Guitar Hero 5/The Killers - All the Pretty Faces
-/home/floozie/.clonehero/Songs/Guitar Hero 5/The Bronx - Six Days a Week
-/home/floozie/.clonehero/Songs/Guitar Hero 5/T. Rex - 20th Century Boy
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Stevie Wonder - Superstition
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Rush - The Spirit of Radio (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Rose Hill Drive - Sneak Out
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Rammstein - Du Hast
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Queens of the Stone Age - Make It Wit Chu
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Public Enemy Featuring Zakk Wylde - Bring the Noise 20XX
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Peter Frampton - Do You Feel Like We Do (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero 5/No Doubt - Ex-Girlfriend
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Nirvana - Lithium (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Mötley Crüe - Looks That Kill
-/home/floozie/.clonehero/Songs/Guitar Hero 5/My Morning Jacket - One Big Holiday
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Megadeth - Sweating Bullets
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Love and Rockets - Mirror People
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Kings of Leon - Sex On Fire
-/home/floozie/.clonehero/Songs/Guitar Hero 5/King Crimson - 21st Century Schizoid Man
-/home/floozie/.clonehero/Songs/Guitar Hero 5/John Mellencamp - Hurts So Good
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Jimmy Eat World - Bleed American
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Iron Maiden - 2 Minutes to Midnight
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Iggy Pop - Lust for Life (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Grand Funk Railroad - We're An American Band
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Gov't Mule - Streamline Woman
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Gorillaz - Feel Good Inc
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Eagles of Death Metal - Wannabe In LA
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Duran Duran - Hungry Like the Wolf
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Dire Straits - Sultans of Swing
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Deep Purple - Woman From Tokyo ('99 Remix)
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Darkest Hour - Demon(s)
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Children of Bodom - Done With Everything, Die for Nothing
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Bush - Comedown
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Brand New - Sowing Season (Yeah)
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Blur - Song 2
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Billy Squier - Lonely Is the Night
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Billy Idol - Dancing With Myself
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Beastie Boys - Gratitude
-/home/floozie/.clonehero/Songs/Guitar Hero 5/Attack! Attack! - You and Me
-/home/floozie/.clonehero/Songs/Guitar Hero 5/AFI - Medicate
-/home/floozie/.clonehero/Songs/Guitar Hero 5/A Perfect Circle - Judith
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/ZZ Top - Sharp Dressed Man (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Twisted Sister - We're Not Gonna Take It
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Tom Petty & The Heartbreakers - Listen to Her Heart
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Third Eye Blind - Graduate
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Them Crooked Vultures - Scumbag Blues
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/The Vines - Get Free
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/The Runaways - Cherry Bomb
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/The Rolling Stones - Stray Cat Blues
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/The Ramones - Theme from Spiderman
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/The Offspring - Self Esteem
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/The Hives - Tick Tick Boom
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/The Dillinger Escape Plan - Setting Fire to Sleeping Giants
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/The Cure - Fascination Street
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Tesla - Modern Day Cowboy
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Styx - Renegade
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Strung Out - Calling
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Snot - Deadfall
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Slipknot - Psychosocial
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Slayer - Chemical Warfare
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Rush - 2112 Pt. 7 Grand Finale
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Rush - 2112 Pt. 3 Discovery
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Rise Against - Savior
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Rammstein - Waidmanns Heil
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/R.E.M. - Losing My Religion
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Queensryche - Jet City Woman
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Phoenix - Lasso
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Pantera - I'm Broken
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Orianthi - Suffocated
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Nine Inch Nails - Wish
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Nickelback - How You Remind Me
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/My Chemical Romance - I'm Not Okay (I Promise)
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Muse - Uprising
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Metallica & Ozzy Osbourne - Paranoid (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Megadeth - This Day We Fight!
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Megadeth - Holy Wars... The Punishment Due
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Lynyrd Skynyrd - Call Me the Breeze (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Linkin Park - Bleed It Out
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Jethro Tull - Aqualung
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Jane's Addiction - Been Caught Stealing
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/George Thorogood & The Destroyers - Move It On Over (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Foreigner - Feels Like the First Time
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Flyleaf - Again
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Five Finger Death Punch - Hard to See
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Fall Out Boy - Dance, Dance
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Drowning Pool - Bodies
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Dire Straits - Money for Nothing
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Dethklok - Bloodlines
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Def Leppard - Pour Some Sugar on Me (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Children Of Bodom - If You Want Peace... Prepare for War
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Buzzcocks - What Do I Get
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Bush - Machinehead
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Blind Melon - Tones of Home
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Band Of Skulls - I Know What I Am
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Bad Brains - Re-Ignition (Live)
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Avenged Sevenfold - Bat Country
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Atreyu - Ravenous
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Arch Enemy - Nemesis
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Anthrax - Indians
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Anberlin - The Feel Good Drag
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Alice Cooper - No More Mr. Nice Guy
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/Aerosmith - Cryin'
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/AFI - Dancing Through Sunday
-/home/floozie/.clonehero/Songs/Guitar Hero - Warriors of Rock/A Perfect Circle - The Outsider
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Wolfmother - Woman
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/White Zombie - Thunder Kiss '65
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Warrant - Cherry Pie
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Twisted Sister - I Wanna Rock
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/The Sword - Freya
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/The Reverend Horton Heat - Psychobilly Freakout
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/The Police - Message in a Bottle
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/The Exies - Hey You
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/The Donnas - Take It Off
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Stone Temple Pilots - Trippin' on a Hole in a Paper Heart
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Slayer - Raining Blood
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Ratt - Round and Round
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Rage Against the Machine - Killing in the Name
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Queens of the Stone Age - No One Knows
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Queen - Killer Queen
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Priestess - Lay Down
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Poison - Nothin' But a Good Time
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Pat Benetar - Hit Me With Your Best Shot
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Pantera - Cowboys From Hell
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Ozzy Osbourne - Bark at the Moon
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Motley Crue - Shout at the Devil
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Lynyrd Skynyrd - Free Bird
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Living Colour - Cult of Personality
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Lamb of God - Laid to Rest
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Kiss - Rock and Roll All Nite
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Kansas - Carry On Wayward Son
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/KISS - Rock and Roll All Nite ft Steve Ouimette
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Judas Priest - Electric Eye
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Joan Jett And The Blackhearts - I Love Rock and Roll
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Jane's Addiction - Stop!
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Incubus - Stellar
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Heart - Barracuda
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Franz Ferdinand - Take Me Out
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Foo Fighters - Monkey Wrench
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Extreme - Play With Me
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Deep Purple - Smoke on the Water
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Danzig - Mother
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Boston - More Than a Feeling
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Blue Oyster Cult - Godzilla
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Avenged Sevenfold - Beast and the Harlot
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Anthrax - Caught in a Mosh
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Alice in Chains - Them Bones
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/Aerosmith - Back in the Saddle
-/home/floozie/.clonehero/Songs/Guitar Hero - Smash Hits/AFI - Miss Murder
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica DLC/The Judas Kiss
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica DLC/The End of the Line
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica DLC/The Day That Never Comes
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica DLC/That Was Just Your Life
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica DLC/My Apocalypse
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica DLC/Cyanide
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Thin Lizzy - The Boys Are Back In Town
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Suicidal Tendencies - War Inside My Head
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Slayer - War Ensemble
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Samhain - Mother of Mercy
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Queen - Stone Cold Crazy
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Motörhead - Ace of Spades
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Michael Schenker Group - Armed and Ready
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Whiplash
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Wherever I May Roam
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Welcome Home (Sanitarium)
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - The Shortest Straw
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - The Memory Remains
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Seek and Destroy
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Sad But True
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Nothing Else Matters
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - No Leaf Clover
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Mercyful Fate
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Master of Puppets
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - King Nothing
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Hit the Lights
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Fuel
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Frantic
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Fight Fire with Fire
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Enter Sandman
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Disposable Heroes
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - Creeping Death
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Metallica - All Nightmare Long
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Mastodon - Blood and Thunder
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Machine Head - Beautiful Mourning
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Lynyrd Skynyrd - Tuesday's Gone
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Judas Priest - Hell Bent for Leather
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Foo Fighters - Stacked Actors
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Diamond Head - Am I Evil
-/home/floozie/.clonehero/Songs/Guitar Hero - Metallica/Corrosion of Conformity - Albatross
-/home/floozie/.clonehero/Songs/Band Hero/Village People - YMCA
-/home/floozie/.clonehero/Songs/Band Hero/Tonic - If You Could Only See
-/home/floozie/.clonehero/Songs/Band Hero/The Turtles - Happy Together
-/home/floozie/.clonehero/Songs/Band Hero/The Rolling Stones - Honky Tonk Women
-/home/floozie/.clonehero/Songs/Band Hero/The Mighty Mighty Bosstones - The Impression That I Get
-/home/floozie/.clonehero/Songs/Band Hero/The Kooks - Naive
-/home/floozie/.clonehero/Songs/Band Hero/The Airborne Toxic Event - Gasoline
-/home/floozie/.clonehero/Songs/Band Hero/Taylor Swift - You Belong With Me
-/home/floozie/.clonehero/Songs/Band Hero/Taylor Swift - Picture To Burn
-/home/floozie/.clonehero/Songs/Band Hero/Styx - Mr Roboto
-/home/floozie/.clonehero/Songs/Band Hero/Spice Girls - Wannabe
-/home/floozie/.clonehero/Songs/Band Hero/Roy Orbison - Oh Pretty Woman
-/home/floozie/.clonehero/Songs/Band Hero/Robbie Williams and Kylie Minogue - Kids
-/home/floozie/.clonehero/Songs/Band Hero/Poison - Every Rose Has Its Thorn
-/home/floozie/.clonehero/Songs/Band Hero/Pat Benatar - Love Is A Battlefield
-/home/floozie/.clonehero/Songs/Band Hero/Paracute - Back Again
-/home/floozie/.clonehero/Songs/Band Hero/No Doubt - Just A Girl
-/home/floozie/.clonehero/Songs/Band Hero/Nelly Furtado - Turn Off The Light
-/home/floozie/.clonehero/Songs/Band Hero/NERD - Rock Star
-/home/floozie/.clonehero/Songs/Band Hero/Katrina and the Waves - Walking On Sunshine
-/home/floozie/.clonehero/Songs/Band Hero/KT Tunstall - Black Horse and The Cherry Tree
-/home/floozie/.clonehero/Songs/Band Hero/Joan Jett - Bad Reputation
-/home/floozie/.clonehero/Songs/Band Hero/Janet Jackson - Black Cat
-/home/floozie/.clonehero/Songs/Band Hero/Jackson 5 - ABC
-/home/floozie/.clonehero/Songs/Band Hero/Hilary Duff - So Yesterday
-/home/floozie/.clonehero/Songs/Band Hero/Finger Eleven - Paralyzer
-/home/floozie/.clonehero/Songs/Band Hero/Evanescence - Bring Me To Life
-/home/floozie/.clonehero/Songs/Band Hero/Duran Duran - Rio
-/home/floozie/.clonehero/Songs/Band Hero/Devo - Whip It
-/home/floozie/.clonehero/Songs/Band Hero/David Bowie - Let's Dance
-/home/floozie/.clonehero/Songs/Band Hero/Dashboard Confessional - Hands Down
-/home/floozie/.clonehero/Songs/Band Hero/Counting Crows - Angels Of The Sliences
-/home/floozie/.clonehero/Songs/Band Hero/Cheap Trick - I Want You To Want Me (Live)
-/home/floozie/.clonehero/Songs/Band Hero/Carl Douglas - Kung Fu Fighting
-/home/floozie/.clonehero/Songs/Band Hero/Big Country - In A Big Country
-/home/floozie/.clonehero/Songs/Band Hero/Ben Harper and the Innocent Criminals - Steal My Kisses
-/home/floozie/.clonehero/Songs/Band Hero/Angels & Airwaves - The Adventure
-/home/floozie/.clonehero/Songs/Band Hero/Aly & AJ - Like Whoa
-/home/floozie/.clonehero/Songs/Band Hero/Alphabeat - Fascination
-/home/floozie/.clonehero/Songs/01_custom_drums/Less Than Jake - Soundtrack of My Life
-/home/floozie/.clonehero/Songs/01_custom_drums/Less Than Jake - Look What Happened (Borders _ Boundaries)
-/home/floozie/.clonehero/Songs/01_custom_drums/Led Zeppelin - The Song Remains the Same [GuitarZero132]
+c:\clone_hero\clone hero_data\streamingassets\songs\no known suspects.sng
+c:\clone_hero\clone hero_data\streamingassets\songs\troopers of the stars.sng
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - so lonely_f9c8a890
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - message in a bottle_4a52a632
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - demolition man (live)_69f85ffa
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\rage against the machine\rage against the machine - killing in the name_429918e8
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - stone cold crazy_986a546a
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - somebody to love_07d2d68f
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - killer queen_cb0fd635
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - killer queen_7c796c19
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - i want it all_3728e301
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - fat bottomed girls_685a8768
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - crazy little thing called love_75f48629
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - i'm broken_c2ed68e4
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - cowboys from hell_f204e36f
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - stay away_8b6b0d51
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - negative creep_caa60dd8
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - lithium (live)_bb6a7059
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - overkill_a24b77c5
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - love me like a reptile_d66fa5f5
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - jailbait_9269cc9e
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - ace of spades_08a071ed
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - whiplash_44a68adc
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - wherever i may roam_591ac966
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - welcome home (sanitarium)_652036a6
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - the shortest straw_a2fd0f78
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - the memory remains_c9758868
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - seek and destroy_56d96fc3
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - sad but true_d7e7b45c
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - nothing else matters_f4ab6e39
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - no leaf clover_315e06e1
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - mercyful fate_295d3b45
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - master of puppets_ef0ffa88
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - king nothing_55d17b2e
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - hit the lights_b20bdf95
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - fuel_7f8e9ad3
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - frantic_3a64152b
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - fight fire with fire_8981c6ec
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - enter sandman_79db90db
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - disposable heroes_3a7515d9
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - creeping death_1fe384bf
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - all nightmare long_18397b27
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica & ozzy osbourne - paranoid (live)_4d1b5820
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - this day we fight!_14a301f4
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - symphony of destruction_e37b9404
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - sweating bullets_2ad201d5
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - peace sells_b6b6d099
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - holy wars... the punishment due_08a0453a
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - hangar 18_31f6d301
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\led zepplin\led zeppelin - the song remains the same [guitarzero132]
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - painkiller_a2d0bded
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - hell bent for leather_60597cbc
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - electric eye_0e2dcc24
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - 2 minutes to midnight_a7445a29
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - woman from tokyo ('99 remix)_d3ee5bae
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - smoke on the water_9fe4f353
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - rag doll_23bfb891
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - love in an elevator_ffedd977
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - livin' on the edge_429e7ec5
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - cryin'_e5e1924b
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - back in the saddle_7bd14535
 
 ERROR: These folders either have no valid metadata file (song.ini), or the metadata does not include a valid song name!
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/SWiTCH & Evil-Dog - SWiTCH vs Evil-Dog Round 2/1x Bass Pedal
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/SWiTCH & Evil-Dog - SWiTCH vs Evil-Dog Round 1/1x Bass Pedal
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Metallica - Some Kind of Monster/1x Bass Pedal
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Metallica - Hate Train/1x Bass Pedal
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Metallica - Dirty Window/1x Bass Pedal
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Megadeth - Sweating Bullets/1x Bass Pedal
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Buckethead - Soothsayer/1x Bass Pedal
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\switch & evil-dog - switch vs evil-dog round 2\1x bass pedal
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\switch & evil-dog - switch vs evil-dog round 1\1x bass pedal
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - some kind of monster\1x bass pedal
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - hate train\1x bass pedal
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - dirty window\1x bass pedal
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\megadeth - sweating bullets\1x bass pedal
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\buckethead - soothsayer\1x bass pedal
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - some kind of monster_66b001f0\1x bass pedal
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - hate train_08fc3ace\1x bass pedal
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - dirty window_63d13642\1x bass pedal
+c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - sweating bullets_750791e9\1x bass pedal
 
 ERROR: These folders contain charts that another song has (duplicate charts)!
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Royal Blood - Space (Multitrack) (/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Royal Blood - Space)
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Metallica - Bleeding Me (Multitrack) (/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Metallica - Bleeding Me)
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Waiting on a War (multitrack) (/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Waiting on a War)
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Shame Shame (Multitrack) (/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Shame Shame)
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - No Son of Mine (Multitrack) (/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - No Son of Mine)
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Medicine at Midnight (Multitrack) (/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Medicine at Midnight)
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Making a Fire (Multitrack) (/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Making a Fire)
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Love Dies Young (Multitrack) (/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Love Dies Young)
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Holding Poison (Multitrack) (/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Holding Poison)
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Cloudspotter (Multitrack) (/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Cloudspotter)
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Chasing Birds (Multitrack) (/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Foo Fighters - Chasing Birds)
-/home/floozie/.clonehero/Songs/Guitar Hero II Late 06 Retail Demo/Nirvana - Heart-Shaped Box - 4 ch test (/home/floozie/.clonehero/Songs/Guitar Hero II Late 06 Retail Demo/Nirvana - Heart-Shaped Box)
-/home/floozie/.clonehero/Songs/Guitar Hero II Official PlayStation Magazine Demo/Kiss - Strutter (/home/floozie/.clonehero/Songs/Guitar Hero II Late 06 Retail Demo/Kiss - Strutter)
-/home/floozie/.clonehero/Songs/MB1Nightmare_s Customs/Brad Sucks - Gasoline (/home/floozie/.clonehero/Songs/01_custom_drums/Brad Sucks - Gasoline)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\royal blood - space (multitrack) (c:\clone_hero\playerdata\songs\mb1nightmare_s customs\royal blood - space)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - bleeding me (multitrack) (c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - bleeding me)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - waiting on a war (multitrack) (c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - waiting on a war)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - shame shame (multitrack) (c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - shame shame)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - no son of mine (multitrack) (c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - no son of mine)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - medicine at midnight (multitrack) (c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - medicine at midnight)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - making a fire (multitrack) (c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - making a fire)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - love dies young (multitrack) (c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - love dies young)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - holding poison (multitrack) (c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - holding poison)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - cloudspotter (multitrack) (c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - cloudspotter)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - chasing birds (multitrack) (c:\clone_hero\playerdata\songs\mb1nightmare_s customs\foo fighters - chasing birds)
+c:\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\nirvana - heart-shaped box - 4 ch test (c:\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\nirvana - heart-shaped box)
+c:\clone_hero\playerdata\songs\guitar hero ii official playstation magazine demo\kiss - strutter (c:\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\kiss - strutter)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\the police - walking on the moon (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - walking on the moon_3851db2b)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\the police - truth hits everybody (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - truth hits everybody_402c9cf2)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\the police - synchronicity ii (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - synchronicity_d59f02a8)
+c:\clone_hero\playerdata\songs\guitar hero encore rocks the 80s\the police - synchronicity ii (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - synchronicity_9e82c3f3)
+c:\clone_hero\playerdata\songs\guitar hero 5\the police - so lonely (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - so lonely_f9c8a890)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\the police - so lonely (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - so lonely_5c5ef212)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\the police - roxanne (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - roxanne_f2514cb1)
+c:\clone_hero\playerdata\songs\rock band 1\the police - next to you (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - next to you_9e779951)
+c:\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\the police - message in a bottle (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - message in a bottle_f559d281)
+c:\clone_hero\playerdata\songs\guitar hero ii\the police - message in a bottle (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - message in a bottle_56e45184)
+c:\clone_hero\playerdata\songs\guitar hero - smash hits\the police - message in a bottle (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - message in a bottle_4a52a632)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\the police - message in a bottle (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - message in a bottle_1fc2ede6)
+c:\clone_hero\playerdata\songs\lego rock band\the police - every little thing she does is magic (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - every little thing she does is magic_edf4a824)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\the police - every breath you take (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - every breath you take_3577ec0a)
+c:\clone_hero\playerdata\songs\rock band 3\the police - don't stand so close to me (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - don't stand so close to me_c58e31cc)
+c:\clone_hero\playerdata\songs\guitar hero world tour\the police - demolition man (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - demolition man (live)_69f85ffa)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\the police - can't stand losing you (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\the police\the police - can't stand losing you_1630fa8b)
+c:\clone_hero\playerdata\songs\rock band 2\rage against the machine - testify (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\rage against the machine\rage against the machine - testify_aff6aae4)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\rage against the machine - sleep now in the fire (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\rage against the machine\rage against the machine - sleep now in the fire_f3601fb4)
+c:\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\rage against the machine - killing in the name (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\rage against the machine\rage against the machine - killing in the name_df6c0614)
+c:\clone_hero\playerdata\songs\guitar hero ii\rage against the machine - killing in the name (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\rage against the machine\rage against the machine - killing in the name_8cbcfe77)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\rage against the machine - killing in the name (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\rage against the machine\rage against the machine - killing in the name_53b1ca4e)
+c:\clone_hero\playerdata\songs\guitar hero - smash hits\rage against the machine - killing in the name (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\rage against the machine\rage against the machine - killing in the name_429918e8)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\rage against the machine - guerrilla radio (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\rage against the machine\rage against the machine - guerrilla radio_da6dacb5)
+c:\clone_hero\playerdata\songs\guitar hero iii\rage against the machine - bulls on parade (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\rage against the machine\rage against the machine - bulls on parade_aa69fd35)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\rage against the machine - bulls on parade (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\rage against the machine\rage against the machine - bulls on parade_8638f01c)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\rage against the machine - bombtrack (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\rage against the machine\rage against the machine - bombtrack_8ed1f77e)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - you're my best friend (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - you're my best friend_9026f197)
+c:\clone_hero\playerdata\songs\lego rock band\queen - we will rock you (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - we will rock you_2dd9d54e)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - we will rock you (rb3 version) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - we will rock you (rb3 version)_e242a14a)
+c:\clone_hero\playerdata\songs\guitar hero on tour - decades\queen - we are the champions (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - we are the champions_cc5a70c6)
+c:\clone_hero\playerdata\songs\guitar hero world tour dlc\queen - we are the champions (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - we are the champions_9491a720)
+c:\clone_hero\playerdata\songs\lego rock band\queen - we are the champions (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - we are the champions_0193ee92)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - we are the champions (rb3 version) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - we are the champions (rb3 version)_1615075c)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\queen - under pressure (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - under pressure_96e14c37)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - under pressure (rb3 version) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - under pressure (rb3 version)_395e4fa6)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\queen - tie your mother down (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - tie your mother down_9213a22f)
+c:\clone_hero\playerdata\songs\guitar hero live\queen - tie your mother down (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - tie your mother down_61ccf469)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - the show must go on (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - the show must go on_a0100bd3)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - tenement funster (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - tenement funster_2ab77b7f)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\queen - stone cold crazy (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - stone cold crazy_986a546a)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - stone cold crazy (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - stone cold crazy_8ac91f58)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\queen - somebody to love (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - somebody to love_1a74d13b)
+c:\clone_hero\playerdata\songs\guitar hero 5 dlc\queen - somebody to love (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - somebody to love_07d2d68f)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - somebody to love (rb3 version) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - somebody to love (rb3 version)_b533a0ef)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - seven seas of rhye (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - seven seas of rhye_a4c391b2)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - radio ga ga (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - radio ga ga_7f1df75f)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - play the game (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - play the game_e318167d)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\queen - one vision (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - one vision_c28330f6)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - one vision (rb3 version) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - one vision (rb3 version)_02a934a3)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - now i'm here (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - now i'm here_2bff8a21)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - long away (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - long away_edde675b)
+c:\clone_hero\playerdata\songs\guitar hero - smash hits\queen - killer queen (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - killer queen_cb0fd635)
+c:\clone_hero\playerdata\songs\guitar hero 5 dlc\queen - killer queen (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - killer queen_7c796c19)
+c:\clone_hero\playerdata\songs\guitar hero\queen - killer queen (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - killer queen_6d8943cc)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\queen - killer queen (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - killer queen_5271bc2e)
+c:\clone_hero\playerdata\songs\guitar hero ii dlc\queen - killer queen (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - killer queen_14032ac7)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - killer queen (rb3 version) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - killer queen (rb3 version)_f6a4951a)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - keep yourself alive (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - keep yourself alive_c26542dc)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - i'm in love with my car (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - i'm in love with my car_44577d76)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\queen - i want to break free (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - i want to break free_ee8501da)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - i want to break free (rb3 version) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - i want to break free (rb3 version)_148c7792)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\queen - i want it all (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - i want it all_5f7ed296)
+c:\clone_hero\playerdata\songs\guitar hero van halen\queen - i want it all (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - i want it all_3728e301)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - i want it all (rb3 version) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - i want it all (rb3 version)_78f7d629)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - hammer to fall (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - hammer to fall_93d8487a)
+c:\clone_hero\playerdata\songs\guitar hero world tour dlc\queen - fat bottomed girls (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - fat bottomed girls_685a8768)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\queen - fat bottomed girls (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - fat bottomed girls_27418103)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - don't stop me now (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - don't stop me now_7f2af058)
+c:\clone_hero\playerdata\songs\rock band blitz\queen - death on two legs (dedicated to...) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - death on two legs (dedicated to...)_6eb05ffe)
+c:\clone_hero\playerdata\songs\guitar hero 5 dlc\queen - crazy little thing called love (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - crazy little thing called love_75f48629)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\queen - crazy little thing called love (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - crazy little thing called love_53eefae5)
+c:\clone_hero\playerdata\songs\guitar hero - warriors of rock\queen - bohemian rhapsody (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - bohemian rhapsody_fc7db0f2)
+c:\clone_hero\playerdata\songs\rock band 3\queen - bohemian rhapsody (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - bohemian rhapsody_76d48fbd)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\queen - bicycle race (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - bicycle race_925f2da0)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\queen - another one bites the dust (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\queen\queen - another one bites the dust_bc6952cf)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\pantera - war nerve (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - war nerve (2x bass pedal expert+)_2e7e248a)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\pantera - walk (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - walk (2x bass pedal expert+)_f2233bc7)
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - this love (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - this love (miscellany)_2f1e4467)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\pantera - the underground in america (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - the underground in america (2x bass pedal expert+)_28157623)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\pantera - the great southern trendkill (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - the great southern trendkill (2x bass pedal expert+)_d0bf5d1c)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\pantera - suicide note pt. ii (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - suicide note pt. ii (2x bass pedal expert+)_9c940b46)
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - mouth for war (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - mouth for war_6ec23142)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\pantera - mouth for war (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - mouth for war (2x bass pedal expert+)_6e510026)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\pantera - living through me (hell's wrath) (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - living through me (hell's wrath) (2x bass pedal expert+)_27775bb2)
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 15  live at dynamo open air 1998 [full album] (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 15  live at dynamo open air 1998 [full album] (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 14  cowboys from hell (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 14  cowboys from hell (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 13  mouth for war (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 13  mouth for war (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 12  domination, hollow (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 12  domination, hollow (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 11  this love (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 11  this love (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 10  fucking hostile (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 10  fucking hostile (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 09  i'm broken (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 09  i'm broken (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 08  primal concrete sledge (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 08  primal concrete sledge (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 07  hard lines sunken cheeks (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 07  hard lines sunken cheeks (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 06  sandblasted skin (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 06  sandblasted skin (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 05  becoming (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 05  becoming (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 04  war nerve (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 04  war nerve (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 03  suicide note pt. ii (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 03  suicide note pt. ii (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 02  a new level (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 02  a new level (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 01  walk (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - live at dynamo open air 1998 (full album) (miscellany)_e0853b72\pantera - 01  walk (live) (miscellany))
+c:\clone_hero\playerdata\songs\guitar hero - warriors of rock\pantera - i'm broken (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - i'm broken_c2ed68e4)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\pantera - i'm broken (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - i'm broken (2x bass pedal expert+)_94207c71)
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - hard ride [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - hard ride [miscellany]_688730a0)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\pantera - floods (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - floods (2x bass pedal expert+)_fbb18913)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\pantera - drag the waters (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - drag the waters_bae7cce3)
+c:\clone_hero\playerdata\songs\guitar hero - smash hits\pantera - cowboys from hell (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - cowboys from hell_f204e36f)
+c:\clone_hero\playerdata\songs\guitar hero\pantera - cowboys from hell (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - cowboys from hell_c3851d81)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\pantera - 5 minutes alone (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 5 minutes alone (2x bass pedal expert+)_8b7ca59f)
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 15  live at dynamo open air 1998 [full album] (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 15  live at dynamo open air 1998 [full album] (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 14  cowboys from hell (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 14  cowboys from hell (live) (miscellany))
+c:\clone_hero\playerdata\songs\rock band 2 dlc\pantera - 13 steps to nowhere (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 13 steps to nowhere (2x bass pedal expert+)_95e4dc9d)
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 13  mouth for war (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 13  mouth for war (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 12  domination, hollow (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 12  domination, hollow (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 11  this love (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 11  this love (live) (miscellany))
+c:\clone_hero\playerdata\songs\rock band 2 dlc\pantera - 10's (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 10's (2x bass pedal expert+)_e956b161)
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 10  fucking hostile (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 10  fucking hostile (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 09  i'm broken (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 09  i'm broken (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 08  primal concrete sledge (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 08  primal concrete sledge (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 07  hard lines sunken cheeks (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 07  hard lines sunken cheeks (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 06  sandblasted skin (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 06  sandblasted skin (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 05  becoming (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 05  becoming (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 04  war nerve (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 04  war nerve (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 03  suicide note pt. ii (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 03  suicide note pt. ii (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 02  a new level (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 02  a new level (live) (miscellany))
+c:\clone_hero\playerdata\songs\csc monthly selection\pantera - live at dynamo open air 1998 (full album) (miscellany)\pantera - 01  walk (live) (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - 01  walk (live) (miscellany))
+c:\clone_hero\playerdata\songs\rock band 2 dlc\pantera - (reprise) sandblasted skin (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\pantera\pantera - (reprise) sandblasted skin (2x bass pedal expert+)_df2351db)
+c:\clone_hero\playerdata\songs\guitar hero world tour dlc\nirvana - you know you're right (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - you know you're right_c04f29ce)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\nirvana - you know you're right (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - you know you're right_0c5851ab)
+c:\clone_hero\playerdata\songs\guitar hero world tour dlc\nirvana - very ape (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - very ape_ac833553)
+c:\clone_hero\playerdata\songs\02_custom_charts\nirvana\nirvana - the man who sold the world (live from mtv unplugged) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - the man who sold the world (live from mtv unplugged))
+c:\clone_hero\playerdata\songs\rock band 2 dlc\nirvana - territorial pissings (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - territorial pissings_e3706d83)
+c:\clone_hero\playerdata\songs\guitar hero world tour dlc\nirvana - stay away (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - stay away_8b6b0d51)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\nirvana - stay away (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - stay away_5af12f0b)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\nirvana - something in the way (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - something in the way_2d9026f6)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\nirvana - smells like teen spirit (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - smells like teen spirit_db8888b8)
+c:\clone_hero\playerdata\songs\guitar hero 5\nirvana - smells like teen spirit (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - smells like teen spirit_6155534e)
+c:\clone_hero\playerdata\songs\guitar hero world tour dlc\nirvana - sliver (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - sliver_1820bfeb)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\nirvana - school (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - school (2x bass pedal expert+)_00d7dc23)
+c:\clone_hero\playerdata\songs\guitar hero world tour dlc\nirvana - sappy (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - sappy_464fef86)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\nirvana - rape me (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - rape me_9d934045)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\nirvana - polly (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - polly_2ba646ea)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\nirvana - on a plain (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - on a plain_a4511d4d)
+c:\clone_hero\playerdata\songs\guitar hero world tour dlc\nirvana - negative creep (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - negative creep_caa60dd8)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\nirvana - lounge act (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - lounge act_6b9b12ba)
+c:\clone_hero\playerdata\songs\guitar hero 5\nirvana - lithium (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - lithium (live)_bb6a7059)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\nirvana - lithium (live at reading) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - lithium (live at reading)_547721a5)
+c:\clone_hero\playerdata\songs\rock band 1\nirvana - in bloom (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - in bloom_6e613edc)
+c:\clone_hero\playerdata\songs\guitar hero ii\nirvana - heart-shaped box (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - heart-shaped box_e5a9e780)
+c:\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\nirvana - heart-shaped box - 4 ch test (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - heart-shaped box_cfa53184)
+c:\clone_hero\playerdata\songs\guitar hero - smash hits\nirvana - heart-shaped box (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - heart-shaped box_a8ae425e)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\nirvana - heart-shaped box (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - heart-shaped box_a7c91012)
+c:\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\nirvana - heart-shaped box - 4 ch test (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - heart-shaped box - 4 ch test_770e662e)
+c:\clone_hero\playerdata\songs\rock band 2\nirvana - drain you (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - drain you_5e6ee88a)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\nirvana - come as you are (live from mtv unplugged) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - come as you are (live from mtv unplugged)_13e04c66)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\nirvana - breed (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - breed_c8322c3b)
+c:\clone_hero\playerdata\songs\guitar hero on tour\nirvana - breed (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - breed_06e81419)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\nirvana - blew (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - blew_4c7b0202)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\nirvana - all apologies (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - all apologies_041de908)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\nirvana - about a girl (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - about a girl_09dd6106)
+c:\clone_hero\playerdata\songs\guitar hero world tour\nirvana - about a girl (unplugged) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\nirvana - about a girl (unplugged)_8c1e9989)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\juliana hatfield - nirvana (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\nirvana\juliana hatfield - nirvana_b8898c51)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\motörhead - stay clean (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - stay clean_15a12423)
+c:\clone_hero\playerdata\songs\guitar hero world tour\motörhead - overkill (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - overkill_a24b77c5)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\motörhead - motörhead (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - motörhead_f0dd2181)
+c:\clone_hero\playerdata\songs\guitar hero world tour dlc\motörhead - love me like a reptile (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - love me like a reptile_d66fa5f5)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\motörhead - killed by death '08 (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - killed by death '08_697d6187)
+c:\clone_hero\playerdata\songs\guitar hero world tour dlc\motörhead - jailbait (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - jailbait_9269cc9e)
+c:\clone_hero\playerdata\songs\guitar hero world tour dlc\motörhead - iron fist (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - iron fist_fd904958)
+c:\clone_hero\playerdata\songs\guitar hero ii dlc\motörhead - ace of spades (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - ace of spades_7e91d10b)
+c:\clone_hero\playerdata\songs\guitar hero\motörhead - ace of spades (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - ace of spades_47433662)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\motörhead - ace of spades (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - ace of spades_08a071ed)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\motörhead - (we are) the road crew (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - (we are) the road crew_6fcdda87)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\motörhead - (we are) the road crew '08 (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motörhead - (we are) the road crew '08_fd4af573)
+c:\clone_hero\playerdata\songs\rock band 2\motorhead - ace of spades '08 (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\motörhead\motorhead - ace of spades '08_f313576d)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - you must burn! (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - you must burn!_55a91d4b)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - whiplash (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - whiplash_44a68adc)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - wherever i may roam (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - wherever i may roam_591ac966)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - welcome home (sanitarium) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - welcome home (sanitarium)_652036a6)
+c:\clone_hero\playerdata\songs\guitar hero world tour\metallica - trapped under ice (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - trapped under ice_46f7fef1)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - too far gone (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - too far gone_6f74248b)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\metallica - the unforgiven iii (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - the unforgiven_ad72a516)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - the unforgiven ii (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - the unforgiven_2de79929)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - the unforgiven (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - the unforgiven_012d347e)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - the thing that should not be (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - the thing that should not be_aa8a2935)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - the shortest straw (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - the shortest straw_a2fd0f78)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - the outlaw torn (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - the outlaw torn_782fb200)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - the memory remains (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - the memory remains_c9758868)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\metallica - the judas kiss (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - the judas kiss_2ca72b85)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\metallica - the end of the line (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - the end of the line_ec37c57b)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\metallica - the day that never comes (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - the day that never comes_31334dab)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\metallica - that was just your life (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - that was just your life_e3ccd232)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\metallica - suicide _ redemption k.h (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - suicide _ redemption k.h_72c7e06d)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\metallica - suicide _ redemption j.h (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - suicide _ redemption j.h_c97b4120)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - spit out the bone (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - spit out the bone_da0e3679)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - sleepwalk my life away (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - sleepwalk my life away_cbc330e5)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - shadows follow (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - shadows follow_c714f0a3)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - seek and destroy (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - seek and destroy_56d96fc3)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - screaming suicide (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - screaming suicide_87e5b0b0)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - sad but true (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - sad but true_d7e7b45c)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - room of mirrors (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - room of mirrors_6ac09ce9)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\metallica - ride the lightning (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - ride the lightning (2x bass pedal expert+)_119bb9a8)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - orion (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - orion_54da5674)
+c:\clone_hero\playerdata\songs\guitar hero iii\metallica - one (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - one_602a4e08)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - one (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - one_3166085b)
+c:\clone_hero\playerdata\songs\guitar hero iii\metallica - one (co-op) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - one (co-op)_2b0ad65f)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - now that we're dead (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - now that we're dead_f6475b26)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - nothing else matters (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - nothing else matters_f4ab6e39)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - no leaf clover (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - no leaf clover_315e06e1)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\metallica - my apocalypse (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - my apocalypse_69867a65)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - murder one (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - murder one_40b4fe60)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - moth into flame (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - moth into flame_04ee95a9)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - mercyful fate (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - mercyful fate_295d3b45)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - master of puppets (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - master of puppets_ef0ffa88)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - manunkind (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - manunkind_e077b784)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - lux aeterna (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - lux aeterna_805d242c)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - lords of summer (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - lords of summer_f93f8e46)
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\24. metallica - live shit binge purge (seattle 89) (fa) [misc] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\24. metallica - live shit binge purge (seattle 89) (fa) [misc])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\23. metallica - live big_ rock _ ending [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\23. metallica - live big_ rock _ ending [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\22. metallica - live shit_ solo _ medley [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\22. metallica - live shit_ solo _ medley [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\21. metallica - breadfan (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\21. metallica - breadfan (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\20. metallica - whiplash (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\20. metallica - whiplash (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\19. metallica - am i evil (diamond head cover) (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\19. metallica - am i evil (diamond head cover) (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\18. metallica - last caress (misfits cover) (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\18. metallica - last caress (misfits cover) (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\17. metallica - the frayed ends of sanity (jam) (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\17. metallica - the frayed ends of sanity (jam) (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\16. metallica - battery (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\16. metallica - battery (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\15. metallica - guitar solo (live) [miscellany _ spachi] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\15. metallica - guitar solo (live) [miscellany _ spachi])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\14. metallica - creeping death (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\14. metallica - creeping death (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\13. metallica - one (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\13. metallica - one (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\12. metallica - ...and justice for all (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\12. metallica - ...and justice for all (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\11. metallica - seek _ destroy (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\11. metallica - seek _ destroy (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\10. metallica - fade to black (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\10. metallica - fade to black (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\09. metallica - master of puppets (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\09. metallica - master of puppets (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\08. metallica - bass solo (live) [miscellany _ spachi] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\08. metallica - bass solo (live) [miscellany _ spachi])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\07. metallica - the thing that should not be (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\07. metallica - the thing that should not be (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\06. metallica - the four horsemen (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\06. metallica - the four horsemen (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\05. metallica - harvester of sorrow (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\05. metallica - harvester of sorrow (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\04. metallica - welcome home (sanitarium (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\04. metallica - welcome home (sanitarium (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\03. metallica - for whom the bell tolls (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\03. metallica - for whom the bell tolls (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\02. metallica - blackened (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\02. metallica - blackened (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\01. ennio morricone - the ecstasy of gold (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - live shit binge purge (seattle 89) (fa) [misc]_f3f523c1\01. ennio morricone - the ecstasy of gold (live) [miscellany])
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - king nothing (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - king nothing_55d17b2e)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - inamorata (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - inamorata_b82ebb2b)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - if darkness had a son (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - if darkness had a son_8f905315)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - hit the lights (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - hit the lights_b20bdf95)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - here comes revenge (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - here comes revenge_722e45d1)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - hardwired (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - hardwired_8c8acd1b)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - halo on fire (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - halo on fire_00a85ef4)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - fuel (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - fuel_7f8e9ad3)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - frantic (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - frantic_3a64152b)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - for whom the bell tolls (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - for whom the bell tolls_e3df8144)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - fight fire with fire (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - fight fire with fire_8981c6ec)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - fade to black (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - fade to black_391aa81e)
+c:\clone_hero\playerdata\songs\rock band 1\metallica - enter sandman (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - enter sandman_8f9b36af)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - enter sandman (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - enter sandman_79db90db)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - dyer's eve (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - dyer's eve_81ef75e4)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - dream no more (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - dream no more_b708531b)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - disposable heroes (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - disposable heroes_3a7515d9)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\metallica - cyanide (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - cyanide_ef4a3824)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - crown of barbed wire (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - crown of barbed wire_c823d666)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - creeping death (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - creeping death_1fe384bf)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - confusion (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - confusion_514a1f07)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - chasing light (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - chasing light_4034ca00)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\metallica - broken, beat _ scarred (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - broken, beat _ scarred_4986c3ed)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - bleeding me (multitrack) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - bleeding me_7558c1eb)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - bleeding me (multitrack) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - bleeding me (multitrack)_d38327bb)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\metallica - blackened (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - blackened (2x bass pedal expert+)_a354fcc1)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - battery (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - battery_8055f683)
+c:\clone_hero\playerdata\songs\rock band 2\metallica - battery (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - battery (2x bass pedal expert+)_6c1db790)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - atlas, rise! (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - atlas, rise!_8d7bf25f)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - am i savage (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - am i savage_73589f58)
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - am i evil (diamond head cover) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - am i evil (diamond head cover)_3e124469)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\metallica - all nightmare long (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - all nightmare long_18397b27)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\metallica - all nightmare long (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - all nightmare long_02e89735)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica - 72 seasons (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - 72 seasons_c85293b4)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\metallica - ...and justice for all (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica - ...and justice for all (2x bass pedal expert+)_3c391876)
+c:\clone_hero\playerdata\songs\mb1nightmare_s customs\metallica & ozzy osbourne - paranoid (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica & ozzy osbourne - paranoid (live)_b0401060)
+c:\clone_hero\playerdata\songs\guitar hero - warriors of rock\metallica & ozzy osbourne - paranoid (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\metallica & ozzy osbourne - paranoid (live)_4d1b5820)
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\24. metallica - live shit binge purge (seattle 89) (fa) [misc] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\24. metallica - live shit binge purge (seattle 89) (fa) [misc])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\23. metallica - live big_ rock _ ending [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\23. metallica - live big_ rock _ ending [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\22. metallica - live shit_ solo _ medley [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\22. metallica - live shit_ solo _ medley [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\21. metallica - breadfan (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\21. metallica - breadfan (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\20. metallica - whiplash (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\20. metallica - whiplash (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\19. metallica - am i evil (diamond head cover) (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\19. metallica - am i evil (diamond head cover) (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\18. metallica - last caress (misfits cover) (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\18. metallica - last caress (misfits cover) (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\17. metallica - the frayed ends of sanity (jam) (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\17. metallica - the frayed ends of sanity (jam) (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\16. metallica - battery (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\16. metallica - battery (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\15. metallica - guitar solo (live) [miscellany _ spachi] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\15. metallica - guitar solo (live) [miscellany _ spachi])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\14. metallica - creeping death (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\14. metallica - creeping death (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\13. metallica - one (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\13. metallica - one (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\12. metallica - ...and justice for all (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\12. metallica - ...and justice for all (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\11. metallica - seek _ destroy (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\11. metallica - seek _ destroy (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\10. metallica - fade to black (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\10. metallica - fade to black (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\09. metallica - master of puppets (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\09. metallica - master of puppets (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\08. metallica - bass solo (live) [miscellany _ spachi] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\08. metallica - bass solo (live) [miscellany _ spachi])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\07. metallica - the thing that should not be (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\07. metallica - the thing that should not be (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\06. metallica - the four horsemen (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\06. metallica - the four horsemen (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\05. metallica - harvester of sorrow (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\05. metallica - harvester of sorrow (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\04. metallica - welcome home (sanitarium (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\04. metallica - welcome home (sanitarium (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\03. metallica - for whom the bell tolls (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\03. metallica - for whom the bell tolls (live) [miscellany])
+c:\clone_hero\playerdata\songs\csc monthly selection\metallica - live shit binge purge (seattle 89) (fa) [misc]\02. metallica - blackened (live) [miscellany] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\metallica\02. metallica - blackened (live) [miscellany])
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - wake up dead (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - wake up dead (2x bass pedal expert+)_968b2e09)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - tornado of souls (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - tornado of souls (2x bass pedal expert+)_2930e844)
+c:\clone_hero\playerdata\songs\guitar hero - warriors of rock\megadeth - this day we fight! (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - this day we fight!_14a301f4)
+c:\clone_hero\playerdata\songs\02_custom_charts\megadeth\megadeth - the skull beneath the skin (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - the skull beneath the skin)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - the conjuring (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - the conjuring (2x bass pedal expert+)_d4c2c894)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - take no prisoners (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - take no prisoners (2x bass pedal expert+)_5f476471)
+c:\clone_hero\playerdata\songs\guitar hero 5 dlc\megadeth - symphony of destruction (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - symphony of destruction_e37b9404)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\megadeth - symphony of destruction (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - symphony of destruction_07e5ec5e)
+c:\clone_hero\playerdata\songs\guitar hero\megadeth - symphony of destruction (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - symphony of destruction_0660f79d)
+c:\clone_hero\playerdata\songs\guitar hero 5\megadeth - sweating bullets (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - sweating bullets_2ad201d5)
+c:\clone_hero\playerdata\songs\guitar hero - warriors of rock\megadeth - sudden death (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - sudden death_d7afcfa4)
+c:\clone_hero\playerdata\songs\guitar hero - warriors of rock\megadeth - sudden death (career version) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - sudden death (career version)_771725f3)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\megadeth - sleepwalker (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - sleepwalker (2x bass pedal expert+)_65e1a00d)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - rust in peace... polaris (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - rust in peace... polaris (2x bass pedal expert+)_9d77d023)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - poison was the cure (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - poison was the cure (2x bass pedal expert+)_2192c58b)
+c:\clone_hero\playerdata\songs\guitar hero 5 dlc\megadeth - peace sells (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - peace sells_b6b6d099)
+c:\clone_hero\playerdata\songs\rock band 2\megadeth - peace sells (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - peace sells (2x bass pedal expert+)_b15f5896)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - my last words (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - my last words (2x bass pedal expert+)_d15b66c0)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - lucretia (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - lucretia (2x bass pedal expert+)_c739f1ce)
+c:\clone_hero\playerdata\songs\02_custom_charts\megadeth\megadeth - looking down the cross (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - looking down the cross)
+c:\clone_hero\playerdata\songs\csc monthly selection\megadeth - killing is my business... and business is good! (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - killing is my business... and business is good! (miscellany)_9782361d)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - i ain't superstitious (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - i ain't superstitious (2x bass pedal expert+)_6cadaacd)
+c:\clone_hero\playerdata\songs\guitar hero - warriors of rock\megadeth - holy wars... the punishment due (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - holy wars... the punishment due_08a0453a)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - holy wars... the punishment due (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - holy wars... the punishment due (2x bass pedal expert+)_0b779e0d)
+c:\clone_hero\playerdata\songs\guitar hero ii\megadeth - hangar 18 (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - hangar 18_64f47f2f)
+c:\clone_hero\playerdata\songs\guitar hero 5 dlc\megadeth - hangar 18 (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - hangar 18_31f6d301)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - hangar 18 (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - hangar 18 (2x bass pedal expert+)_da9c519f)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - good mourning black friday (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - good mourning black friday (2x bass pedal expert+)_6c900ba4)
+c:\clone_hero\playerdata\songs\02_custom_charts\megadeth\megadeth - go to hell (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - go to hell)
+c:\clone_hero\playerdata\songs\02_custom_charts\megadeth\megadeth - gears of war (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - gears of war)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - five magics (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - five magics (2x bass pedal expert+)_df2b469d)
+c:\clone_hero\playerdata\songs\02_custom_charts\megadeth\megadeth - die dead enough (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - die dead enough)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - devil's island (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - devil's island (2x bass pedal expert+)_b5f8d253)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - dawn patrol (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - dawn patrol_e430aad2)
+c:\clone_hero\playerdata\songs\02_custom_charts\megadeth\megadeth - breakpoint (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - breakpoint)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\megadeth - bad omen (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - bad omen (2x bass pedal expert+)_4afdf1a5)
+c:\clone_hero\playerdata\songs\csc monthly selection\megadeth - 1,320' (torqqes) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth - 1,320' (torqqes)_2de41345)
+c:\clone_hero\playerdata\songs\02_custom_charts\megadeth\megadeth - the skull beneath the skin (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth\megadeth - the skull beneath the skin)
+c:\clone_hero\playerdata\songs\02_custom_charts\megadeth\megadeth - looking down the cross (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth\megadeth - looking down the cross)
+c:\clone_hero\playerdata\songs\02_custom_charts\megadeth\megadeth - go to hell (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth\megadeth - go to hell)
+c:\clone_hero\playerdata\songs\02_custom_charts\megadeth\megadeth - gears of war (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth\megadeth - gears of war)
+c:\clone_hero\playerdata\songs\02_custom_charts\megadeth\megadeth - die dead enough (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth\megadeth - die dead enough)
+c:\clone_hero\playerdata\songs\02_custom_charts\megadeth\megadeth - breakpoint (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\megadeth\megadeth\megadeth - breakpoint)
+c:\clone_hero\playerdata\songs\guitar hero 5 hidden songs\led zeppelin - black dog (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\led zepplin\led zeppelin - black dog (live))
+c:\clone_hero\playerdata\songs\rock band 1 dlc\judas priest - you've got another thing comin' (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - you've got another thing comin'_d1cb2212)
+c:\clone_hero\playerdata\songs\guitar hero ii dlc\judas priest - you've got another thing comin' (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - you've got another thing comin'_b8980cd7)
+c:\clone_hero\playerdata\songs\guitar hero\judas priest - you've got another thing comin' (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - you've got another thing comin'_5d489103)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - you don't have to be old to be wise (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - you don't have to be old to be wise (live)_c9b5c780)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - united (live) (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - united (live) (2x bass pedal expert+)_dab39387)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - the rage (live) (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - the rage (live) (2x bass pedal expert+)_05c3e649)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\judas priest - the hellion-electric eye (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - the hellion-electric eye_3e836fdc)
+c:\clone_hero\playerdata\songs\guitar hero encore rocks the 80s\judas priest - the hellion & electric eye (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - the hellion & electric eye_8bd6fa91)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - steeler (live) (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - steeler (live) (2x bass pedal expert+)_f37aad90)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\judas priest - screaming for vengeance (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - screaming for vengeance_48afd091)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\judas priest - riding on the wind (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - riding on the wind_21ee8471)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - rapid fire (live) (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - rapid fire (live) (2x bass pedal expert+)_7a355a80)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - prophecy (live) (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - prophecy (live) (2x bass pedal expert+)_e535adee)
+c:\clone_hero\playerdata\songs\guitar hero van halen\judas priest - painkiller (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - painkiller_a2d0bded)
+c:\clone_hero\playerdata\songs\rock band 2\judas priest - painkiller (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - painkiller (2x bass pedal expert+)_efa936f3)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\judas priest - pain and pleasure (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - pain and pleasure_748873c7)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - metal gods (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - metal gods (live)_eba55873)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - living after midnight (live) (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - living after midnight (live) (2x bass pedal expert+)_f74d6299)
+c:\clone_hero\playerdata\songs\guitar hero - metallica\judas priest - hell bent for leather (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - hell bent for leather_60597cbc)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - grinder (live) (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - grinder (live) (2x bass pedal expert+)_86d0ef17)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\judas priest - fever (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - fever_ba996408)
+c:\clone_hero\playerdata\songs\guitar hero - smash hits\judas priest - electric eye (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - electric eye_0e2dcc24)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - eat me alive (live) (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - eat me alive (live) (2x bass pedal expert+)_47672656)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - dissident aggressor (live) (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - dissident aggressor (live) (2x bass pedal expert+)_cf46b941)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\judas priest - devil's child (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - devil's child_8dd5ac24)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\judas priest - breaking the law (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - breaking the law (live)_e3ec6951)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\judas priest - bloodstone (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - bloodstone_e2fdbc48)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\judas priest - (take these) chains (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\judas priest\judas priest - (take these) chains_01714a9e)
+c:\clone_hero\playerdata\songs\guitar hero encore rocks the 80s\iron maiden - wrathchild (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - wrathchild_d0513bc7)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\iron maiden - wasted years (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - wasted years_bc36fb8b)
+c:\clone_hero\playerdata\songs\rock band blitz\iron maiden - the wicker man (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - the wicker man (2x bass pedal expert+)_91a1572f)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\iron maiden - the trooper (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - the trooper_f4c7d5b0)
+c:\clone_hero\playerdata\songs\guitar hero - smash hits\iron maiden - the trooper (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - the trooper_b088f980)
+c:\clone_hero\playerdata\songs\guitar hero ii\iron maiden - the trooper (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - the trooper_81bc3f4a)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\iron maiden - the prisoner (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - the prisoner_bcc3ef5b)
+c:\clone_hero\playerdata\songs\guitar hero iii\iron maiden - the number of the beast (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - the number of the beast_1d71d3a4)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\iron maiden - the number of the beast (original version) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - the number of the beast (original version)_ed3e3592)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\iron maiden - the clairvoyant (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - the clairvoyant_531ff8ac)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\iron maiden - seventh son of a seventh son (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - seventh son of a seventh son (2x bass pedal expert+)_a0355e6f)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\iron maiden - run to the hills (original version) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - run to the hills (original version)_0b2b4fa8)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\iron maiden - rime of the ancient mariner (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - rime of the ancient mariner_4e17daa6)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\iron maiden - powerslave (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - powerslave_e073ec8e)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\iron maiden - phantom of the opera (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - phantom of the opera_548c48c1)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\iron maiden - iron maiden (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - iron maiden (live)_b6254a17)
+c:\clone_hero\playerdata\songs\02_custom_charts\iron maiden\iron maiden - iron maiden (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - iron maiden)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\iron maiden - infinite dreams (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - infinite dreams_a0b11fd8)
+c:\clone_hero\playerdata\songs\csc monthly selection\iron maiden - heaven can wait (miscellany) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - heaven can wait (miscellany)_f17d22b0)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\iron maiden - hallowed be thy name (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - hallowed be thy name (live)_36e7482c)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\iron maiden - flight of icarus (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - flight of icarus_44a277e3)
+c:\clone_hero\playerdata\songs\02_custom_charts\iron maiden\iron maiden - flash of the blade (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - flash of the blade)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\iron maiden - fear of the dark (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - fear of the dark (live)_22c4eaf0)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\iron maiden - can i play with madness (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - can i play with madness_2d45d305)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\iron maiden - aces high (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - aces high (live)_7cd3235a)
+c:\clone_hero\playerdata\songs\csc monthly selection\iron maiden - aces high (izenpenguin) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - aces high (izenpenguin)_1f8d4a00)
+c:\clone_hero\playerdata\songs\guitar hero 5\iron maiden - 2 minutes to midnight (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - 2 minutes to midnight_a7445a29)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\iron maiden - 2 minutes to midnight (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden - 2 minutes to midnight_4c214a21)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\iron maiden (wavegroup) - the number of the beast (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden (wavegroup) - the number of the beast_1415002a)
+c:\clone_hero\playerdata\songs\rock band 1\iron maiden (wavegroup) - run to the hills (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden (wavegroup) - run to the hills_56bb2470)
+c:\clone_hero\playerdata\songs\02_custom_charts\iron maiden\iron maiden - iron maiden (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden\iron maiden - iron maiden)
+c:\clone_hero\playerdata\songs\02_custom_charts\iron maiden\iron maiden - flash of the blade (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\iron maiden\iron maiden\iron maiden - flash of the blade)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n_ roses - welcome to the jungle (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n_ roses - welcome to the jungle)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n_ roses - welcome to the jungle (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n_ roses\guns n_ roses - welcome to the jungle)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - you're crazy (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n_ roses\guns n' roses - you're crazy)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - used to love her (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n_ roses\guns n' roses - used to love her)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - think about you (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n_ roses\guns n' roses - think about you)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - patience (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n_ roses\guns n' roses - patience)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - nightrain (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n_ roses\guns n' roses - nightrain)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - my michelle (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n_ roses\guns n' roses - my michelle (live))
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - down on the farm (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n_ roses\guns n' roses - down on the farm)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - dead horse (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n_ roses\guns n' roses - dead horse)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - anything goes (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n_ roses\guns n' roses - anything goes)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - you're crazy (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - you're crazy)
+c:\clone_hero\playerdata\songs\guitar hero iii\guns n' roses - welcome to the jungle (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - welcome to the jungle_34df5c9b)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - used to love her (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - used to love her)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - this i love (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - this i love_720010f7)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - think about you (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - think about you)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - there was a time (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - there was a time_de8131fd)
+c:\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\guns n' roses - sweet child o' mine (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - sweet child o' mine_c9b146c5)
+c:\clone_hero\playerdata\songs\guitar hero ii\guns n' roses - sweet child o' mine (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - sweet child o' mine_7de4fb1b)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - street of dreams (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - street of dreams_26f695d0)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - sorry (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - sorry_12b697bf)
+c:\clone_hero\playerdata\songs\rock band 2\guns n' roses - shackler's revenge (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - shackler's revenge_cab365d4)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - scraped (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - scraped_6c0932c7)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - riad n' the bedouins (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - riad n' the bedouins_c73d2754)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - prostitute (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - prostitute (2x bass pedal expert+)_8214670e)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - patience (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - patience)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - nightrain (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - nightrain)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - my michelle (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - my michelle (live))
+c:\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - madagascar (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - madagascar_c6ee035f)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - if the world (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - if the world_4457a652)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - i.r.s (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - i.r.s_1b5900ef)
+c:\clone_hero\playerdata\songs\csc monthly selection\guns n' roses - get in the ring (raspberriel) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - get in the ring (raspberriel)_48accafc)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - down on the farm (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - down on the farm)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - dead horse (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - dead horse)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - chinese democracy (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - chinese democracy_3968e662)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - catcher in the rye (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - catcher in the rye_54b6d03f)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\guns n' roses - better (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - better_108aaae2)
+c:\clone_hero\playerdata\songs\02_custom_charts\guns n_ roses\guns n' roses - anything goes (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\guns n_ roses\guns n' roses - anything goes)
+c:\clone_hero\playerdata\songs\csc monthly selection\dream theater - the looking glass (mintorment) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\dream theater\dream theater - the looking glass (mintorment)_3fbc8235)
+c:\clone_hero\playerdata\songs\csc monthly selection\dream theater - the best of times [7777villain] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\dream theater\dream theater - the best of times [7777villain]_44ac5177)
+c:\clone_hero\playerdata\songs\guitar hero world tour\dream theater - pull me under (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\dream theater\dream theater - pull me under_2524b6bd)
+c:\clone_hero\playerdata\songs\rock band 2\dream theater - panic attack (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\dream theater\dream theater - panic attack (2x bass pedal expert+)_e397f960)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\dream theater - on the backs of angels (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\dream theater\dream theater - on the backs of angels (2x bass pedal expert+)_5456d36a)
+c:\clone_hero\playerdata\songs\csc monthly selection\dream theater - honor thy father (mercuryhg34) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\dream theater\dream theater - honor thy father (mercuryhg34)_691c485f)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\dream theater - constant motion (2x bass pedal expert+) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\dream theater\dream theater - constant motion (2x bass pedal expert+)_5672d949)
+c:\clone_hero\playerdata\songs\csc monthly selection\dream theater - a fortune in lies (peddy, 3-up) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\dream theater\dream theater - a fortune in lies (peddy, 3-up)_deb4dbad)
+c:\clone_hero\playerdata\songs\csc monthly selection\deep purple - you can't do it right (with the one you love) (ohm) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - you can't do it right (with the one you love) (ohm)_2099ee97)
+c:\clone_hero\playerdata\songs\guitar hero 5\deep purple - woman from tokyo ('99 remix) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - woman from tokyo ('99 remix)_d3ee5bae)
+c:\clone_hero\playerdata\songs\guitar hero van halen\deep purple - space truckin_ (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - space truckin__d0cb98d1)
+c:\clone_hero\playerdata\songs\rock band 2 dlc\deep purple - space truckin' (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - space truckin'_bff88265)
+c:\clone_hero\playerdata\songs\guitar hero ii dlc\deep purple - smoke on the water (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - smoke on the water_ec38c83a)
+c:\clone_hero\playerdata\songs\rock band 3\deep purple - smoke on the water (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - smoke on the water_dceaab22)
+c:\clone_hero\playerdata\songs\guitar hero - smash hits\deep purple - smoke on the water (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - smoke on the water_9fe4f353)
+c:\clone_hero\playerdata\songs\guitar hero\deep purple - smoke on the water (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - smoke on the water_7ce1a4e5)
+c:\clone_hero\playerdata\songs\guitar hero ii\deep purple - hush (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - hush_cc3fce51)
+c:\clone_hero\playerdata\songs\rock band 1\deep purple - highway star (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - highway star_8c164fb5)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\deep purple - child in time (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - child in time_3cdfa9d4)
+c:\clone_hero\playerdata\songs\csc monthly selection\deep purple - child in time (live) [raspberriel] (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - child in time (live) [raspberriel]_f8d88ffa)
+c:\clone_hero\playerdata\songs\guitar hero - warriors of rock\deep purple - burn (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\deep purple\deep purple - burn_399b792b)
+c:\clone_hero\playerdata\songs\02_custom_charts\danzig\danzig - twist of cain (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\danzig\danzig - twist of cain)
+c:\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\danzig - mother (co-op) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\danzig\danzig - mother (co-op))
+c:\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\danzig - mother (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\danzig\danzig - mother)
+c:\clone_hero\playerdata\songs\02_custom_charts\danzig\danzig - long way back from hell (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\danzig\danzig - long way back from hell)
+c:\clone_hero\playerdata\songs\02_custom_charts\danzig\danzig - killer wolf (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\danzig\danzig - killer wolf)
+c:\clone_hero\playerdata\songs\02_custom_charts\danzig\danzig - i'm the one (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\danzig\danzig - i'm the one)
+c:\clone_hero\playerdata\songs\02_custom_charts\danzig\danzig - devil's plaything (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\danzig\danzig - devil's plaything)
+c:\clone_hero\playerdata\songs\guitar hero world tour\airbourne - too much, too young, too fast (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\airbourne\airbourne - too much, too young, too fast_26239159)
+c:\clone_hero\playerdata\songs\rock band 1 dlc\airbourne - runnin' wild (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\airbourne\airbourne - runnin' wild_a004ff85)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\aerosmith - walk this way (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - walk this way_75034c61)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\aerosmith - sweet emotion (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - sweet emotion_ba6d4085)
+c:\clone_hero\playerdata\songs\guitar hero iii\aerosmith - same old song & dance (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - same old song & dance_3031e261)
+c:\clone_hero\playerdata\songs\guitar hero 5 dlc\aerosmith - rag doll (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - rag doll_23bfb891)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\aerosmith - lover alot (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - lover alot_f639b45a)
+c:\clone_hero\playerdata\songs\guitar hero 5 dlc\aerosmith - love in an elevator (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - love in an elevator_ffedd977)
+c:\clone_hero\playerdata\songs\guitar hero 5 dlc\aerosmith - livin' on the edge (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - livin' on the edge_429e7ec5)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\aerosmith - legendary child (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - legendary child_89a84670)
+c:\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\aerosmith - last child (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - last child_d1859796)
+c:\clone_hero\playerdata\songs\guitar hero ii\aerosmith - last child (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - last child_68418e1c)
+c:\clone_hero\playerdata\songs\guitar hero ii late 06 retail demo\aerosmith - last child (co-op) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - last child (co-op)_e6aed64b)
+c:\clone_hero\playerdata\songs\guitar hero ii\aerosmith - last child (co-op) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - last child (co-op)_93107301)
+c:\clone_hero\playerdata\songs\guitar hero iii dlc\aerosmith - dream on (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - dream on_6785488a)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\aerosmith - dream on (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - dream on (live)_a8be961b)
+c:\clone_hero\playerdata\songs\guitar hero - warriors of rock\aerosmith - cryin' (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - cryin'_e5e1924b)
+c:\clone_hero\playerdata\songs\rock band 3 dlc\aerosmith - back in the saddle (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - back in the saddle_d9555080)
+c:\clone_hero\playerdata\songs\guitar hero - smash hits\aerosmith - back in the saddle (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith - back in the saddle_7bd14535)
+c:\clone_hero\playerdata\songs\rock band 1\aerosmith (wavegroup) - train kept a rollin' (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith (wavegroup) - train kept a rollin'_c8dc72ef)
+c:\clone_hero\playerdata\songs\rock band 1\aerosmith (wavegroup) - train kept a rollin' (vocal version) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\aerosmith\aerosmith (wavegroup) - train kept a rollin' (vocal version)_644fba65)
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - you shook me all night long (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - you shook me all night long (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - whole lotta rosie (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - whole lotta rosie (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - thunderstruck (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - thunderstruck (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - the jack (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - the jack (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - t.n.t. (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - t.n.t. (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - shoot to thrill (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - shoot to thrill (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - moneytalks (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - moneytalks (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - let there be rock (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - let there be rock (live))
+c:\clone_hero\playerdata\songs\rock band 2\acdc - let there be rock (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - let there be rock)
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - jailbreak (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - jailbreak (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - highway to hell (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - highway to hell (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - high voltage (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - high voltage (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - hells bells (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - hells bells (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - hell ain't a bad place to be (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - hell ain't a bad place to be (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - heatseeker (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - heatseeker (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - for those about to rock (we salute you) (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - for those about to rock (we salute you) (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - fire your guns (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - fire your guns (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - dirty deeds done dirt cheap (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - dirty deeds done dirt cheap (live))
+c:\clone_hero\playerdata\songs\rock band acdc live track pack\acdc - back in black (live) (c:\clone_hero\playerdata\songs\01_heiners_drum_favourites\acdc\acdc - back in black (live))
 
 ERROR: These folders contain charts that don't have any supported instruments charted!
-/home/floozie/.clonehero/Songs/Rock Band Network/Freen in Green - Halftime
-/home/floozie/.clonehero/Songs/Green Day Rock Band/Green Day - Song of the Century
+c:\clone_hero\playerdata\songs\rock band network\freen in green - halftime
+c:\clone_hero\playerdata\songs\green day rock band\green day - song of the century
