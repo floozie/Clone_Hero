@@ -2,31 +2,111 @@ Warning: These folders contain lyrics that do not have matching vocal note event
 This warning has no effect on charts currently, but they will not work properly in the future when/if vocals support is pursued.
 c:\clone_hero\clone hero_data\streamingassets\songs\no known suspects.sng
 c:\clone_hero\clone hero_data\streamingassets\songs\troopers of the stars.sng
-c:\clone_hero\playerdata\songs\00-favourites\metallica - whiplash
-c:\clone_hero\playerdata\songs\00-favourites\metallica - wherever i may roam
-c:\clone_hero\playerdata\songs\00-favourites\metallica - welcome home (sanitarium)
-c:\clone_hero\playerdata\songs\00-favourites\metallica - the shortest straw
-c:\clone_hero\playerdata\songs\00-favourites\metallica - the memory remains
-c:\clone_hero\playerdata\songs\00-favourites\metallica - seek and destroy
-c:\clone_hero\playerdata\songs\00-favourites\metallica - sad but true
-c:\clone_hero\playerdata\songs\00-favourites\metallica - nothing else matters
-c:\clone_hero\playerdata\songs\00-favourites\metallica - no leaf clover
-c:\clone_hero\playerdata\songs\00-favourites\metallica - mercyful fate
-c:\clone_hero\playerdata\songs\00-favourites\metallica - master of puppets
-c:\clone_hero\playerdata\songs\00-favourites\metallica - king nothing
-c:\clone_hero\playerdata\songs\00-favourites\metallica - hit the lights
-c:\clone_hero\playerdata\songs\00-favourites\metallica - fuel
-c:\clone_hero\playerdata\songs\00-favourites\metallica - frantic
-c:\clone_hero\playerdata\songs\00-favourites\metallica - fight fire with fire
-c:\clone_hero\playerdata\songs\00-favourites\metallica - disposable heroes
-c:\clone_hero\playerdata\songs\00-favourites\metallica - creeping death
+c:\clone_hero\playerdata\songs\01-favourites\zz top - sharp dressed man (live)
+c:\clone_hero\playerdata\songs\01-favourites\zz top - gimme all your lovin'
+c:\clone_hero\playerdata\songs\01-favourites\wolfmother - dimension
+c:\clone_hero\playerdata\songs\01-favourites\wolfmother - cosmic egg
+c:\clone_hero\playerdata\songs\01-favourites\wolfmother - back round
+c:\clone_hero\playerdata\songs\01-favourites\van halen - you really got me
+c:\clone_hero\playerdata\songs\01-favourites\van halen - unchained
+c:\clone_hero\playerdata\songs\01-favourites\van halen - somebody get me a doctor
+c:\clone_hero\playerdata\songs\01-favourites\van halen - so this is love
+c:\clone_hero\playerdata\songs\01-favourites\van halen - runnin_ with the devil
+c:\clone_hero\playerdata\songs\01-favourites\van halen - romeo delight
+c:\clone_hero\playerdata\songs\01-favourites\van halen - panama
+c:\clone_hero\playerdata\songs\01-favourites\van halen - mean street
+c:\clone_hero\playerdata\songs\01-favourites\van halen - loss of control
+c:\clone_hero\playerdata\songs\01-favourites\van halen - jump
+c:\clone_hero\playerdata\songs\01-favourites\van halen - jamie_s cryin_
+c:\clone_hero\playerdata\songs\01-favourites\van halen - i_m the one
+c:\clone_hero\playerdata\songs\01-favourites\van halen - intruder (oh) pretty woman
+c:\clone_hero\playerdata\songs\01-favourites\van halen - ice cream man
+c:\clone_hero\playerdata\songs\01-favourites\van halen - hot for teacher
+c:\clone_hero\playerdata\songs\01-favourites\van halen - hear about it later
+c:\clone_hero\playerdata\songs\01-favourites\van halen - hang _em high
+c:\clone_hero\playerdata\songs\01-favourites\van halen - feel your love tonight
+c:\clone_hero\playerdata\songs\01-favourites\van halen - everybody wants some!!
+c:\clone_hero\playerdata\songs\01-favourites\van halen - dance the night away
+c:\clone_hero\playerdata\songs\01-favourites\van halen - beautiful girls
+c:\clone_hero\playerdata\songs\01-favourites\van halen - atomic punk
+c:\clone_hero\playerdata\songs\01-favourites\van halen - and the cradle will rock
+c:\clone_hero\playerdata\songs\01-favourites\van halen - ain_t talkin_ _bout love
+c:\clone_hero\playerdata\songs\01-favourites\twisted sister - we're not gonna take it
+c:\clone_hero\playerdata\songs\01-favourites\twisted sister - i wanna rock
+c:\clone_hero\playerdata\songs\01-favourites\the rolling stones - under my thumb (live)
+c:\clone_hero\playerdata\songs\01-favourites\the rolling stones - sympathy for the devil
+c:\clone_hero\playerdata\songs\01-favourites\the rolling stones - stray cat blues
+c:\clone_hero\playerdata\songs\01-favourites\the rolling stones - prodigal son (live)
+c:\clone_hero\playerdata\songs\01-favourites\the rolling stones - i'm free (live)
+c:\clone_hero\playerdata\songs\01-favourites\the rolling stones - honky tonk women
+c:\clone_hero\playerdata\songs\01-favourites\the rolling stones - (i can't get no) satisfaction (live)
+c:\clone_hero\playerdata\songs\01-favourites\the police - demolition man (live)
+c:\clone_hero\playerdata\songs\01-favourites\suicidal tendencies - war inside my head
+c:\clone_hero\playerdata\songs\01-favourites\soundgarden - my wave
+c:\clone_hero\playerdata\songs\01-favourites\pantera - i'm broken
+c:\clone_hero\playerdata\songs\01-favourites\pantera - cowboys from hell
+c:\clone_hero\playerdata\songs\01-favourites\ozzy osbourne - bark at the moon
+c:\clone_hero\playerdata\songs\01-favourites\nirvana - negative creep
+c:\clone_hero\playerdata\songs\01-favourites\nirvana - lithium (live)
+c:\clone_hero\playerdata\songs\01-favourites\mötley crüe - looks that kill
+c:\clone_hero\playerdata\songs\01-favourites\mötley crüe - girls girls girls
+c:\clone_hero\playerdata\songs\01-favourites\muse - uprising
+c:\clone_hero\playerdata\songs\01-favourites\muse - supermassive black hole
+c:\clone_hero\playerdata\songs\01-favourites\muse - resistance
+c:\clone_hero\playerdata\songs\01-favourites\motörhead - overkill
+c:\clone_hero\playerdata\songs\01-favourites\motörhead - love me like a reptile
+c:\clone_hero\playerdata\songs\01-favourites\motörhead - jailbait
+c:\clone_hero\playerdata\songs\01-favourites\motörhead - ace of spades
+c:\clone_hero\playerdata\songs\01-favourites\metallica - whiplash
+c:\clone_hero\playerdata\songs\01-favourites\metallica - wherever i may roam
+c:\clone_hero\playerdata\songs\01-favourites\metallica - welcome home (sanitarium)
+c:\clone_hero\playerdata\songs\01-favourites\metallica - the shortest straw
+c:\clone_hero\playerdata\songs\01-favourites\metallica - the memory remains
+c:\clone_hero\playerdata\songs\01-favourites\metallica - seek and destroy
+c:\clone_hero\playerdata\songs\01-favourites\metallica - sad but true
+c:\clone_hero\playerdata\songs\01-favourites\metallica - nothing else matters
+c:\clone_hero\playerdata\songs\01-favourites\metallica - no leaf clover
+c:\clone_hero\playerdata\songs\01-favourites\metallica - mercyful fate
+c:\clone_hero\playerdata\songs\01-favourites\metallica - master of puppets
+c:\clone_hero\playerdata\songs\01-favourites\metallica - king nothing
+c:\clone_hero\playerdata\songs\01-favourites\metallica - hit the lights
+c:\clone_hero\playerdata\songs\01-favourites\metallica - fuel
+c:\clone_hero\playerdata\songs\01-favourites\metallica - frantic
+c:\clone_hero\playerdata\songs\01-favourites\metallica - fight fire with fire
+c:\clone_hero\playerdata\songs\01-favourites\metallica - disposable heroes
+c:\clone_hero\playerdata\songs\01-favourites\metallica - creeping death
+c:\clone_hero\playerdata\songs\01-favourites\metallica - all nightmare long
+c:\clone_hero\playerdata\songs\01-favourites\megadeth - this day we fight!
+c:\clone_hero\playerdata\songs\01-favourites\megadeth - peace sells
+c:\clone_hero\playerdata\songs\01-favourites\megadeth - holy wars... the punishment due
+c:\clone_hero\playerdata\songs\01-favourites\megadeth - hangar 18
+c:\clone_hero\playerdata\songs\01-favourites\led zeppelin - the song remains the same [guitarzero132]
+c:\clone_hero\playerdata\songs\01-favourites\korn - freak on a leash
+c:\clone_hero\playerdata\songs\01-favourites\kiss - rock and roll all nite
+c:\clone_hero\playerdata\songs\01-favourites\kiss - modern day delilah
+c:\clone_hero\playerdata\songs\01-favourites\kiss - lick it up
+c:\clone_hero\playerdata\songs\01-favourites\kiss - i was made for lovin' you
+c:\clone_hero\playerdata\songs\01-favourites\judas priest - painkiller
+c:\clone_hero\playerdata\songs\01-favourites\judas priest - hell bent for leather
+c:\clone_hero\playerdata\songs\01-favourites\judas priest - electric eye
+c:\clone_hero\playerdata\songs\01-favourites\diamond head - am i evil
+c:\clone_hero\playerdata\songs\01-favourites\deep purple - woman from tokyo ('99 remix)
+c:\clone_hero\playerdata\songs\01-favourites\danzig - mother
+c:\clone_hero\playerdata\songs\01-favourites\alice cooper - welcome to my nightmare
+c:\clone_hero\playerdata\songs\01-favourites\alice cooper - school's out
+c:\clone_hero\playerdata\songs\01-favourites\alice cooper - no more mr. nice guy
+c:\clone_hero\playerdata\songs\01-favourites\alice cooper - elected
+c:\clone_hero\playerdata\songs\01-favourites\aerosmith - rag doll
+c:\clone_hero\playerdata\songs\01-favourites\aerosmith - love in an elevator
+c:\clone_hero\playerdata\songs\01-favourites\aerosmith - livin' on the edge
+c:\clone_hero\playerdata\songs\01-favourites\aerosmith - cryin'
 
 ERROR: These folders either have no valid metadata file (song.ini), or the metadata does not include a valid song name!
-c:\clone_hero\playerdata\songs\00-favourites\metallica - some kind of monster\1x bass pedal
-c:\clone_hero\playerdata\songs\00-favourites\metallica - hate train\1x bass pedal
-c:\clone_hero\playerdata\songs\00-favourites\metallica - dirty window\1x bass pedal
-c:\clone_hero\playerdata\songs\00-favourites\megadeth - sweating bullets\1x bass pedal
+c:\clone_hero\playerdata\songs\01-favourites\metallica - some kind of monster\1x bass pedal
+c:\clone_hero\playerdata\songs\01-favourites\metallica - hate train\1x bass pedal
+c:\clone_hero\playerdata\songs\01-favourites\metallica - dirty window\1x bass pedal
+c:\clone_hero\playerdata\songs\01-favourites\megadeth - sweating bullets\1x bass pedal
 
 ERROR: These folders contain charts that another song has (duplicate charts)!
-c:\clone_hero\playerdata\songs\00-favourites\metallica - bleeding me (multitrack) (c:\clone_hero\playerdata\songs\00-favourites\metallica - bleeding me)
+c:\clone_hero\playerdata\songs\01-favourites\metallica - bleeding me (multitrack) (c:\clone_hero\playerdata\songs\01-favourites\metallica - bleeding me)
 
